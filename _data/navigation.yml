@@ -1,0 +1,21 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: Community
+    url: /community/
+  - title: Calendar
+    url: /calendar/
+  - title: In The News
+    url: /in-the-news/
+  - title: About
+    collection: about
+  - title: Read
+    resource_room: true
