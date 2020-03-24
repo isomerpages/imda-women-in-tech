@@ -2,6 +2,7 @@
 title: COVID-19: 65-Yr-Old Passes Away in Mumbai; Maha State Toll at 3
 permalink: /covid/
 ---
+
 ### **COVID-19: 65-Yr-Old Passes Away in Mumbai; Maha State Toll at 3**
 
 A 65-year-old COVID-19 patient, who was admitted at Mumbai’s Kasturba Hospital, passed away on Monday. He had travel history to UAE. This takes Maharashtra’s death toll to three and the country’s to 10.
