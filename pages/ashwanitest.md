@@ -1,5 +1,5 @@
 ---
-title: COVID
+title: COVID-19: 65-Yr-Old Passes Away in Mumbai; Maha State Toll at 3
 permalink: /covid/
 ---
 
