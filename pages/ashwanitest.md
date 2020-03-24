@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: COVID
 permalink: /faq1/
 ---
 
