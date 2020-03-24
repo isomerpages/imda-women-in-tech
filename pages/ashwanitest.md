@@ -1,6 +1,6 @@
 ---
-title: COVID
-permalink: /ashwanitest/
+title: FAQ
+permalink: /faq1/
 ---
 
 ### **COVID-19: 65-Yr-Old Passes Away in Mumbai; Maha State Toll at 3**
