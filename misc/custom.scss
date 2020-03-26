@@ -345,4 +345,11 @@ $desktop: 960px + (2 * $gap) !default;
     letter-spacing: 0;
     line-height: 4.25rem;
 }
+	  
+@media screen and (max-width: 767px){
+.display {
+    font-size: 2.25rem;
+    line-height: 3.25rem;
+	}
+ }
 
