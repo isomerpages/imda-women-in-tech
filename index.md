@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Women In Tech
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
