@@ -9,7 +9,7 @@ sections:
     - hero:
         title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
         subtitle: Hero subtitle
-        background: /images/hero-banner-new.png
+        background: /images/home-page-banner.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
