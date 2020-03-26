@@ -340,7 +340,9 @@ $desktop: 960px + (2 * $gap) !default;
 	  
 	  
 // Added by Ashwani Kumar
-#notification-bar{background-color:#8c274f;}
+#notification-bar{background-color:#8c274f !important;}
+#key-highlights{background-color:#4e8949 !important}
+.has-text-secondary{color:#363636 !important}
 .display {
     font-size: 3.25rem;
     letter-spacing: 0;
