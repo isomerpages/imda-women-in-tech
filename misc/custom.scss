@@ -352,7 +352,12 @@ $desktop: 960px + (2 * $gap) !default;
     letter-spacing: 0;
     line-height: 4.25rem;
 }
-	  
+@media screen and (min-width: 1024px){
+.bp-hero-body .row {
+    height: 500px;
+    min-height: 500px;
+}
+}	
 @media screen and (max-width: 767px){
 .display {
     font-size: 2rem;
