@@ -8,9 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
     - hero:
         title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
-        subtitle: Hero subtitle
         background: /images/home-page-banner.jpg
-        button: Contact Us
         url: /contact-us/
         key_highlights:
             - title: Highlight A
