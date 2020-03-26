@@ -10,14 +10,14 @@ sections:
         title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
         background: /images/home-page-banner.jpg
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: 2500+
+              description: Lorem Ipsum
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: 1500+
+              description: Lorem Ipsum
               url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
+            - title: 300+
+              description: Lorem Ipsum
               url: /privacy/
     - infobar:
         title: Infobar title
