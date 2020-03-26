@@ -3,7 +3,8 @@
 ---
 
 @charset "utf-8";
-
+$primary: #c71e61;
+$secondary: #363636;
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
@@ -208,9 +209,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
-// Added by Ashwani Kumar
 
-.bp-hero-body{display:none !important}
 	  
 // Navbar
 .navbar{
@@ -338,3 +337,8 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+	  
+	  
+// Added by Ashwani Kumar
+
+.bp-hero-body{display:none}
