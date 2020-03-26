@@ -3,8 +3,7 @@
 ---
 
 @charset "utf-8";
-$primary: #c71e61;
-$secondary: #363636;
+
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
@@ -343,6 +342,7 @@ $desktop: 960px + (2 * $gap) !default;
 #notification-bar{background-color:#8c274f !important;}
 #key-highlights{background-color:#4e8949 !important}
 .has-text-secondary{color:#363636 !important}
+#key-highlights .col { border-left: 1px solid #545353 !important;}
 .display {
     font-size: 3.25rem;
     letter-spacing: 0;
