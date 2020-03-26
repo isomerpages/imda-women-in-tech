@@ -208,7 +208,8 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 }
-
+// Added by Ashwani Kumar
+	  .display padding--bottom--lg margin--none {display:none;}
 // Navbar
 .navbar{
   &-start{
