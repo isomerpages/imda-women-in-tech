@@ -339,8 +339,8 @@ $desktop: 960px + (2 * $gap) !default;
 	  
 	  
 // Added by Ashwani Kumar
-.bp-sec-button{ color: #c71e61 !important;}
-.bp-section.bp-section-pagetitle{background-color:#c71e61!important}
+.bp-sec-button,.navbar .navbar-item:hover a{ color: #c71e61 !important;}
+.bp-section.bp-section-pagetitle,.navbar .navbar-item:hover .selector{background-color:#c71e61!important}
 .bp-sec-button span { border-bottom: 2px solid #c71e61!important;}
 #notification-bar{background-color:#8c274f !important;}
 #key-highlights,.media-card-plain{background-color:#4e8949 !important}
