@@ -2,4 +2,4 @@
 title: Contact
 permalink: /contact/
 ---
-Please contact at [sgwomenintech@gmail.com](sgwomenintech@gmail.com)
+Please contact at [sgwomenintech@gmail.com](emailto:sgwomenintech@gmail.com)
