@@ -3,8 +3,10 @@ title: Calendar
 permalink: /calendar/
 ---
 # Calendar 1
-Date : 25-03-2020\
-Location : China\
+Date : 25-03-2020
+  
+Location : China
+
 Description : We are going to arrange an event for global warming. Your participation is requested.
 # Calendar 2
 Date : 20-03-2020\
