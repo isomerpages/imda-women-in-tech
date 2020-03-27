@@ -11,11 +11,11 @@ navlinks:
   - title: 100 WIT
     url: /100-wit/
     sublinks:
-  - title: Community
-    url: /community/
-  - title: Calendar
-    url: /calendar/
-  - title: In The News
-    url: /in-the-news/
-  - title: Get Involved
-    collection: get-involved
+      - title: Community
+        url: /community/
+      - title: Calendar
+        url: /calendar/
+      - title: In The News
+        url: /in-the-news/
+      - title: Get Involved
+        collection: get-involved
