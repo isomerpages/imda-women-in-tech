@@ -6,6 +6,8 @@ social_media:
 navlinks:
   - title: About
     collection: about
+  - title: Get Involved
+    collection: get-involved
   - title: Read
     resource_room: true
   - title: 100 WIT
@@ -17,5 +19,3 @@ navlinks:
         url: /calendar/
       - title: In The News
         url: /in-the-news/
-      - title: Get Involved
-        collection: get-involved
