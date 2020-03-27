@@ -10,6 +10,7 @@ navlinks:
     resource_room: true
   - title: 100 WIT
     url: /100-wit/
+    sublinks:
   - title: Community
     url: /community/
   - title: Calendar
