@@ -338,30 +338,5 @@ $desktop: 960px + (2 * $gap) !default;
 }
 	  
 	  
-// Added by Ashwani Kumar
-.bp-sec-button,.navbar .navbar-item:hover a{ color: #c71e61 !important;}
-.bp-section.bp-section-pagetitle,.navbar .navbar-item:hover .selector{background-color:#c71e61!important}
-.bp-sec-button span { border-bottom: 2px solid #c71e61!important;}
-#notification-bar{background-color:#8c274f !important;}
-#key-highlights,.media-card-plain{background-color:#4e8949 !important}
-.has-text-secondary{color:#363636 !important}
-#key-highlights .col:hover { background-color: #333235 !important;}
-#key-highlights .col { border-left: 1px solid #545353 !important;}
-.display {
-    font-size: 3.25rem;
-    letter-spacing: 0;
-    line-height: 4.25rem;
-}
-@media screen and (min-width: 1024px){
-.bp-hero-body .row {
-    height: 500px;
-    min-height: 500px;
-}
-}	
-@media screen and (max-width: 767px){
-.display {
-    font-size: 2rem;
-    line-height: 3rem;
-	}
- }
+
 
