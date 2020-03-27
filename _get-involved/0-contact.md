@@ -1,4 +1,5 @@
 ---
-title: Team
-permalink: /about/team/
+title: Contact
+permalink: /contact/
 ---
+Please contact at sgwomenintech@gmail.com
