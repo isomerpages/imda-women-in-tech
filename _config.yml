@@ -22,6 +22,9 @@ colors:
 collections:
   about:
     output: true
+  get-involved:
+    output: true
+
 resources_name: read
 
 ##################################################################################################################
