@@ -6,14 +6,14 @@ social_media:
 navlinks:
   - title: About
     collection: about
+  - title: Read
+    resource_room: true
   - title: 100 WIT
     url: /100-wit/
   - title: Community
     url: /community/
   - title: Calendar
     url: /calendar/
-  - title: Read
-    resource_room: true
   - title: In The News
     url: /in-the-news/
   - title: Get Involved
