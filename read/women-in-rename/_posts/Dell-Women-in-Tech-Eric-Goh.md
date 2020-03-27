@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Dell - Women in Tech - Eric Goh
-permalink: /read/women-in-tech/post3
+permalink: /read/women-in-tech/Dell-Women-in-Tech-Eric-Goh
 ---
 Encouraging gender diversity in Singapore’s tech sector
 Eric Goh, Vice President and Managing Director, Singapore, Dell Technologies
