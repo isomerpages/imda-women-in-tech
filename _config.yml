@@ -23,6 +23,7 @@ collections:
   about:
     output: true
 resources_name: read
+resources_name: news
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
