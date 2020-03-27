@@ -1,13 +1,6 @@
-logo: /images/company-logo.png
-
 terms_of_use: /terms-of-use/
-privacy_policy: /privacy-policy/
-cookie_policy: /cookie-policy/
 social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    linkedin: https://www.linkedin.com/company/YourAgency
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
+    linkedin: https://www.linkedin.com/company/sgwomenintech/
 # If navlinks are the same as your navigation bar, you can omit this section entirely!
 navlinks:
   - title: About
