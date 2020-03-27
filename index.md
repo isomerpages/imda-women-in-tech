@@ -33,7 +33,4 @@ sections:
         url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
     - resources:
         title: News
-    - resources:
-        title: Events
-
 ---
