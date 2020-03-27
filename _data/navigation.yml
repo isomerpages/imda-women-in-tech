@@ -7,15 +7,17 @@
 logo: /images/company-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: About
+    collection: about
+  - title: 100 WIT
+    url: /100-wit/
   - title: Community
     url: /community/
   - title: Calendar
     url: /calendar/
-  - title: In The News
-    url: /in-the-news/
-  - title: About
-    collection: about
   - title: Read
     resource_room: true
+  - title: In The News
+    url: /in-the-news/
+  - title: Get Involved
+    collection: get-involved

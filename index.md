@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Women In Tech
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -10,14 +10,14 @@ sections:
         title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
         background: /images/home-page-banner.jpg
         key_highlights:
-            - title: 2500+
-              description: Lorem Ipsum
+            - title: 1000+
+              description: Followers
               url: https://google.com
-            - title: 1500+
-              description: Lorem Ipsum
+            - title: 5+
+              description: Lead Initiatives
               url: https://gmail.com
-            - title: 300+
-              description: Lorem Ipsum
+            - title: 8 & 48 
+              description: Mentors & Mentees
               url: /privacy/
     - infobar:
         title: ABOUT US
@@ -32,8 +32,8 @@ sections:
         button: Apply
         url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
     - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
----
+        title: News
+    - resources:
+        title: Events
 
+---

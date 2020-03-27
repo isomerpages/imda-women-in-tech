@@ -1,6 +1,6 @@
 title: Title
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 
 # Site colors
 colors:
@@ -23,6 +23,8 @@ collections:
   about:
     output: true
 resources_name: read
+resources_name: news
+resources_name: event
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
