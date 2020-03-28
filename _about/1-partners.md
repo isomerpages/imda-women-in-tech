@@ -2,6 +2,11 @@
 title: Partners
 permalink: /about/partners/
 ---
-![Partners Logo](../images/imda.png)
-![Partners Logo](../images/sg.png)
-![Partners Logo](../images/atd.png)
+<div class="row padding--bottom">
+  <div class="col">![Partners Logo](../images/imda.png)</div>
+  <div class="col">![Partners Logo](../images/sg.png)</div>
+  <div class="col">![Partners Logo](../images/atd.png)</div>
+ </div>
+
+
+
