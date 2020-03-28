@@ -1,6 +1,6 @@
 ---
 layout: resources
 title: In The News
-resources:
+resources: news
 permalink: /in-the-news/
 ---
