@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  Lenovo IWD article
 permalink: /read/general/Lenovo-IWD-article
