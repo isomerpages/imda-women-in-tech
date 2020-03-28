@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title:  Lenovo IWD article
-permalink: /read/sports/Lenovo-IWD-article
+permalink: /read/general/Lenovo-IWD-article
 ---
 Building the business with a diverse workforce
 By Sumir Bhatia, President, Lenovo Data Centre Group Asia Pacific and Site Leader, Lenovo Singapore 
