@@ -11,6 +11,8 @@ navlinks:
     resource_room: true
   - title: 100 WIT
     url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
+  - title: Community
+    collection: community
     sublinks:
       - title: Calendar
         url: /calendar/
