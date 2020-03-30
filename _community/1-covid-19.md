@@ -1,5 +1,5 @@
 ---
-title: Community - Covid 19
+title: Covid 19
 permalink: /community/covid-19/
 ---
 <h2>20/20/20</h2>
