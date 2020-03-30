@@ -1,5 +1,5 @@
 ---
-title: Community - Women in Tech Summit
+title: Women in Tech Summit
 permalink: /community/women-in-tech-summit/
 ---
 <h2>Women in Tech Summit</h2>
