@@ -1,5 +1,5 @@
 ---
-title: Partners
+title: Partners changed
 permalink: /about/partners/
 ---
 <h2>Our Partners</h2>
