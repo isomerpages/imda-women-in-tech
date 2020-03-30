@@ -1,5 +1,5 @@
 ---
-title: Community Students Ask: Women in Tech
+title: Community - Students Ask - Women in Tech
 permalink: /community/students-ask-women-in-tech/
 ---
 <h2>Students Ask: Women in Tech</h2>
