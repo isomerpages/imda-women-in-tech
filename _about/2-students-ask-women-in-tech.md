@@ -1,6 +1,6 @@
 ---
-title: Community - Students Ask- Women in Tech
-permalink: /community/students-ask-women-in-tech/
+title: Students Ask- Women in Tech
+permalink: /about/students-ask-women-in-tech/
 ---
 <h2>Students Ask: Women in Tech</h2>
 
@@ -51,13 +51,13 @@ permalink: /community/students-ask-women-in-tech/
 	<tr><td>Beatty Secondary School</td></tr>
 	<tr><td>Cedar Girls' Secondary School</td></tr>
 	<tr><td>CHIJ Secondary</td></tr>
-	<tr><td>CHIJ St. Theresa’s Convent </td></tr>
+	<tr><td>CHIJ St. Theresaâ€™s Convent </td></tr>
 	<tr><td>Commonwealth Secondary School</td></tr>
-	<tr><td>Crescent Girls’ School </td></tr>
+	<tr><td>Crescent Girlsâ€™ School </td></tr>
 	<tr><td>Damai Secondary School </td></tr>
 	<tr><td>Fairfield Methodist School (Secondary)</td></tr>
 	<tr><td>Hillgrove Secondary School </td></tr>
-	<tr><td>Holy Innocents’ High School</td></tr>
+	<tr><td>Holy Innocentsâ€™ High School</td></tr>
 	<tr><td>Juying Secondary School</td></tr>
 	<tr><td>Loyang View Secondary School</td></tr>
 	<tr><td>Northbrooks Secondary School</td></tr>
