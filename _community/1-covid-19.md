@@ -1,6 +1,6 @@
 ---
-title: Community 20/20/20
-permalink: /community/20-20-20/
+title: Community Covid - 19
+permalink: /community/covid-19/
 ---
 <h2>20/20/20</h2>
 
