@@ -22,9 +22,6 @@ colors:
 collections:
   about:
     output: true
-  community:
-    output: true
-
 resources_name: read
 #resources_name: news
 
