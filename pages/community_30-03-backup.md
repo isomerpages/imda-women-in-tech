@@ -1,6 +1,6 @@
 ---
 title: Community
-permalink: /community/
+#permalink: /community/
 ---
 <h2>20/20/20</h2>
 <strong>Postponed till further notice due to COVID-19 situation – Do watch this space for update</strong>
