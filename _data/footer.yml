@@ -7,12 +7,12 @@ social_media:
 navlinks:
   - title: About
     collection: about
+  - title: Community
+    collection: community
   - title: Read
     resource_room: true
   - title: 100 WIT
     url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
-  - title: Community
-    url: /community/
     sublinks:
       - title: Calendar
         url: /calendar/
