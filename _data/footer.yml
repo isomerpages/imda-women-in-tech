@@ -7,8 +7,6 @@ social_media:
 navlinks:
   - title: About
     collection: about
-  - title: Community
-    collection: community
   - title: Read
     resource_room: true
   - title: 100 WIT
