@@ -15,11 +15,7 @@ permalink: /community/students-ask-women-in-tech/
 <p><strong>Ms Stephanie Hung</strong></p>
 <p>Senior Vice President of ST Engineering, providing cloud and edge computing, analytics, and artificial intelligence to customers</p>
 <p><img src="/images/stephanie-hung.jpg"/></p>
-<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832">https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832</a></p>
-<p><a href="https://www.facebook.com/IMDAsg/videos/639024646900001">https://www.facebook.com/IMDAsg/videos/639024646900001</a></p>
-<p><a href="https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link">https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link</a></p>
-<p><a href="https://youtu.be/1gBy0A5wt6w">https://youtu.be/1gBy0A5wt6w</a></p>
-<p><a href="https://twitter.com/IMDAsg/status/1236475037030309891">https://twitter.com/IMDAsg/status/1236475037030309891</a></p>
+<p>Watch Stephanie’s video on <a href="https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832">Linkedin</a>, <a href="https://www.facebook.com/IMDAsg/videos/639024646900001">Facebook</a>, <a href="https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link">Instagram</a>, <a href="https://youtu.be/1gBy0A5wt6w">Youtube</a> and <a href="https://twitter.com/IMDAsg/status/1236475037030309891">Twitter</a>!</p>
 <p><strong>List of Companies</strong></p>
 <table>
 	<tr><td>Accenture</td></tr>
