@@ -62,4 +62,3 @@ permalink: /community/students-ask-women-in-tech/
 	<tr><td>Riverside Secondary School</td></tr>
 	<tr><td>Woodlands Ring Secondary School </td></tr>
 </table>
-Watch the videos on [Facebook](https://www.facebook.com/), [Instagram](https://www.instagram.com/?hl=en), [Youtube](https://www.youtube.com/) and [Twitter](https://twitter.com/login).
