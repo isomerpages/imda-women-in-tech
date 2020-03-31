@@ -8,7 +8,7 @@ permalink: /community/students-ask-women-in-tech/
 
 <p>Link to photos for Video Shoot with Ayesha and Stephanie: <a href="https://photos.app.goo.gl/W5Y8Wgtj1bZZbnwAA">https://photos.app.goo.gl/W5Y8Wgtj1bZZbnwAA</a> </p>
 <p><strong>Dr Ayesha Khanna</strong></p>
-<p><img src="/images/ayesha.jpeg"/></p>
+<p><img src="/images/ayesha.jpg"/></p>
 <p>Co-Founder and CEO of ADDO AI, an artificial intelligence (AI) solutions firm and incubator</p>
 <p><a href="https://www.linkedin.com/posts/sgwomenintech_internationalwomensday-sgwomenintech-tech-activity-6642215022351224832-Kvn6">https://www.linkedin.com/posts/sgwomenintech_internationalwomensday-sgwomenintech-tech-activity-6642215022351224832-Kvn6</a></p>
 <p><a href="https://www.facebook.com/IMDAsg/videos/309549806672062/">https://www.facebook.com/IMDAsg/videos/309549806672062/</a></p>
@@ -18,7 +18,7 @@ permalink: /community/students-ask-women-in-tech/
 
 <p><strong>Ms Stephanie Hung</strong></p>
 <p>Senior Vice President of ST Engineering, providing cloud and edge computing, analytics, and artificial intelligence to customers</p>
-<p><img src="/images/stephanie-hung.jpeg"/></p>
+<p><img src="/images/stephanie-hung.jpg"/></p>
 <p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832">https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832</a></p>
 <p><a href="https://www.facebook.com/IMDAsg/videos/639024646900001">https://www.facebook.com/IMDAsg/videos/639024646900001</a></p>
 <p><a href="https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link">https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link</a></p>
