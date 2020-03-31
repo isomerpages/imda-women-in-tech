@@ -15,8 +15,6 @@ permalink: /calendar/
 		<p><strong>Description:</strong> An engaging and interactive event that teaches woman the dos and don’ts of leading. ‘ This session, based on the ground breaking research of cross-cultural psychologist, Dr Gilles Spony, will equip you with a range of skills and techniques that will have immediate application and impact in working in a highly connected, global world’</p>
 		<a href="https://www.eventbrite.com/e/leading-in-a-global-world-tickets-96607891805?aff=ebdssbdestsearch" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
 	</div>
-</div>
-<div class="row padding--bottom">	
 	<div class="col">
 		<h4 class="has-text-white padding--bottom--lg"><strong>Factory (Super)Women </strong></h4>
 		<p><strong>Date of Event:</strong> 8 May 2020 </p>
@@ -29,8 +27,6 @@ permalink: /calendar/
 		<p><strong>Description:</strong> A free workshop to discover an online turn-key platform to easily start your new online business. Women Must Help Women is a community of mumpreneurs who runs an online business. Our vision is to help as many women to build a successful online business.</p>
 		<a href="https://www.eventbrite.sg/e/women-must-help-women-registration-65803936345?aff=ebdssbdestsearch" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
 	</div>
-</div>
-<div class="row padding--bottom">	
 	<div class="col">
 		<h4 class="has-text-white padding--bottom--lg"><strong>Global Woman Club Singapore Business Networking Brunch </strong></h4>
 		<p><strong>Date of Event:</strong> Multiple </p>
@@ -52,7 +48,3 @@ permalink: /calendar/
 		<a href="https://primetime.org.sg/event-detail/?id=115" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
 	</div>
 </div>
-
-
-
-
