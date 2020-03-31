@@ -9,19 +9,14 @@ permalink: /community/students-ask-women-in-tech/
 <p>Link to photos for Video Shoot with Ayesha and Stephanie: <a href="https://photos.app.goo.gl/W5Y8Wgtj1bZZbnwAA">https://photos.app.goo.gl/W5Y8Wgtj1bZZbnwAA</a> </p>
 <p><strong>Dr Ayesha Khanna</strong></p>
 <p>Co-Founder and CEO of ADDO AI, an artificial intelligence (AI) solutions firm and incubator</p>
-<p><a href="https://www.linkedin.com/posts/sgwomenintech_internationalwomensday-sgwomenintech-tech-activity-6642215022351224832-Kvn6">https://www.linkedin.com/posts/sgwomenintech_internationalwomensday-sgwomenintech-tech-activity-6642215022351224832-Kvn6</a></p>
-<p><a href="https://www.facebook.com/IMDAsg/videos/309549806672062/">https://www.facebook.com/IMDAsg/videos/309549806672062/</a></p>
-<p><a href="https://www.instagram.com/tv/B9dPtvsI64J/?utm_source=ig_web_copy_link">https://www.instagram.com/tv/B9dPtvsI64J/?utm_source=ig_web_copy_link</a></p>
-<p><a href="https://youtu.be/S03bRSe1QCw">https://youtu.be/S03bRSe1QCw</a></p>
-<p><a href="https://twitter.com/IMDAsg/status/1236472968139509765">https://twitter.com/IMDAsg/status/1236472968139509765</a></p>
+<p>Watch Ayesha’s video on <a href="https://www.linkedin.com/posts/sgwomenintech_internationalwomensday-sgwomenintech-tech-activity-6642215022351224832-Kvn6">Linkedin</a>, <a href="https://www.facebook.com/IMDAsg/videos/309549806672062/">Facebook</a>, <a href="https://www.instagram.com/tv/B9dPtvsI64J/?utm_source=ig_web_copy_link">Instagram</a>, <a href="https://youtu.be/S03bRSe1QCw">Youtube</a> and <a href="https://twitter.com/IMDAsg/status/1236472968139509765">Twitter</a>!
+</p>
 
 <p><strong>Ms Stephanie Hung</strong></p>
 <p>Senior Vice President of ST Engineering, providing cloud and edge computing, analytics, and artificial intelligence to customers</p>
-<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832">https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832</a></p>
-<p><a href="https://www.facebook.com/IMDAsg/videos/639024646900001">https://www.facebook.com/IMDAsg/videos/639024646900001</a></p>
-<p><a href="https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link">https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link</a></p>
-<p><a href="https://youtu.be/1gBy0A5wt6w">https://youtu.be/1gBy0A5wt6w</a></p>
-<p><a href="https://twitter.com/IMDAsg/status/1236475037030309891">https://twitter.com/IMDAsg/status/1236475037030309891</a></p>
+<p>
+Watch Stephanie’s video on <a href="https://www.linkedin.com/feed/update/urn:li:activity:6642230636696440832">Linkedin</a>, <a href="https://www.facebook.com/IMDAsg/videos/639024646900001">Facebook</a>, <a href="https://www.instagram.com/tv/B9dRgB8osWC/?utm_source=ig_web_copy_link">Instagram</a>, <a href="https://youtu.be/1gBy0A5wt6w">Youtube</a> and <a href="https://twitter.com/IMDAsg/status/1236475037030309891">Twitter</a>!
+</p>
 <p><strong>List of Companies</strong></p>
 <table>
 	<tr><td>Accenture</td></tr>
@@ -68,4 +63,3 @@ permalink: /community/students-ask-women-in-tech/
 	<tr><td>Riverside Secondary School</td></tr>
 	<tr><td>Woodlands Ring Secondary School </td></tr>
 </table>
-Watch the videos on [Facebook](https://www.facebook.com/), [Instagram](https://www.instagram.com/?hl=en), [Youtube](https://www.youtube.com/) and [Twitter](https://twitter.com/login).
