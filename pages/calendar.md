@@ -89,7 +89,8 @@ Women Must Help Women is a community of mumpreneurs who runs an online business.
 			<li>$35</li>
 			<li>Registration closing time – 430 pm</li>
 		</ul>
-		<p>A workshop where we woman can have the opportunity to discover and practice some coaching skills;/p>
+		<p>A workshop where we woman can have the opportunity to discover and practice some coaching skills;</p>
+			
 		-	A new manager
 			
 		-	Business case for coaching in a corporate environment
