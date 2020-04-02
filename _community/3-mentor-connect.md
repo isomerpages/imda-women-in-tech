@@ -3,7 +3,7 @@ title: Mentor Connect
 permalink: /community/mentor-connect/
 ---
 <h2>Mentor Connect </h2>
-![Mentor Connect](../images/mentor-connect-1.jpg)
+![Mentor Connect](../../images/mentor-connect-1.jpg)
 
 <p><img src="/images/mentor-connect2.jpg"/></p>
 Dell Technologies, IMDA, Salesforce and ST Engineering announced a one-year collaboration to launch Singapore’s first MentorConnect programme - a cross-company mentorship programme dedicated to diversity and inclusion in the workplace.
