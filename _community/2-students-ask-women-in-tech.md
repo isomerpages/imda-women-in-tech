@@ -6,7 +6,6 @@ permalink: /community/students-ask-women-in-tech/
 
 <p>Check out two prominent female tech leaders in Singapore answering questions from our students.</p>
 
-<p>Link to photos for Video Shoot with Ayesha and Stephanie: <a href="https://photos.app.goo.gl/W5Y8Wgtj1bZZbnwAA">https://photos.app.goo.gl/W5Y8Wgtj1bZZbnwAA</a> </p>
 <p><strong>Dr Ayesha Khanna</strong></p>
 <p><img src="/images/ayesha.jpg"/></p>
 <p>Co-Founder and CEO of ADDO AI, an artificial intelligence (AI) solutions firm and incubator</p>
