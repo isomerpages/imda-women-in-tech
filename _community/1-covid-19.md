@@ -15,3 +15,49 @@ The 20/20/20 initiative aims to foster interest in a tech career at a young age,
 •	The learning journey is opened to female students (including some boys) who are interested in STEM and infocomm media-related subjects.
 
 •	The participating companies come from a mix of sectors, including games, e-commerce, telecoms, financial payments and government agencies.
+
+###List of Companies
+
+1.	Accenture
+2.	Acronis
+3.	Cyber Security Agency of Singapore 
+4.	Dell Technologies 
+5.	Facebook 
+6.	Google 
+7.	GovTech
+8.	IBM Singapore & IBM ASEAN
+9.	IMDA/Pixel
+10.	Lazada
+11.	Mastercard Asia-Pacific 
+12.	Microsoft 
+13.	Salesforce
+14.	SAP
+15.	Singtel
+16.	Shopee
+17.	STEE
+18.	Unity
+19.	Visa
+20.	Zilingo
+
+###List of Secondary Schools
+
+1.	Ahmad Ibrahim Secondary School
+2.	Beatty Secondary School 
+3.	Cedar Girls’ Secondary School
+4.	CHIJ Secondary School
+5.	CHIJ St. Theresa’s Convent
+6.	Commonwealth Secondary School
+7.	Crescent Girls’ School
+8.	Damai Secondary School
+9.	Fairfield Methodist School (Secondary)
+10.	Hillgrove Secondary School
+11.	Holy Innocents’ High School 
+12.	Juying Secondary School 
+13.	Loyang View Secondary School
+14.	Northbrooks Secondary School
+15.	Paya Lebar Methodist Girls’ School
+16.	Pei Hwa Secondary School
+17.	Peirce Secondary School
+18.	Queenstown Secondary School 
+19.	Riverside Secondary School 
+20.	Woodlands Ring Secondary School
