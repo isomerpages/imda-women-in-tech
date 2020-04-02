@@ -16,7 +16,7 @@ navlinks:
     sublinks:
       - title: Calendar
         url: /calendar/
-      - title: In The News
-        url: /in-the-news/
+      #- title: In The News
+       # url: /in-the-news/
       - title: Get Involved
         url: /contact/
