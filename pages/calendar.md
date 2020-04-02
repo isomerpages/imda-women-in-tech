@@ -7,17 +7,13 @@ permalink: /calendar/
 	<div class="col">
 		<h4 class="has-text-white padding--bottom--lg"><strong>GLOBAL WOMEN CHANGE MAKERS 2020</strong></h4>
 		<p><img src="/images/glolbal-women-change-banner.jpg"/></p>
-
-* 17-18 April 2020
-
-* Day 1 @ Marina and
-
-* Day 2 @ Home of Theatreworks
-
-* she1K.com/womenchangemakers
-
-* $140 - $262.38
-		
+		<ul>
+			<li>17-18 April 2020</li>
+			<li>Day 1 @ Marina and</li>
+			<li>Day 2 @ Home of Theatreworks</li>
+			<li>she1K.com/womenchangemakers</li>
+			<li>$140 - $262.38</li>
+		</ul>		
 		<p>Women change makers is an experiential event where C-level executives talk candidly about their biggest personal changes they went through and the impact it made on their lives. We are happy to be bringing our 12th WomenChangemakers to Singapore on Apr 17 to 18 2020. This is our largest and first time as a 2 -day event.</p>
 		<a href="https://www.eventbrite.com/e/global-womenchangemakers-2020-apr-17-18-tickets-97443224307?aff=ebdssbdestsearch" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
 	</div>
