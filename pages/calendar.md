@@ -90,17 +90,11 @@ Women Must Help Women is a community of mumpreneurs who runs an online business.
 			<li>Registration closing time – 430 pm</li>
 		</ul>
 		<p>A workshop where we woman can have the opportunity to discover and practice some coaching skills;</p>
-			
-		-	A new manager
-			
-		-	Business case for coaching in a corporate environment
-		
-		-	Essential coaching skills- presentation and practice
-		
-		-	Coaching session: Demo, Model, Triad practice
-		
-		-	Lastly there would be a session reflection on how they would like to change their management style moving forward.
-			
+		<p>-	A new manager</p>
+		<p>-	Business case for coaching in a corporate environment </p>
+		<p>-	Essential coaching skills- presentation and practice </p>
+		<p>-	Coaching session: Demo, Model, Triad practice</p>
+		<p>-	Lastly there would be a session reflection on how they would like to change their management style moving forward.</p>			
 		<p>Geraldine Gauthier & Ariane Jaubert facilitates this workshop.</p>
 		<a href="https://primetime.org.sg/event-detail/?id=115" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
 	</div>
