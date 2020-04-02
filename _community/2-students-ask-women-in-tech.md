@@ -4,7 +4,7 @@ permalink: /community/students-ask-women-in-tech/
 ---
 <h2>Students Ask: Women in Tech</h2>
 
-<p>Check out two prominent female tech leaders in Singapore answering questions from our students!</>
+<p>Check out two prominent female tech leaders in Singapore answering questions from our students!</p>
 
 <p><strong>Dr Ayesha Khanna</strong></p>
 <p><img src="/images/ayesha.jpg"/></p>
