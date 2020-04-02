@@ -3,7 +3,8 @@ title: Women in Tech Summit
 permalink: /community/women-in-tech-summit/
 ---
 <h2>Women in Tech Summit</h2>
-**<Postponed till further notice due to COVID-19 situation – Do watch this space for updates!>**
+
+**Postponed till further notice due to COVID-19 situation – Do watch this space for updates!**
 
 The Women in Tech Summit aims to:
 
