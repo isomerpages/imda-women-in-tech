@@ -16,7 +16,7 @@ The 20/20/20 initiative aims to foster interest in a tech career at a young age,
 
 •	The participating companies come from a mix of sectors, including games, e-commerce, telecoms, financial payments and government agencies.
 
-###List of Companies
+### List of Companies
 
 1.	Accenture
 2.	Acronis
@@ -39,7 +39,7 @@ The 20/20/20 initiative aims to foster interest in a tech career at a young age,
 19.	Visa
 20.	Zilingo
 
-###List of Secondary Schools
+### List of Secondary Schools
 
 1.	Ahmad Ibrahim Secondary School
 2.	Beatty Secondary School 
