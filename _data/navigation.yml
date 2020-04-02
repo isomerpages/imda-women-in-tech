@@ -9,7 +9,7 @@ logo: /images/company-logo.png
 links:
   - title: About
     collection: about
-  - title: 100 WIT
+  - title: 100 SG Woment in Tech
     url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
   - title: Community
     collection: community
@@ -17,7 +17,7 @@ links:
     url: /calendar/
   - title: Read
     resource_room: true
-  - title: In The News
-    url: /in-the-news/
+  #- title: In The News
+   # url: /in-the-news/
   - title: Get Involved
     url: /contact/
