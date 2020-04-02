@@ -12,10 +12,10 @@ It aims to provide mentoring, leadership and networking opportunities for Singap
 For its first edition in 2019, each of the four organisations will contribute two mentors and 12 mentees each, with women mentees only for the inaugural edition.
 <p><strong>Mentors from the four organisations are: </strong></p>
 
-• Dell: Eric Goh, Vice President & Managing Director, Singapore and Lena Yam, Senior Director, Dell Financial Services, Asia Pacific & Japan
+• **Dell**: Eric Goh, Vice President & Managing Director, Singapore and Lena Yam, Senior Director, Dell Financial Services, Asia Pacific & Japan
 
-• IMDA: Jane Lim, Assistant Chief Executive, Sectoral Transformation Group and Howie Lau, Chief Industry Development Office, Industry Development Group
+• **IMDA**: Jane Lim, Assistant Chief Executive, Sectoral Transformation Group and Howie Lau, Chief Industry Development Office, Industry Development Group
 
-• Salesforce: Renzo Taal, Senior Vice President, Asia and Cecily Ng, Area Vice President, Enterprise
+• **Salesforce**: Renzo Taal, Senior Vice President, Asia and Cecily Ng, Area Vice President, Enterprise
 
-• ST Engineering: Jeanette Chia, Senior Vice President, Human Resources and Stephanie Hung, Senior Vice President, Singapore Business and Electronics sector
+• **ST Engineering**: Jeanette Chia, Senior Vice President, Human Resources and Stephanie Hung, Senior Vice President, Singapore Business and Electronics sector
