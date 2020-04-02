@@ -6,8 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALSS
-        background: /images/home-page-banner1.jpg
+        title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
+        background: /images/home-page-banner.jpg
         key_highlights:
             - title: 1000+
               description: Followers
