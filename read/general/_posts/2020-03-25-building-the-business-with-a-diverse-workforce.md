@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Lenovo IWD article
-permalink: /read/general/Lenovo-IWD-article
+title:  Building the business with a diverse workforce
+permalink: /read/general/building-the-business-with-a-diverse-workforce
 ---
 Building the business with a diverse workforce
 By Sumir Bhatia, President, Lenovo Data Centre Group Asia Pacific and Site Leader, Lenovo Singapore 
-
+<p><img src="/images/read3.jpg"/></p>
+Sumir Bhatia (fourth from left) 
 While it is important to understand how a company can support and promote diversity, it is important first to understand why it is important. 
 For example, one key area is the world of artificial intelligence. When developing biometric solutions or smart devices, a diverse data set is needed to serve a diverse population of both men and women around the world.  In our AI solutions, we account for the different facial structures and finger sizes of men and women, as well as skin colours and voices. We are putting special attention on developing this diverse data set.
 Another area where diversity is crucial is in reframing our understanding of our customer market. In the volatile consumer PC market, gaming is one bright area. What if we could access the growing market of female gamers? For this reason, in Asia Pacific, this year we launched the “Legion of Valkyries”, an online gaming tournament which aims to support women in the gaming community.
