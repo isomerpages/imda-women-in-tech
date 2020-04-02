@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Dell - Women in Tech - Eric Goh
-permalink: /read/women-in-tech/Dell-Women-in-Tech-Eric-Goh
+title:  Encouraging gender diversity in Singapore’s tech sector
+permalink: /read/women-in-tech/encouraging-gender-diversity-in-singapore-tech-sector
 ---
 Encouraging gender diversity in Singapore’s tech sector
 Eric Goh, Vice President and Managing Director, Singapore, Dell Technologies
-
+<p><img src="/images/read1.jpg"/></p>
 “If we cannot now end our differences, at least we can help make the world safe for diversity.” - John F. Kennedy
 
 As a leader passionate about creating a workplace that embraces gender diversity, I sometimes think about President John F. Kennedy’s address at a commencement ceremony at American University in 1963. Whilst he said this in the context of world peace, I find it still a relevant and important sentiment in how business leaders must encourage diverse talent at the workplace. 
@@ -30,5 +30,4 @@ We were the first IT company to participate in programmes like Many Advocating R
 
 It’s also essential to address the barriers that prevent success, and that’s why we established the Dell Women’s Entrepreneurship Network (DWEN) in 2009 to help like-minded women share best practices and access resources and technologies to support business growth. And the reason DWEN is good is because of mentorship. In 2019, we launched MentorConnect in Singapore to offer mentorship opportunities for female leaders so they can build their networks, develop new skills and gain insights in areas such as negotiations and personal branding. I love mentoring, and I think every leader should do this to understand challenges. 
 
-While the tech industry in Singapore is still grappling with achieving balanced gender representation, it has the right ingredients to encourage and nurture gender diversity. Echoing the essence of President Kennedy’s words, let’s be mindful of the gender differences and direct attention to common interests as well as how we can celebrate diversity and inclusivity. Achieving gender diversity and even more so, equality, is a journey, not a sprint, and it’s never a zero-sum game, where one group wins and the other loses. 
-
+While the tech industry in Singapore is still grappling with achieving balanced gender representation, it has the right ingredients to encourage and nurture gender diversity. Echoing the essence of President Kennedy’s words, let’s be mindful of the gender differences and direct attention to common interests as well as how we can celebrate diversity and inclusivity. Achieving gender diversity and even more so, equality, is a journey, not a sprint, and it’s never a zero-sum game, where one group wins and the other loses.
