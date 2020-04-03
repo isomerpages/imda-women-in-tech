@@ -13,6 +13,8 @@ Dr Ayesha Khanna answers questions in a special video series called Students Ask
 
 She is co-founder and CEO of ADDO AI, an artificial intelligence (AI) solutions firm and incubator.
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6642214356325101568" height="1043" width="504" frameborder="0" allowfullscreen="" title="Embedded post"><\iframe>
+
 <p>Watch Ayesha’s video on <a href="https://www.linkedin.com/posts/sgwomenintech_internationalwomensday-sgwomenintech-tech-activity-6642215022351224832-Kvn6">Linkedin</a>, <a href="https://www.facebook.com/IMDAsg/videos/309549806672062/">Facebook</a>, <a href="https://www.instagram.com/tv/B9dPtvsI64J/?utm_source=ig_web_copy_link">Instagram</a>, <a href="https://youtu.be/S03bRSe1QCw">Youtube</a> and <a href="https://twitter.com/IMDAsg/status/1236472968139509765">Twitter</a>!</p>
 
 <p><strong>Ms Stephanie Hung</strong></p>
