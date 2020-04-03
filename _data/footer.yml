@@ -10,7 +10,7 @@ navlinks:
   - title: Read
     resource_room: true
   - title: 100 SG Women in Tech
-    url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
+    url: /100-sg-women-in-tech/
   - title: Community
     collection: community
     sublinks:
