@@ -7,9 +7,10 @@ permalink: /about/partners/
   <div class="col"><img src="/images/imda.png"/></div>
   <div class="col"><img src="/images/sgi.jpg"/></div>
   <div class="col"><img src="/images/sg-com-so.jpg"/></div>
+ </div>
+<div class="row padding--bottom">
   <div class="col"><img src="/images/rice.jpg"/></div>
   <div class="col"><img src="/images/atd.png"/></div>
  </div>
-
 
 
