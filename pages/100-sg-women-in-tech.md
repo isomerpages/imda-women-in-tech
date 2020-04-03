@@ -10,17 +10,14 @@ SG Women In Tech in partnership with the Singapore Computer Society (SCS) and Me
 
 The list aims to celebrate the diversity of roles and role models in the dynamic infocomm technology industry, encourage girls and women interested to pursue a career in the tech sector as well as those who are currently already in this sector.
 
-Nominees will be considered for: :
-
-· business leadership and vision
-
-· technology skills
-
-· adventurous spirit, courage and boldness
-
-· community advocacy
-
-· contributions to the tech industry and its development.
+Nominees will be considered for:
+<ul>
+  <li>business leadership and vision</li>
+  <li>technology skills</li>
+  <li>adventurous spirit, courage and boldness</li>
+  <li>community advocacy</li>
+  <li>contributions to the tech industry and its development.</li>
+</ul>
 
 The 100 SG Women in Tech list will be looking for individuals who have made the headlines or influenced important developments over the past 12 months, as well as those who have inspiring stories to tell, achieved something significant or influenced the communities in ways that might not typically make the news. The pool of names will then be assessed against this year's theme – The Diversity of Female in Tech.
 
