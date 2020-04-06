@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
+        title: SG WOMEN IN TECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
         background: /images/home-page-banner.jpg
         key_highlights:
             - title: Girls In Education
