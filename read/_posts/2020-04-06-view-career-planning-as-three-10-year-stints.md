@@ -4,8 +4,8 @@ title:  (GIC) View career planning as three 10-year stints
 permalink: /read/view-career-planning-as-three-10-year-stints
 ---
 
-(GIC) View career planning as three 10-year stints
-By Wu Choy Peng, Group CTO, GIC
+<p>(GIC) View career planning as three 10-year stints</p>
+<p>By Wu Choy Peng, Group CTO, GIC</p>
 
 Planning a career in tech is a challenge. Rapid technology changes make it difficult to identify what specific jobs will be emerge in three to five years’ time. 
 
