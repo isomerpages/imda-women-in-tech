@@ -6,7 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        title: SG WOMEN IN TECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
+        title: SG WOMEN IN TECH
+        description: Attracting and Developing Girls and Women in Tech
         background: /images/home-page-banner.jpg
         key_highlights:
             - title: Girls In Education
