@@ -9,15 +9,12 @@ sections:
         title: SGWOMENINTECH IS A COMMUNITY FOR FEMALE TECH PROFESSIONALS
         background: /images/home-page-banner.jpg
         key_highlights:
-            - title: 1000+
-              description: Followers
-              url: https://google.com
-            - title: 5+
-              description: Lead Initiatives
-              url: https://gmail.com
-            - title: 8 & 48 
-              description: Mentors & Mentees
-              url: /privacy/
+            - title: Girls In Education
+              description: Provide girls with more knowledge about tech careers
+            - title: Women in Workforce
+              description: Encourage mentorship and networking for younger women
+            - title: Tech Sector
+              description: Engage tech companies and community groups to do more together
     - infobar:
         title: ABOUT US
         subtitle:
