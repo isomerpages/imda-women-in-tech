@@ -7,7 +7,7 @@ permalink: /
 sections:
     - hero:
         title: SG WOMEN IN TECH
-        description: Attracting and Developing Girls and Women in Tech
+        subtitle: Attracting and Developing Girls and Women in Tech
         background: /images/home-page-banner.jpg
         key_highlights:
             - title: Girls In Education
