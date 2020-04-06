@@ -2,7 +2,7 @@
 layout: post
 title:  Encouraging gender diversity in Singapore’s tech sector
 permalink: /read/encouraging-gender-diversity-in-singapore-tech-sector
-breadcrumb: 
+breadcrumb: By Eric Goh
 ---
 Encouraging gender diversity in Singapore’s tech sector
 Eric Goh, Vice President and Managing Director, Singapore, Dell Technologies
