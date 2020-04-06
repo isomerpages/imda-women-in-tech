@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Women In Tech
+title: SG Women In Tech
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
