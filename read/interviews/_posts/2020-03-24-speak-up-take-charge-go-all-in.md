@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Speak Up, Take Charge, Go All In
-permalink: /read/interviews/speak-up-take-charge-go-all-in
+permalink: /read/speak-up-take-charge-go-all-in
 ---
 Speak Up, Take Charge, Go All In
 
