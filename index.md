@@ -19,9 +19,9 @@ sections:
     - infopic:
         title: ABOUT US
         subtitle:
-        description: Read about our launch [here](https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech).
-        button: 
-        url: 
+        description: Read about our launch.
+        button: here
+        url: https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech
         image: /images/AboutUs.jpeg
         alt: About Us
 
