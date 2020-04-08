@@ -12,9 +12,9 @@ locations:
     operating_hours:
       - days: Mon-Thu
         time: 8.30am-6.00pm
-        description: (except public holidays)
       - days: Fri
         time: 8.30am-5.30pm
+        description: (except public holidays)
 contacts:
   - title: General Enquiries
     content:
