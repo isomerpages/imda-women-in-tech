@@ -19,7 +19,8 @@ sections:
     - infopic:
         title: ABOUT US
         subtitle:
-        description: Read about our launch.
+        description: An initiative driven by the Infocomm Media Development Authority (IMDA) and supported by community and industry partners, SG Women In Tech aims to attract, retain and develop women talent across a diversity of jobs in the infocomm workforce. 
+SG Women In Tech believes in the value of a diverse workforce and looks to improve perceptions of tech/infocomm careers, and to establish Singapore as a progressive thought leader in having a globally attractive environment and a supportive ecosystem for infocomm talent.Read about our launch.
         button: here
         url: https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech
         image: /images/AboutUs.jpeg
