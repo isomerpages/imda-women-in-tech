@@ -12,6 +12,7 @@ sections:
         key_highlights:
             - title: Girls In Education
               description: Provide girls with more knowledge about tech careers
+              image: /images/misson-icon.png
             - title: Women in Workforce
               description: Encourage mentorship and networking for younger women
             - title: Tech Sector
