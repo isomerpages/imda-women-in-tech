@@ -13,4 +13,10 @@ permalink: /about/partners/
   <div class="col"><img src="/images/atd.png"/></div>
  </div>
 
+SG Women In Tech aims to:
 
+1.     Raise awareness that diversity and inclusion are better for business
+
+2.     Attract and develop more girls and women in tech
+
+3.     Establish SG as a global leader in having an excellent environment of support for women in tech
