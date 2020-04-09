@@ -4,18 +4,21 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/company-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Community
-    url: /community/
-  - title: Calendar
-    url: /calendar/
-  - title: In The News
-    url: /in-the-news/
   - title: About
     collection: about
+  - title: 100 SG Women in Tech
+    url: /100-sg-women-in-tech/
+  - title: Community
+    collection: community
+  - title: Calendar
+    url: /calendar/
   - title: Read
-    resource_room: true
+    url: /read/
+    #resource_room: true
+  #- title: In The News
+   # url: /in-the-news/
+  - title: Get Involved
+    url: /contact/

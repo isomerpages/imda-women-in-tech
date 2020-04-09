@@ -1,6 +1,6 @@
-title: Title
+title: SG Women In Tech
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 
 # Site colors
 colors:
@@ -22,6 +22,9 @@ colors:
 collections:
   about:
     output: true
+  community:
+    output: true
+    
 resources_name: read
 
 ##################################################################################################################
@@ -48,4 +51,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
