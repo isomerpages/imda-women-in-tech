@@ -6,7 +6,7 @@ permalink: /calendar/
 <div class="row padding--bottom">
 	<div class="col">
 		<h4 class="has-text-white padding--bottom--lg"><strong>GLOBAL WOMEN CHANGE MAKERS 2020</strong></h4>
-		<p><img src="/images/glolbal-women-change-banner.jpg"/></p>
+		<p><img src="/images/women_changemakers.png"/></p>
 		<ul>
 			<li>17-18 April 2020</li>
 			<li>Day 1 @ Marina and</li>
