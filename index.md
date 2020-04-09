@@ -32,5 +32,5 @@ sections:
         button: Apply
         url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
     - resources:
-        title: Read
+        title: READ
 ---
