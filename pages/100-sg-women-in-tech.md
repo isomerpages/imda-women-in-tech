@@ -26,3 +26,5 @@ The call for nominations will take place from 30 March 2020 to 30 April 2020.
 Please access the nomination form [here](https://form.gov.sg/#!/5e58e10ef64a6600116a4205).
 
 Read the press release [here](https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2020/SG-Women-in-Tech-Rallies-Community-And-Industry).
+
+For FAQs, click [here](https://www.scs.org.sg/events/FrequentlyAskedQuestions_FAQs_on_100SingaporeWomenInTech.pdf).
