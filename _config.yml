@@ -45,6 +45,7 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+is_government: false
 plugins:
   - jekyll-feed
   - jekyll-assets
