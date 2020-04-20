@@ -12,6 +12,7 @@ sections:
         key_highlights:
             - title: Girls In Education
               description: Provide girls with more knowledge about tech careers
+              image: /images/misson-icon.png
             - title: Women in Workforce
               description: Encourage mentorship and networking for younger women
             - title: Tech Sector
@@ -19,7 +20,7 @@ sections:
     - infopic:
         title: ABOUT US
         subtitle:
-        description: An initiative driven by the Infocomm Media Development Authority (IMDA) and supported by community and industry partners, SG Women In Tech aims to attract, retain and develop women talent across a diversity of jobs in the infocomm workforce. SG Women In Tech believes in the value of a diverse workforce and looks to improve perceptions of tech/infocomm careers, and to establish Singapore as a progressive thought leader in having a globally attractive environment and a supportive ecosystem for infocomm talent. Read about our launch <a href="https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech">here</a>.
+        description: An initiative driven by the Infocomm Media Development Authority (IMDA) and supported by community and industry partners, SG Women In Tech aims to attract, retain and develop women talent across a diversity of jobs in the infocomm workforce. Read about our launch <a href="https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech">here</a>.
         button: 
         url: 
         image: /images/AboutUs.jpeg
@@ -29,8 +30,9 @@ sections:
         subtitle: Please complete the form to apply
         title: 100 SG WOMEN IN TECH
         description: The list will be looking for individuals who have made the headlines or influenced important stories over the past 12 months, as well as those who have inspiring stories to tell, achieved something significant or influenced the communities in ways that might not typically make the news. The pool of names will then be assessed against this year's theme – The Diversity of Female in Tech. The call for nominations will take place from 30 March 2020 to 30 April 2020. Please access the nomination form here.                      <img src="/images/social-A.jpg"/>
-        button: Apply
+        button: NOMINATE
         url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
     - resources:
-        title: Read
+        title: READ
+        button: READ MORE
 ---

@@ -5,7 +5,7 @@ favicon: /images/favicon.ico
 # Site colors
 colors:
   primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  secondary-color: '#ad62aa'
   media-colors:
     - title: media-color-one
       color: '#49759a'
@@ -45,6 +45,7 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+is_government: false
 plugins:
   - jekyll-feed
   - jekyll-assets
