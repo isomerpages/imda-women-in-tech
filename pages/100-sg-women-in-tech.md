@@ -6,7 +6,7 @@ permalink: /100-sg-women-in-tech/
 
 <p><img src="/images/Edm-A.jpg"/></p>
 
-SG Women In Tech in partnership with the Singapore Computer Society (SCS) and Mediacorp has launched the inaugural 100 SG Women In Tech list, to recognise women based in Singapore who have made significant contributions in the tech sector.
+SG Women In Tech in partnership with Singapore Computer Society (SCS), Infocomm Media Development Authority (IMDA) and Mediacorp has launched the inaugural 100 SG Women In Tech list, to recognize women based in Singapore who have made significant contributions in the tech sector.
 
 The list aims to celebrate the diversity of roles and role models in the dynamic infocomm technology industry, encourage girls and women interested to pursue a career in the tech sector as well as those who are currently already in this sector.
 
