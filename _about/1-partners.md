@@ -3,8 +3,8 @@ title: Partners
 permalink: /about/partners/
 ---
 <h2>Our Partners</h2>
-<div class="row padding--bottom">
-  <div class="col"><img src="/images/imda.png"/></div>
+
+  <img src="/images/imda.png"/ style="width:400; height:101">
 </div>
 <div class="row padding--bottom">
   <div class="col"><img src="/images/sgi.png"/></div>
