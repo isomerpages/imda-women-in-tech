@@ -4,19 +4,12 @@ permalink: /about/partners/
 ---
 <h2>Our Partners</h2>
 
-  <img src="/images/imda.png" alt="1" style="width:400; height:101">
-<div class="row padding--bottom">
-  <div class="col"><img src="/images/sgi.png"/></div>
-</div>
-<div class="row padding--bottom">
-  <div class="col"><img src="/images/sg-com-so.jpg"/></div>
-</div>
-<div class="row padding--bottom">
-  <div class="col"><img src="/images/rice.jpg"/></div>
-</div>
-<div class="row padding--bottom">
-  <div class="col"><img src="/images/atd.png"/></div>
-</div>
+<img src="/images/imda.png" alt="1" style="width:400; height:101">
+<img src="/images/sgi.png" alt="2">
+<img src="/images/sg-com-so.jpg" alt="3">
+<img src="/images/rice.jpg" alt="4">
+<img src="/images/atd.png" alt="5">
+
 
 SG Women In Tech aims to:
 
