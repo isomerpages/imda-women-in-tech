@@ -5,9 +5,13 @@ permalink: /about/partners/
 <h2>Our Partners</h2>
 
 <img src="/images/imda.png" alt="1" style="width:165px; height:42px">
+
 <img src="/images/sgi.png" alt="2" style="width:165px; height:128px">
+
 <img src="/images/sg-com-so.jpg" alt="3" style="width:165px; height:91px">
+
 <img src="/images/rice.jpg" alt="4" style="width:165px; height:35px">
+
 <img src="/images/atd.png" alt="5" style="width:165px; height:22px">
 
 
