@@ -5,7 +5,6 @@ permalink: /about/partners/
 <h2>Our Partners</h2>
 
   <img src="/images/imda.png" alt="1" style="width:400; height:101">
-</div>
 <div class="row padding--bottom">
   <div class="col"><img src="/images/sgi.png"/></div>
 </div>
