@@ -2,7 +2,7 @@
 title: Calendar
 permalink: /calendar/
 ---
-<h4>Shopee Code League</h4>
+<h4><strong>Shopee Code League</strong></h4>
 
 ![1](/images/calendar/EDM-Shopee-Code-League.jpg)
 
