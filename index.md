@@ -29,9 +29,17 @@ sections:
     - infobar:
         subtitle: Please complete the form to apply
         title: 100 SG WOMEN IN TECH
-        description: The list will be looking for individuals who have made the headlines or influenced important stories over the past 12 months, as well as those who have inspiring stories to tell, achieved something significant or influenced the communities in ways that might not typically make the news. The pool of names will then be assessed against this year's theme – The Diversity of Female in Tech. The call for nominations will take place from 30 March 2020 to 30 April 2020. Please access the nomination form here.                      <img src="/images/social-A.jpg"/>
+        description: The list will be looking for individuals who have made the headlines or influenced important stories over the past 12 months, as well as those who have inspiring stories to tell, achieved something significant or influenced the communities in ways that might not typically make the news.<img src="/images/social-A.jpg"/>
         button: NOMINATE
         url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
+        
+    - infobar:
+        subtitle: 
+        title: Shopee Code League
+        description: <img src="/images/homepage/FB IG 1.jpg">
+        button: Sign Up
+        url: /calendar/
+        
     - resources:
         title: READ
         button: READ MORE
