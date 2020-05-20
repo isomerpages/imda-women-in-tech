@@ -36,8 +36,7 @@ sections:
     - infobar:
         subtitle: 
         title: Shopee Code League
-        description: <img src="/images/homepage/FB IG 1.jpg" usemap="#image-map"><map name="image-map">
-    <area target="_self" alt="" title="" href="/calendar/" coords="348,952,732,1035" shape="rect"></map>
+        description: <img src="/images/homepage/FB IG 1.jpg">
         button: Sign Up
         url: /calendar/
         
