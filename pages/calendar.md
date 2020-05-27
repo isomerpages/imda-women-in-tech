@@ -18,7 +18,7 @@ Date: 29th May, 2020
 
 Time: 7 – 8 PM
 
-[Register here](https://forms.gle/JsA3NcTR9dEVFcBr7)
+[Register here](https://forms.gle/JsA3NcTR9dEVFcBr7){:target="_blank"}
 
 
 <h4><strong>Shopee Code League</strong></h4>
