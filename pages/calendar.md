@@ -2,6 +2,25 @@
 title: Calendar
 permalink: /calendar/
 ---
+<h4><strong>IEEE WiE Singapore Networking Nights</strong></h4>
+
+![1](/images/calendar/WIE Networking Event.jpg)
+
+IEEE Women In Engineering (WiE) Singapore section is announcing its 2020 series of the “IEEE Singapore Networking Nights”.  This event is part of a series of fun and engaging themed digital evenings to not only network with wo(men) engineers but to also support and foster the community. This forum is open to everyone committed to building a gender-equal workforce.
+
+Our upcoming session is on “How to manage self through challenging times and Introduction to Pranayama yogic breathing exercises?”. We have two experts who will be sharing their thoughts and practices. Please do not miss this opportunity to get some ideas on how manage ourselves better during this pandemic situation and also to network and catch-up with our IEEE members. 
+
+<u>Event Details</u>
+
+Title:  How to manage self through challenging times and Introduction to Pranayama yogic breathing exercises?
+
+Date: 29th May, 2020
+
+Time: 7 – 8 PM
+
+[Register here](https://forms.gle/JsA3NcTR9dEVFcBr7){:target="_blank"}
+
+
 <h4><strong>Shopee Code League</strong></h4>
 
 ![1](/images/calendar/EDM-Shopee-Code-League.jpg)
@@ -18,53 +37,6 @@ Are you up for the challenge to compete against coders across the region? Sign u
 Mark your calendars and get ready to be a part of the coding event of the year!
 
 
-
-<div class="row padding--bottom">
-	<div class="col">
-		<h4 class="has-text-white padding--bottom--lg"><strong>GLOBAL WOMEN CHANGE MAKERS 2020</strong></h4>
-		<p><img src="/images/women_changemakers.png"/></p>
-		<ul>
-			<li>17-18 April 2020</li>
-			<li>Day 1 @ Marina and</li>
-			<li>Day 2 @ Home of Theatreworks</li>
-			<li>she1K.com/womenchangemakers</li>
-			<li>$140 - $262.38</li>
-		</ul>		
-		<p>Women change makers is an experiential event where C-level executives talk candidly about their biggest personal changes they went through and the impact it made on their lives. We are happy to be bringing our 12th WomenChangemakers to Singapore on Apr 17 to 18 2020. This is our largest and first time as a 2 -day event.</p>
-		<a href="https://www.eventbrite.com/e/global-womenchangemakers-2020-apr-17-18-tickets-97443224307?aff=ebdssbdestsearch" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
-	</div>
-</div>
-<div class="row padding--bottom">
-	<div class="col">
-		<h4 class="has-text-white padding--bottom--lg"><strong>Women Who Lead </strong></h4>
-		<p><img src="/images/women-who-lead-banner.jpg"/></p>
-		<ul>
-			<li>22 April 2020</li>
-			<li>7pm-930pm</li>
-			<li>Zoom TBC, Singapore 238883</li>
-			<li>$157.83</li>
-		</ul>		
-		<p>An engaging and interactive event that teaches woman the dos and don’ts of leading.</p>  
-		<p>This session, based on the ground-breaking research of cross-cultural psychologist, Dr Gilles Spony, will equip you with a range of skills and techniques that will have immediate application and impact in working in a highly connected, global world’.
-</p>
-		<a href="https://www.eventbrite.com/e/leading-in-a-global-world-tickets-96607891805?aff=ebdssbdestsearch" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
-	</div>
-</div>
-<div class="row padding--bottom">
-	<div class="col">
-		<h4 class="has-text-white padding--bottom--lg"><strong>Factory (Super)Women </strong></h4>
-		<p><img src="/images/facrory-women-banner.jpg"/></p>
-		<ul>
-			<li>8 May 2020</li>
-			<li>7pm-9pm</li>
-			<li>TenX, 11 Keppel Road #07-00, ABI Plaza S089057</li>
-			<li>Online sales have ended</li>
-		</ul>		
-		<p>What is it like for the woman who left the familiarity of their home for the factory floor? </p>
-		<p>A celebration of international women’s day with a local documentary.</p>
-		<a href="https://www.eventbrite.sg/e/womanpower-tenx-x-scwo-tickets-3580863459?aff=ebdssbdestsearch" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
-	</div>
-</div>
 <div class="row padding--bottom">
 	<div class="col">
 		<h4 class="has-text-white padding--bottom--lg"><strong>Women Must Help Women </strong></h4>
@@ -94,24 +66,4 @@ Women Must Help Women is a community of mumpreneurs who runs an online business.
 		<a href="https://www.eventbrite.com/d/singapore--singapore/global-woman-networking-club-singapore/?q=global+woman+networking+club+singapore&mode=search" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
 	</div>
 </div>
-<div class="row padding--bottom">
-	<div class="col">
-		<h4 class="has-text-white padding--bottom--lg"><strong>Life Coaching- Coaching For Managers </strong></h4>
-		<p><img src="/images/life-coaching-banner.jpg"/></p>
-		<ul>
-			<li>8 April</li>
-			<li>630 pm – 830 pm</li>
-			<li>Address/ TBA</li>
-			<li>$35</li>
-			<li>Registration closing time – 430 pm</li>
-		</ul>
-		<p>A workshop where we woman can have the opportunity to discover and practice some coaching skills;</p>
-		<p>-	A new manager</p>
-		<p>-	Business case for coaching in a corporate environment </p>
-		<p>-	Essential coaching skills- presentation and practice </p>
-		<p>-	Coaching session: Demo, Model, Triad practice</p>
-		<p>-	Lastly there would be a session reflection on how they would like to change their management style moving forward.</p>			
-		<p>Geraldine Gauthier & Ariane Jaubert facilitates this workshop.</p>
-		<a href="https://primetime.org.sg/event-detail/?id=115" target="_blank"><div><span>Register</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a>
-	</div>
-</div>
+
