@@ -27,7 +27,7 @@ sections:
         alt: About Us
 
     - infobar:
-        subtitle: <p style="font-size:1.8rem;color:red;"><b>&#60;Nominations are now closed. Please watch this space for further updates&#62;</b></p><br>
+        subtitle: <p style="font-size:1.8rem;color:red;"><b>&#60;Nominations are now closed. Please watch this space for further updates.&#62;</b></p><br>
         title: 100 SG WOMEN IN TECH
         description: The list will be looking for individuals who have made the headlines or influenced important stories over the past 12 months, as well as those who have inspiring stories to tell, achieved something significant or influenced the communities in ways that might not typically make the news.<img src="/images/social-A.jpg"/>
         button: NOMINATE
