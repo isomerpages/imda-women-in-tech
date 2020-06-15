@@ -2,6 +2,26 @@
 title: Calendar
 permalink: /calendar/
 ---
+<h4><strong>Each for Equal: Rejoining the IT Workforce [Online Event]</strong></h4>
+
+![1](/images/calendar/rejoining-the-IT-workforce_2160x1080px_v2.jpg)
+
+Rejoining the IT workforce is a daunting task, especially with the constant innovation and updates in technologies. Despite their strong work experience and expertise before their career breaks, many parents re-entering the workforce frequently meet obstacles in finding jobs, juggling the work-life balance and diversifying and upgrading their skills.
+
+Hear from our panel of leaders (at home and work) about their own experiences in re-entering the workforce, balancing family and work, ways to encourage companies to rehire and help support returnees and upgrading one's skills to be relevant to the workforce.
+
+#EachforEqual — An equal world is an enabled world, and every individual be it male or female, can do their part to bring about gender equality within various global industries. More than just a women's issue, the need for equality plays a role in the nurturing of the economy as well, something which everyone regardless of gender, can benefit from.
+
+<u>Event Details</u>
+
+Title:  How to manage self through challenging times and Introduction to Pranayama yogic breathing exercises?
+
+Date: 8th July 2020, Wednesday
+
+Time: 10:30 – 11:30 AM
+
+[Register here](https://www.sginnovate.com/events/each-equal-rejoining-it-workforce-online-event){:target="_blank"}
+
 <h4><strong>IEEE WiE Singapore Networking Nights</strong></h4>
 
 ![1](/images/calendar/WIE Networking Event.jpg)
