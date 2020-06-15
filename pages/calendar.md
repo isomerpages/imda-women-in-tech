@@ -2,24 +2,25 @@
 title: Calendar
 permalink: /calendar/
 ---
-<h4><strong>IEEE WiE Singapore Networking Nights</strong></h4>
+<h4><strong>Each for Equal: Rejoining the IT Workforce [Online Event]</strong></h4>
 
-![1](/images/calendar/WIE Networking Event.jpg)
+![1](/images/calendar/rejoining-the-IT-workforce_2160x1080px_v2.jpg)
 
-IEEE Women In Engineering (WiE) Singapore section is announcing its 2020 series of the “IEEE Singapore Networking Nights”.  This event is part of a series of fun and engaging themed digital evenings to not only network with wo(men) engineers but to also support and foster the community. This forum is open to everyone committed to building a gender-equal workforce.
+Rejoining the IT workforce is a daunting task, especially with the constant innovation and updates in technologies. Despite their strong work experience and expertise before their career breaks, many parents re-entering the workforce frequently meet obstacles in finding jobs, juggling the work-life balance and diversifying and upgrading their skills.
 
-Our upcoming session is on “How to manage self through challenging times and Introduction to Pranayama yogic breathing exercises?”. We have two experts who will be sharing their thoughts and practices. Please do not miss this opportunity to get some ideas on how manage ourselves better during this pandemic situation and also to network and catch-up with our IEEE members. 
+Hear from our panel of leaders (at home and work) about their own experiences in re-entering the workforce, balancing family and work, ways to encourage companies to rehire and help support returnees and upgrading one's skills to be relevant to the workforce.
+
+#EachforEqual — An equal world is an enabled world, and every individual be it male or female, can do their part to bring about gender equality within various global industries. More than just a women's issue, the need for equality plays a role in the nurturing of the economy as well, something which everyone regardless of gender, can benefit from.
 
 <u>Event Details</u>
 
 Title:  How to manage self through challenging times and Introduction to Pranayama yogic breathing exercises?
 
-Date: 29th May, 2020
+Date: 8th July 2020, Wednesday
 
-Time: 7 – 8 PM
+Time: 10:30 – 11:30 AM
 
-[Register here](https://forms.gle/JsA3NcTR9dEVFcBr7){:target="_blank"}
-
+[Register here](https://www.sginnovate.com/events/each-equal-rejoining-it-workforce-online-event){:target="_blank"}
 
 <h4><strong>Shopee Code League</strong></h4>
 

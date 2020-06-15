@@ -27,11 +27,11 @@ sections:
         alt: About Us
 
     - infobar:
-        subtitle: <p style="font-size:1.8rem;color:red;"><b>&#60;Nominations are now closed. Please watch this space for further updates.&#62;</b></p><br>
+        subtitle: 
         title: 100 SG WOMEN IN TECH
-        description: The list will be looking for individuals who have made the headlines or influenced important stories over the past 12 months, as well as those who have inspiring stories to tell, achieved something significant or influenced the communities in ways that might not typically make the news.<img src="/images/social-A.jpg"/>
-        button: NOMINATE
-        url: https://form.gov.sg/#!/5e58e10ef64a6600116a4205
+        description: We are excited to share that we have received over 850 nominations for the inaugural Singapore 100 Women in Tech List! It is truly inspiring to see so many talented women in the tech sector being nominated for this worthy cause. Selection process is now underway, stay tuned for more updates! &#35;SGWomenInTech &#35;SG100WIT<img src="/images/homepage/Thank You Post.jpg"/>
+        button: 
+        url: 
         
     - infobar:
         subtitle: 
