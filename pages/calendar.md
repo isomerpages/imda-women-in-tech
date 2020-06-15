@@ -22,25 +22,6 @@ Time: 10:30 – 11:30 AM
 
 [Register here](https://www.sginnovate.com/events/each-equal-rejoining-it-workforce-online-event){:target="_blank"}
 
-<h4><strong>IEEE WiE Singapore Networking Nights</strong></h4>
-
-![1](/images/calendar/WIE Networking Event.jpg)
-
-IEEE Women In Engineering (WiE) Singapore section is announcing its 2020 series of the “IEEE Singapore Networking Nights”.  This event is part of a series of fun and engaging themed digital evenings to not only network with wo(men) engineers but to also support and foster the community. This forum is open to everyone committed to building a gender-equal workforce.
-
-Our upcoming session is on “How to manage self through challenging times and Introduction to Pranayama yogic breathing exercises?”. We have two experts who will be sharing their thoughts and practices. Please do not miss this opportunity to get some ideas on how manage ourselves better during this pandemic situation and also to network and catch-up with our IEEE members. 
-
-<u>Event Details</u>
-
-Title:  How to manage self through challenging times and Introduction to Pranayama yogic breathing exercises?
-
-Date: 29th May, 2020
-
-Time: 7 – 8 PM
-
-[Register here](https://forms.gle/JsA3NcTR9dEVFcBr7){:target="_blank"}
-
-
 <h4><strong>Shopee Code League</strong></h4>
 
 ![1](/images/calendar/EDM-Shopee-Code-League.jpg)
