@@ -24,7 +24,7 @@ permalink: /calendar/
  
 * It’s easy to get started, please use the following resources:
   * An [introductory](https://www.twitch.tv/videos/634275078){:target="_blank"} workshop
-  * Advanced workshops ([Tips](https://aws.amazon.com/deepracer/racing-tips/){:target="_blank"}  | [YouTube](https://www.youtube.com/channel/UCgKGzMFBUULYLMT6_vv2T5g/videos?view=0&sort=p&flow=grid){:target="_blank"})
+  * Advanced workshops ([Tips](https://aws.amazon.com/deepracer/racing-tips/){:target="_blank"} &#124; [YouTube](https://www.youtube.com/channel/UCgKGzMFBUULYLMT6_vv2T5g/videos?view=0&sort=p&flow=grid){:target="_blank"})
 
 <b>Keep a look out</b>
 
@@ -32,7 +32,7 @@ permalink: /calendar/
  
 * There will be employment opportunities through our upcoming “Virtual Career Fair”.
  
-* Do you have any questions? Contact us at <info@buildonasean.com> or head to <https://buildonasean.com/awsdeepracer/> to find out more.
+* Do you have any questions? Contact us at <info@buildonasean.com> or head to <https://buildonasean.com/awsdeepracer/>{:target="_blank"} to find out more.
  
 * We hope to see you on the virtual race track!
 
