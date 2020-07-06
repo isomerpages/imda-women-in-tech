@@ -2,6 +2,41 @@
 title: Calendar
 permalink: /calendar/
 ---
+<h4><strong>AWS DeepRacer’s Women League<br>Singapore 2020</strong></h4>
+
+![1](/images/calendar/DeepRacer EDM SG-01-01.png)
+
+<b>Amazon Web Services (AWS)</b>, together with our esteemed partners, are proud to host the world’s first <b>AWS DeepRacer Women’s League – ASEAN 2020.</b>
+
+<b>What is AWS DeepRacer?</b>
+
+* AWS DeepRacer gives you an interesting and fun way to get started with Reinforcement Learning - a Machine Learning technique.
+* No technical background needed.
+* Developers of all skill levels can get hands on with machine learning through a cloud based 3D racing simulator available on the AWS Management Console.
+
+<b>I am interested, how do I join for AWS DeepRacer Women’s League?</b>
+
+* This is an individual challenge for women 17 years and above, currently enrolled in a diploma/degree program in a polytechnic/university.
+ 
+* Click [here](https://form.typeform.com/to/gNLIU0){:target="_blank"} to sign up, registration closes 30 July 2020 @ 2359hrs.
+ 
+* Await confirmation email, more information will be provided.
+ 
+* It’s easy to get started, please use the following resources:
+  * An [introductory](https://www.twitch.tv/videos/634275078){:target="_blank"} workshop
+  * Advanced workshops ([Tips](https://aws.amazon.com/deepracer/racing-tips/){:target="_blank"}  | [YouTube](https://www.youtube.com/channel/UCgKGzMFBUULYLMT6_vv2T5g/videos?view=0&sort=p&flow=grid){:target="_blank"})
+
+<b>Keep a look out</b>
+
+* Click [here](https://buildonasean.com/awsdeepracer/){:target="_blank"} to check out the attractive prizes sponsored by the organizing committee.
+ 
+* There will be employment opportunities through our upcoming “Virtual Career Fair”.
+ 
+* Do you have any questions? Contact us at <info@buildonasean.com> or head to <https://buildonasean.com/awsdeepracer/> to find out more.
+ 
+* We hope to see you on the virtual race track!
+
+
 <h4><strong>Each for Equal: Rejoining the IT Workforce [Online Event]</strong></h4>
 
 ![1](/images/calendar/rejoining-the-IT-workforce_2160x1080px_v2.jpg)
