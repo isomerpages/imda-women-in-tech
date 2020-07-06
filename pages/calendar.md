@@ -4,7 +4,7 @@ permalink: /calendar/
 ---
 <h4><strong>AWS DeepRacer’s Women League<br>Singapore 2020</strong></h4>
 
-![1](/images/calendar/DeepRacer EDM SG-01-01.png)
+<img src="/images/calendar/DeepRacer EDM SG-01-01.png">
 
 <b>Amazon Web Services (AWS)</b>, together with our esteemed partners, are proud to host the world’s first <b>AWS DeepRacer Women’s League – ASEAN 2020.</b>
 
