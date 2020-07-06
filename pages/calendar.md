@@ -2,7 +2,7 @@
 title: Calendar
 permalink: /calendar/
 ---
-<h4><strong>AWS DeepRacer’s Women League<br>Singapore 2020</strong></h4>
+<h4><strong>AWS DeepRacer’s Women League Singapore 2020</strong></h4>
 
 <img src="/images/calendar/DeepRacer EDM SG-01-01.png">
 
