@@ -29,7 +29,7 @@ sections:
     - infobar:
         subtitle: 
         title: 100 SG WOMEN IN TECH
-        description: We are excited to share that we have received over 850 nominations for the inaugural Singapore 100 Women in Tech List! It is truly inspiring to see so many talented women in the tech sector being nominated for this worthy cause. Selection process is now underway, stay tuned for more updates! &#35;SGWomenInTech &#35;SG100WIT<div style="width:100%;"><img id="img_ID" src="/images/homepage/Thank You Post.jpg" usemap="#map_ID" border="0" width="100%" /></div><map id="map_ID" name="map"><area target="_blank" alt="" title="" href="www.imda.gov.sg" coords="397,533,709,631" shape="rect"></map><script src="/js/imageMapResizer.js"></script>
+        description: We are excited to share that we have received over 850 nominations for the inaugural Singapore 100 Women in Tech List! It is truly inspiring to see so many talented women in the tech sector being nominated for this worthy cause. Selection process is now underway, stay tuned for more updates! &#35;SGWomenInTech &#35;SG100WIT<img src="/images/homepage/Thank You Post.jpg"><a href="https://www.google.com>test</a>
         button: 
         url: 
         
