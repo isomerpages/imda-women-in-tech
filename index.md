@@ -35,7 +35,7 @@ sections:
         
     - infobar:
         subtitle: 
-        title: Students Ask Women In Tech
+        title:
         description:Check out two prominent female tech leaders in Singapore answering questions from our students! <iframe width="560" height="315" src="https://www.youtube.com/embed/1gBy0A5wt6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         button:
         url:
