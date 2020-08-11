@@ -29,16 +29,16 @@ sections:
     - infobar:
         subtitle: 
         title: 100 SG WOMEN IN TECH
-        description: We are excited to share that we have received over 850 nominations for the inaugural Singapore 100 Women in Tech List! It is truly inspiring to see so many talented women in the tech sector being nominated for this worthy cause. Selection process is now underway, stay tuned for more updates! &#35;SGWomenInTech &#35;SG100WIT<img src="/images/homepage/Thank You Post.jpg"/>
+        description: We are excited to share that we have received over 850 nominations for the inaugural Singapore 100 Women in Tech List! It is truly inspiring to see so many talented women in the tech sector being nominated for this worthy cause. Selection process is now underway, stay tuned for more updates! &#35;SGWomenInTech &#35;SG100WIT<img src="/images/homepage/Thank You Post.jpg">
         button: 
         url: 
         
     - infobar:
         subtitle: 
-        title: Shopee Code League
-        description: <img src="/images/homepage/FB IG 1.jpg">
-        button: Sign Up
-        url: /calendar/
+        title: Students Ask&colon; Women In Tech
+        description: Check out two prominent female tech leaders in Singapore answering questions from our students!<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/1gBy0A5wt6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><iframe width="560" height="315" src="https://www.youtube.com/embed/S03bRSe1QCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        button: Learn More
+        url: /community/students-ask-women-in-tech/
         
     - resources:
         title: READ
