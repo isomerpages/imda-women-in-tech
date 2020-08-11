@@ -33,13 +33,6 @@ sections:
         button: 
         url: 
         
-    - infobar:
-        subtitle: 
-        title: Shopee Code League
-        description: <img src="/images/homepage/FB IG 1.jpg">
-        button: Sign Up
-        url: /calendar/
-        
     - resources:
         title: READ
         button: READ MORE
