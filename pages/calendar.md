@@ -57,22 +57,6 @@ Time: 10:30 – 11:30 AM
 
 [Register here](https://www.sginnovate.com/events/each-equal-rejoining-it-workforce-online-event){:target="_blank"}
 
-<h4><strong>Shopee Code League</strong></h4>
-
-![1](/images/calendar/EDM-Shopee-Code-League.jpg)
-
-Here’s what you need to know about Shopee Code League: 
-
-* It’s free!
-* Open to all undergraduate students and professionals across the region (regardless of background)
-* Simply form a team of 2 to 4 members to join the league
-* Exclusive online training workshops by Shopee’s Tech team and training partners
-
-Are you up for the challenge to compete against coders across the region? Sign up [here](https://careers.shopee.sg/codeleague/){:target="_blank"}
-
-Mark your calendars and get ready to be a part of the coding event of the year!
-
-
 <div class="row padding--bottom">
 	<div class="col">
 		<h4 class="has-text-white padding--bottom--lg"><strong>Women Must Help Women </strong></h4>
