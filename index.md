@@ -33,6 +33,13 @@ sections:
         button: 
         url: 
         
+    - infobar:
+        subtitle: 
+        title: 100 SG WOMEN IN TECH
+        description: We are excited to share that we have received over 850 nominations for the inaugural Singapore 100 Women in Tech List! It is truly inspiring to see so many talented women in the tech sector being nominated for this worthy cause. Selection process is now underway, stay tuned for more updates! &#35;SGWomenInTech &#35;SG100WIT<iframe width="560" height="315" src="https://www.youtube.com/embed/1gBy0A5wt6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        button: 
+        url: 
+        
     - resources:
         title: READ
         button: READ MORE
