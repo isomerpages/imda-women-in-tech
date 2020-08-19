@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: SG Women In Tech
-description: Brief site description here
+description: Attracting and Developing Girls and Women in Tech
 image: /images/isomer-logo.svg
 permalink: /
 sections:
