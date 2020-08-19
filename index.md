@@ -29,7 +29,7 @@ sections:
     - infobar:
         subtitle: 
         title: 100 SG WOMEN IN TECH
-        description: <img src="/images/homepage/SG 100 Women in Tech Webinar-4 Sep.jpg">
+        description: <img src="/images/womenintech/SG 100 Women in Tech Webinar-4 Sep Full.jpg">
         button: 
         url: 
         
