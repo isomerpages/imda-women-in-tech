@@ -1,5 +1,5 @@
 ---
-title: 100 SG Women in Tech
+title: Nomination
 permalink: /100-sg-women-in-tech/
 ---
 100 SG Women in Tech
