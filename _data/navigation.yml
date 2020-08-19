@@ -10,7 +10,7 @@ links:
   - title: About
     collection: about
   - title: 100 SG Women in Tech
-    url: /100-sg-women-in-tech/
+    collection: womenintech
   - title: Community
     collection: community
   - title: Calendar
