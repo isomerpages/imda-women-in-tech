@@ -24,6 +24,8 @@ collections:
     output: true
   community:
     output: true
+  womenintech:
+    output: true
     
 resources_name: read
 
