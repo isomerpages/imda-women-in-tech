@@ -1,8 +1,8 @@
 ---
-title: Nomination
+title: Nomination (Closed)
 permalink: /100-sg-women-in-tech/
 ---
-100 SG Women in Tech
+SG 100 Women in Tech
 
 <p><img src="/images/Edm-A.jpg"/></p>
 
