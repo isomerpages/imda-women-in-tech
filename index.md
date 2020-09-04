@@ -28,10 +28,10 @@ sections:
 
     - infobar:
         subtitle: 
-        title: 100 SG WOMEN IN TECH
+        title: Congratulations to all 100 SG Women in Tech!
         description: <img src="/images/homepage/version 2.JPG">
-        button: 
-        url: 
+        button: Learn More
+        url: /100-sg-women-in-tech-2020/
         
     - infobar:
         subtitle: 
