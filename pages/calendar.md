@@ -7,7 +7,7 @@ permalink: /calendar/
 [Register here](https://tinyurl.com/SGWITAnniversary){:target="_blank"}
 
 <h4><strong>DBS Women In Tech Singapore 2020</strong></h4>
-<img src="/images/calendar/Draft 13 IWCD 2020.png">
+<img src="/images/calendar/Linkedin_Round1@2x.png">
 
 DBS Women In Tech Singapore 2020 is a specially curated virtual hiring event to drive the representation of women in technology. We welcome all women technologists to join us in this journey to drive our digital transformation agenda. Application deadline – Oct 19th 2020.
 
