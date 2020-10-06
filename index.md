@@ -40,7 +40,12 @@ sections:
         button: Learn More
         url: /community/students-ask-women-in-tech/
         
-    - resources:
-        title: READ
-        button: READ MORE
+        
+    - infobar:
+        subtitle: 
+        title: Events
+        description: <img src="/images/calendar/WIT Anniversary eDM_5 Oct-01.jpg">
+        button: Learn More
+        url: /calendar/    
+
 ---
