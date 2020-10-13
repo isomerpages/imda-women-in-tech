@@ -20,7 +20,7 @@ DBS Women In Tech Singapore 2020 is a specially curated virtual hiring event to 
 <h4><strong>Half The Sky October CV Clinic</strong></h4>
 <img src="/images/calendar/HTS Platform Event Banner 2000 X 800.png">
 
-Its a tough time in the job market at the moment and many people are finding it difficult to find or secure new jobs. Don't worry we've got your back!
+It's a tough time in the job market at the moment and many people are finding it difficult to find or secure new jobs. Don't worry we've got your back!
 
 The team at Half The Sky have put together a CV clinic that will prepare you in modern resume writing techniques, to give you a fighting chance to land that job. 
 
