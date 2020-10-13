@@ -44,7 +44,7 @@ Sabrina will also be available for a virtual CV review and career advice. If you
 
 [Register here](https://www.halftheskyasia.com/events/october-cv-clinic){:target="_blank"}
 
-<h4><strong>Half The Sky - Finding Your Path Back to Career Happiness/strong></h4>
+<h4><strong>Half The Sky - Finding Your Path Back to Career Happiness</strong></h4>
 <img src="/images/calendar/HTS Event Banner 2.png">
 
 It is more common than we realise to feel stuck in our careers and lose all passion for it that we once had. It is also common for us to think we have no choice other than to carry on in the career that no longer brings us any joy. To carry on working solely to put the icing on everyone else's cake, for our families, but to the detriment of our own happiness and wellbeing. This event will look at why this can happen and share advice and tips on how to move forward from feeling so stuck in your career.  
