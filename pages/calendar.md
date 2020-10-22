@@ -2,48 +2,6 @@
 title: Calendar
 permalink: /calendar/
 ---
-<h4><strong>SG WIT 1 Year Anniversary Webinar</strong></h4>
-<img src="/images/calendar/WIT Anniversary eDM_5 Oct-01.jpg">
-[Register here](https://tinyurl.com/SGWITAnniversary){:target="_blank"}
-
-<h4><strong>DBS Women In Tech Singapore 2020</strong></h4>
-<img src="/images/calendar/Linkedin@2x.png">
-
-DBS Women In Tech Singapore 2020 is a specially curated virtual hiring event to drive the representation of women in technology. We welcome all women technologists to join us in this journey to drive our digital transformation agenda. Application deadline – Oct 19th 2020.
-
-<b>How It Works</b>
-* Test your abilities through our tech assessment on HackerRank
-* Get Shortlisted to attend the virtual hiring event on Oct 31st
-
-[Register here](https://www.dbs.com/DWIT/sg/index.html){:target="_blank"}
-
-<h4><strong>Half The Sky October CV Clinic</strong></h4>
-<img src="/images/calendar/HTS Platform Event Banner 2000 X 800.png">
-
-It's a tough time in the job market at the moment and many people are finding it difficult to find or secure new jobs. Don't worry we've got your back!
-
-The team at Half The Sky have put together a CV clinic that will prepare you in modern resume writing techniques, to give you a fighting chance to land that job. 
-
-Join our Founder Sabrina Ho who has close to 15 years’ experience recruiting top executives across Asia, she will be sharing the do’s and don’ts of resume writing and let you into industry secrets – that will help you create a great resume and land a new job. 
-
-In this CV Clinic, we’ll teach you: 
-
-* How to create the modern resume 
-* How to modernize your resume content 
-* How to overcome the ATS gatekeeper 
-* Improve your resume format 
-* Modernize your resume design 
-
-Sabrina will also be available for a virtual CV review and career advice. If you’re interested in a one-to-one slot please indicate your interest in the registration form: 
-
-<b>Date</b>: 20th October Tuesday     
-
-<b>Time</b>: 11:00 AM - 11:30 AM SGT  (Presentation)
-
-11:30 AM - 12 :00 PM (One to one CV review, spaces are limited, so book early!)
-
-[Register here](https://www.halftheskyasia.com/events/october-cv-clinic){:target="_blank"}
-
 <h4><strong>Half The Sky - Finding Your Path Back to Career Happiness</strong></h4>
 <img src="/images/calendar/HTS Event Banner 2.png">
 

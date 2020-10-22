@@ -38,14 +38,13 @@ sections:
         title: Students Ask&colon; Women In Tech
         description: Check out two prominent female tech leaders in Singapore answering questions from our students!<br><br><iframe width="560" height="315" src="https://www.youtube.com/embed/1gBy0A5wt6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><iframe width="560" height="315" src="https://www.youtube.com/embed/S03bRSe1QCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         button: Learn More
-        url: /community/students-ask-women-in-tech/
-        
+        url: /community/students-ask-women-in-tech/ 
         
     - infobar:
         subtitle: 
-        title: Events
-        description: <img src="/images/calendar/WIT Anniversary eDM_5 Oct-01.jpg">
-        button: Learn More
-        url: /calendar/    
-
+        title: Our Year In Review
+        description: <iframe width="560" height="315" src="https://www.youtube.com/embed/iG-H1ZyYH_o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        button: 
+        url: 
+        
 ---
