@@ -2,15 +2,32 @@
 title: Calendar
 permalink: /calendar/
 ---
-<h4><strong>Half The Sky - Finding Your Path Back to Career Happiness</strong></h4>
-<img src="/images/calendar/HTS Event Banner 2.png">
+<h4><strong>Future of Smart and Personalised Healthcare [Online Event]</strong></h4>
+<img src="/images/calendar/future-of-smart-health_2000x1100px_v4.jpg">
 
-It is more common than we realise to feel stuck in our careers and lose all passion for it that we once had. It is also common for us to think we have no choice other than to carry on in the career that no longer brings us any joy. To carry on working solely to put the icing on everyone else's cake, for our families, but to the detriment of our own happiness and wellbeing. This event will look at why this can happen and share advice and tips on how to move forward from feeling so stuck in your career.  
+Presented by SGInnovate and French Chamber Singapore
 
-<b>Date</b>: 22 October Thursday    
+As the world moves into the next era of the industrial revolution, technologies today are primarily guided by big data and adoption of interconnectivity across multiple industries and healthcare is no exception.
 
-<b>Time</b>: 2:00 PM - 3:00 PM SGT 
+The focus of the health industry has evolved over the years. There was once a time when surgeries and integrated delivery networks (IDNs) were the talk of the town, followed by a time when payers and insurance companies were the target audience. Now, the world seems to have moved on to a new age where the key stakeholders are consumers themselves.
 
-Join Rebecca Amin, an accredited Career Coach with 18-years of talent acquisition experience in London and Singapore in this workshop. After her second maternity leave Rebecca found herself, unexpectedly, feeling unhappy and disengaged in her career. Rebecca's mission is to support as many people as possible gain the clarity they need to find their way out of the fog, so they can be as happy as they deserve to be in their careers. 
+As technology continues to improve lives, people are now in control of their health, making personal healthcare options easily accessible through online platforms, with the latest gadgets and apps at their fingertips. Future innovation is now dictated by the kind of choices which consumers make in the adoption of Smart Health.
 
-[Register here](https://www.halftheskyasia.com/events/finding-you-path-back-to-career-happiness){:target="_blank"}
+Discover the upcoming trends in Smart Health, where consumer-centric products such as wearables and other health monitoring equipment pave the way for increased collaborative efforts amongst both corporates and startups in changing the quality of life.
+
+<b>Date: 2 November 2020</b><br>
+<b>Time: 4:00pm – 5:00pm (Singapore Time / UTC+8)</b>
+
+<b>Programme:</b><br>
+
+<b>4:00pm – 4:05pm:</b> Opening Remarks (by SGInnovate and French Chamber Singapore)<br>
+<b>4:05pm – 5:00pm:</b> Panel Discussion and Q&A
+
+* Nadine Brun, General Manager of ASEAN, BioMérieux
+* Maryline Marquet, VP Operations, APACMed
+* Dr Charit Bhograj, Founder and CEO, Tricog Health
+* Moderator: Jasmine Qiu, Assistant Director – Venture Investing, SGInnovate
+
+ 
+
+Register [Here](https://www.sginnovate.com/events/future-smart-and-personalised-healthcare-online-event){:target="_blank"}!
