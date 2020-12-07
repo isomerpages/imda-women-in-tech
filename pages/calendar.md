@@ -66,3 +66,9 @@ Discover from our panel of innovative women in technology as they share their re
 * Divya Venketrahman, Deep Tech Consultant, General Assembly <b>[Moderator]</b>
 
 Register [Here](https://www.sginnovate.com/events/how-she-got-there-women-ai-and-robotics){:target="_blank"}
+
+<h4><strong>DBS ReactJS Virtual Hiring Event 2021 Singapore</strong></h4>
+<img src="/images/calendar/React Developer Event EDM.jpg">
+
+Learn More [Here](https://www.dbs.com/hiring/sg/react/index.html){:target="_blank"}
+
