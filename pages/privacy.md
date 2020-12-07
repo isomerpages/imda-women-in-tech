@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-This is a Government of Singapore website.
+<b>This is a Government of Singapore website.</b>
 
 If you are only browsing this website, we do not capture data that allows us to identify you individually. We may use cookie technology to improve and customise your experience on this website, and understand how you are using the website. The cookie technology we use does not capture any personally identifiable data about you, but captures your browsing pattern on this website and some other websites after you browse here. This analysis and information will be used by us to improve and customise your experience on this website, and may be shared with our selected group of partners to improve and customise your experience on their websites, or enable them to provide you with information on relevant programmes and services.
 
