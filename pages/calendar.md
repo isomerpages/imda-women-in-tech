@@ -40,7 +40,7 @@ Join us at our event where industry experts share how digital solutions can be d
 * Roland Keller, Regional President and CEO, Bosch Rexroth ASEAN and Oceania
 * Moderator: Suchitra Narayan, Director - Venture Building, SGInnovate
 
-Register [Here](https://www.sginnovate.com/events/driving-digital-solutions-manufacturing){:target="_blank}
+Register [Here](https://www.sginnovate.com/events/driving-digital-solutions-manufacturing){:target="_blank"}
 
 <h4><strong>How She Got There: Women in AI and Robotics</strong></h4>
 <img src="/images/calendar/Howshegottherewomeninai02_2000.jpg">
@@ -65,4 +65,4 @@ Discover from our panel of innovative women in technology as they share their re
 * Dr Ayesha Khanna, CEO & Co-Founder, ADDO AI
 * Divya Venketrahman, Deep Tech Consultant, General Assembly <b>[Moderator]</b>
 
-Register [Here](https://www.sginnovate.com/events/how-she-got-there-women-ai-and-robotics){:target="_blank}
+Register [Here](https://www.sginnovate.com/events/how-she-got-there-women-ai-and-robotics){:target="_blank"}
