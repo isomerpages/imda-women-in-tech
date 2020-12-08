@@ -2,6 +2,12 @@
 title: Calendar
 permalink: /calendar/
 ---
+
+<a name="top"></a>
+[Future is Female - Discussions with Women in Science & Tech](#1) | [Driving Digital Solutions in Manufacturing](#2) | [How She Got There: Women in AI and Robotics](#3) | [DBS ReactJS Virtual Hiring Event 2021 Singapore](#4)
+
+
+<a name="1"></a>
 <h4><strong>Future is Female - Discussions with Women in Science & Tech</strong></h4>
 <img src="/images/calendar/Ep 7 some banner.jpg">
 
@@ -14,6 +20,9 @@ To truly make technology serve all of us, not just narrow economic interests, bu
 
 Register [Here](https://www.studyinfinland.fi/future-is-made-in-finland/webinar-series-programme/episode-vii-future-female-discussions-women){:target="_blank"}!
 
+[Back to Top](#top)
+
+<a name="2"></a>
 <h4><strong>Driving Digital Solutions in Manufacturing</strong></h4>
 <img src="/images/calendar/10 Dec 2020 - Driving Digital Solutions.png">
 
@@ -42,6 +51,9 @@ Join us at our event where industry experts share how digital solutions can be d
 
 Register [Here](https://www.sginnovate.com/events/driving-digital-solutions-manufacturing){:target="_blank"}
 
+[Back to Top](#top)
+
+<a name="3"></a>
 <h4><strong>How She Got There: Women in AI and Robotics</strong></h4>
 <img src="/images/calendar/Howshegottherewomeninai02_2000.jpg">
 
@@ -67,8 +79,12 @@ Discover from our panel of innovative women in technology as they share their re
 
 Register [Here](https://www.sginnovate.com/events/how-she-got-there-women-ai-and-robotics){:target="_blank"}
 
+[Back to Top](#top)
+
+<a name="4"></a>
 <h4><strong>DBS ReactJS Virtual Hiring Event 2021 Singapore</strong></h4>
 <img src="/images/calendar/React Developer Event EDM.jpg">
 
 Learn More [Here](https://www.dbs.com/hiring/sg/react/index.html){:target="_blank"}
 
+[Back to Top](#top)
