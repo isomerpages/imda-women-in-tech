@@ -2,32 +2,89 @@
 title: Calendar
 permalink: /calendar/
 ---
-<h4><strong>Future of Smart and Personalised Healthcare [Online Event]</strong></h4>
-<img src="/images/calendar/future-of-smart-health_2000x1100px_v4.jpg">
 
-Presented by SGInnovate and French Chamber Singapore
+<a name="top"></a>
+[Future is Female - Discussions with Women in Science & Tech](#1) | [Driving Digital Solutions in Manufacturing](#2) | [How She Got There: Women in AI and Robotics](#3) | [DBS ReactJS Virtual Hiring Event 2021 Singapore](#4)
 
-As the world moves into the next era of the industrial revolution, technologies today are primarily guided by big data and adoption of interconnectivity across multiple industries and healthcare is no exception.
 
-The focus of the health industry has evolved over the years. There was once a time when surgeries and integrated delivery networks (IDNs) were the talk of the town, followed by a time when payers and insurance companies were the target audience. Now, the world seems to have moved on to a new age where the key stakeholders are consumers themselves.
+<a name="1"></a>
+<h4><strong>Future is Female - Discussions with Women in Science & Tech</strong></h4>
+<img src="/images/calendar/Ep 7 some banner.jpg">
 
-As technology continues to improve lives, people are now in control of their health, making personal healthcare options easily accessible through online platforms, with the latest gadgets and apps at their fingertips. Future innovation is now dictated by the kind of choices which consumers make in the adoption of Smart Health.
+We live in an era of artificial intelligence and quantum computing. These technologies will transform our everyday life, our future. But who is creating these technologies, shaping the future?
 
-Discover the upcoming trends in Smart Health, where consumer-centric products such as wearables and other health monitoring equipment pave the way for increased collaborative efforts amongst both corporates and startups in changing the quality of life.
+To truly make technology serve all of us, not just narrow economic interests, but a variety of needs, sustainability and security, we need diverse voices, skills and views.
 
-<b>Date: 2 November 2020</b><br>
-<b>Time: 4:00pm – 5:00pm (Singapore Time / UTC+8)</b>
+<b>Date: 9 December 2020</b><br>
+<b>Time: 7:00pm – 8:30pm (Singapore Time/ UTC +8)</b>
 
-<b>Programme:</b><br>
+Register [Here](https://www.studyinfinland.fi/future-is-made-in-finland/webinar-series-programme/episode-vii-future-female-discussions-women){:target="_blank"}!
 
-<b>4:00pm – 4:05pm:</b> Opening Remarks (by SGInnovate and French Chamber Singapore)<br>
-<b>4:05pm – 5:00pm:</b> Panel Discussion and Q&A
+[Back to Top](#top)
 
-* Nadine Brun, General Manager of ASEAN, BioMérieux
-* Maryline Marquet, VP Operations, APACMed
-* Dr Charit Bhograj, Founder and CEO, Tricog Health
-* Moderator: Jasmine Qiu, Assistant Director – Venture Investing, SGInnovate
+<a name="2"></a>
+<h4><strong>Driving Digital Solutions in Manufacturing</strong></h4>
+<img src="/images/calendar/10 Dec 2020 - Driving Digital Solutions.png">
 
- 
+Presented by SGInnovate, Singtel FutureNow Innovation Centre and Advanced Remanufacturing and Technology Centre (ARTC)
+In conjunction with Deep Tech Summit
 
-Register [Here](https://www.sginnovate.com/events/future-smart-and-personalised-healthcare-online-event){:target="_blank"}!
+Advanced Manufacturing, or "Industry 4.0,” has been viewed as a key pillar for Singapore's growth. In Singapore, the manufacturing sector alone accounts for nearly a fifth of the country's GDP. At the Industry Transformation Asia Pacific (ITAP) event in October 2020, Singapore’s Deputy Prime Minister Heng Swee Keat has emphasised that Singapore can be “a more digital, more resilient advanced manufacturing base” for the world.  
+  
+While the move to a digital manufacturing environment might seem challenging, the adoption of digitalisation and automation of manufacturing processes are crucial in facing the global economic headwinds. As part of the digital transformation, various partnership platforms are now available in Singapore, such as the Advanced Remanufacturing and Technology Centre (ARTC) and Singtel FutureNow Innovation Centre, which both drive private-public partnerships and help enterprises with their transformation journey. Manufacturers, researchers, startups and investors now have ease of access to establish collaborations, share resources and explore digital solutions which offer more innovation-based and high-value production. 
+  
+Join us at our event where industry experts share how digital solutions can be driven within the manufacturing industry, how corporates, startups, and researchers may work together to further adopt these solutions at scale.
+
+<b>Date: 10 Dec 2020</b><br>
+<b>Time: 10:00am – 11:15am (Singapore Time / UTC+8) </b>
+
+<b>Programme:</b><br> 
+<b>10:00am – 10:20am:</b> Opening remarks by SGInnovate and Presentation on Future of Advanced Manufacturing by Singtel FutureNow Innovation Centre and A*Star 
+<br><b>10:20am – 11:15am: </b>Panel Discussion and Q&A 
+
+* Connie Ang, Director – Strategy and Planning, Singtel
+* Carlos Toro, Senior Digital Architect (Smart Manufacturing Division - ARTC), A*Star
+* Surbhi Singh, CEO and Co-Founder, FireVisor
+* Dr Sher Lin Ee, Head of Asia Pacific Digital Labs, Evonik
+* Roland Keller, Regional President and CEO, Bosch Rexroth ASEAN and Oceania
+* Moderator: Suchitra Narayan, Director - Venture Building, SGInnovate
+
+Register [Here](https://www.sginnovate.com/events/driving-digital-solutions-manufacturing){:target="_blank"}
+
+[Back to Top](#top)
+
+<a name="3"></a>
+<h4><strong>How She Got There: Women in AI and Robotics</strong></h4>
+<img src="/images/calendar/Howshegottherewomeninai02_2000.jpg">
+
+Presented by SGInnovate and General Assembly
+In support of: SG Women in Tech
+
+Artificial Intelligence (AI), Robotics and other Deep Tech are gaining more significant influence and foothold in society and the economy all across the globe. However, according to the World Economic Forum’s Global Gender Gap Report 2020, a mere 26% of AI and Data professionals and 18% of Robotics Engineers globally are women.  
+
+Discover from our panel of innovative women in technology as they share their research stories on how they got to where they are today and their insights and advice in delving into the world of AI and Robotics.
+
+<b>Date: 17 December 2020, Thursday</b><br>
+<b>Time: 11:00am – 12:00pm (Singapore Time / UTC+8)</b>
+
+<b>Programme:</b><br> 
+<b>11:00am – 12:00pm:</b> Panel Discussion on How She Got There: Women in AI and Robotics with:
+
+* Dr Sigrid Rouam, Global Director of Data Science & Data Analytics, Standard Chartered Bank 
+* Dr Wang Bo, Angela, Assistant Professor, Information Systems Technology and Design, Singapore University of Technology and Design
+* Grace Chia, CEO & Co-founder, BeeX
+* Sunita Kannan, Data & AI Solutions Lead, APJ, Microsoft Corporation
+* Dr Ayesha Khanna, CEO & Co-Founder, ADDO AI
+* Divya Venketrahman, Deep Tech Consultant, General Assembly <b>[Moderator]</b>
+
+Register [Here](https://www.sginnovate.com/events/how-she-got-there-women-ai-and-robotics){:target="_blank"}
+
+[Back to Top](#top)
+
+<a name="4"></a>
+<h4><strong>DBS ReactJS Virtual Hiring Event 2021 Singapore</strong></h4>
+<img src="/images/calendar/React Developer Event EDM.jpg">
+
+Learn More [Here](https://www.dbs.com/hiring/sg/react/index.html){:target="_blank"}
+
+[Back to Top](#top)
