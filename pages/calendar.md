@@ -4,6 +4,7 @@ permalink: /calendar/
 ---
 
 <a name="top"></a>
+[DBS ReactJS Virtual Hiring Event 2021 Singapore](#4) | [DSIG, IMDA, SGWIT x Shopee Code League 2021](#5)
 
 <a name="4"></a>
 <h4><strong>DBS ReactJS Virtual Hiring Event 2021 Singapore</strong></h4>
@@ -27,3 +28,5 @@ Form a team of 2-4 members, and solve real world problems that cover data analyt
 Mark your calendars and join us for the coding event of the year: [https://careers.shopee.com/codeleague/](https://careers.shopee.com/codeleague/){:target="_blank"}
 
 #ShopeeCodeLeague #TechAtShopee #datanalytics #datascience #coding
+
+[Back to Top](#top)
