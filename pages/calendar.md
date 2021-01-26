@@ -6,7 +6,7 @@ permalink: /calendar/
 <a name="top"></a>
 
 <a name="5"></a>
-<h4><strong>DSIG, IMDA, SGWIT x Shopee Code League 2021</strong></h4>
+<h4><strong>Shopee Code League 2021</strong></h4>
 [<img src="/images/calendar/SCL_2021_Wave1_1.jpg">](https://careers.shopee.com/codeleague/)
 
 [<img src="/images/calendar/SCL_2021_Wave1_2.jpg">](https://careers.shopee.com/codeleague/)
