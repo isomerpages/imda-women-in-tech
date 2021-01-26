@@ -17,6 +17,7 @@ Learn More [Here](https://www.dbs.com/hiring/sg/react/index.html){:target="_blan
 
 <a name="5"></a>
 <h4><strong>DSIG, IMDA, SGWIT x Shopee Code League 2021</strong></h4>
+<img src="/images/calendar/SCL_2021_Banner_EDM.jpg">
 Ready to say, “Yes!” to the Largest Online Code Competition organised by @Shopee? 
 
 After a strong inaugural run in 2020, we’re back with our second installment of Shopee Code League in 2021, happening from 6 - 20 March! 
