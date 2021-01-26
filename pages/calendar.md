@@ -4,20 +4,17 @@ permalink: /calendar/
 ---
 
 <a name="top"></a>
-[DBS ReactJS Virtual Hiring Event 2021 Singapore](#4) | [DSIG, IMDA, SGWIT x Shopee Code League 2021](#5)
-
-<a name="4"></a>
-<h4><strong>DBS ReactJS Virtual Hiring Event 2021 Singapore</strong></h4>
-<img src="/images/calendar/React Developer Event EDM.jpg">
-
-Learn More [Here](https://www.dbs.com/hiring/sg/react/index.html){:target="_blank"}
-
-[Back to Top](#top)
-
 
 <a name="5"></a>
 <h4><strong>DSIG, IMDA, SGWIT x Shopee Code League 2021</strong></h4>
-<img src="/images/calendar/SCL_2021_Banner_EDM.jpg">
+[<img src="/images/calendar/SCL_2021_Wave1_1.jpg">](https://careers.shopee.com/codeleague/)
+
+[<img src="/images/calendar/SCL_2021_Wave1_2.jpg">](https://careers.shopee.com/codeleague/)
+
+[<img src="/images/calendar/SCL_2021_Wave1_3.jpg">](https://careers.shopee.com/codeleague/)
+
+[<img src="/images/calendar/SCL_2021_Wave1_4.jpg">](https://careers.shopee.com/codeleague/)
+
 Ready to say, “Yes!” to the Largest Online Code Competition organised by @Shopee? 
 
 After a strong inaugural run in 2020, we’re back with our second installment of Shopee Code League in 2021, happening from 6 - 20 March! 
