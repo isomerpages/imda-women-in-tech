@@ -4,7 +4,7 @@ permalink: /calendar/
 ---
 
 <a name="top"></a>
-[Shopee Code League 2021](#1) | [Virtual Career Event: Women in Technology Singapore and Hong Kong](#2)
+[Shopee Code League 2021](#1) | [eFinancial Careers Women in Technology Event](#2)
 
 <a name="1"></a>
 <h4><strong>Shopee Code League 2021</strong></h4>
@@ -32,7 +32,7 @@ Mark your calendars and join us for the coding event of the year: [https://caree
 
 
 <a name="2"></a>
-<h4><strong>Virtual Career Event: Women in Technology Singapore and Hong Kong</strong></h4>
+<h4><strong>eFinancial Careers Women in Technology Event</strong></h4>
 <img src="/images/calendar/efc-sg-hk-women-in-tech-03-01-2021-ig-feed-time.jpg" />
 
 Are you looking for a rewarding role at an award-winning, high-growth Fintech? Chat with the team and hear more about current opportunities at the Women in Tech and Finance virtual event.
