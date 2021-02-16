@@ -4,8 +4,9 @@ permalink: /calendar/
 ---
 
 <a name="top"></a>
+[Shopee Code League 2021](#1) | [eFinancial Careers Women in Technology Event](#2)
 
-<a name="5"></a>
+<a name="1"></a>
 <h4><strong>Shopee Code League 2021</strong></h4>
 [<img src="/images/calendar/SCL_2021_Wave1_1.jpg">](https://careers.shopee.com/codeleague/)
 
@@ -26,5 +27,16 @@ Form a team of 2-4 members, and solve real world problems that cover data analyt
 Mark your calendars and join us for the coding event of the year: [https://careers.shopee.com/codeleague/](https://careers.shopee.com/codeleague/){:target="_blank"}
 
 #ShopeeCodeLeague #TechAtShopee #datanalytics #datascience #coding
+
+[Back to Top](#top)
+
+
+<a name="2"></a>
+<h4><strong>eFinancial Careers Women in Technology Event</strong></h4>
+<img src="/images/calendar/efc-sg-hk-women-in-tech-03-01-2021-ig-feed-time.jpg" />
+
+Are you looking for a rewarding role at an award-winning, high-growth Fintech? Chat with the team and hear more about current opportunities at the Women in Tech and Finance virtual event.
+
+Register at [https://hubs.li/H0G0hZP0](https://hubs.li/H0G0hZP0){:target="_blank"}
 
 [Back to Top](#top)
