@@ -13,8 +13,11 @@ links:
     collection: womenintech
   - title: Community
     collection: community
-  - title: Calendar
-    url: /calendar/
+  - title: Events
+    url: /events/
+    sublinks:
+      - title: Past Events
+        url: /past-events/
   - title: Read
     url: /read/
     #resource_room: true
