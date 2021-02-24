@@ -37,6 +37,23 @@ Mark your calendars and join us for the coding event of the year: [https://caree
 
 Are you looking for a rewarding role at an award-winning, high-growth Fintech? Chat with the team and hear more about current opportunities at the Women in Tech and Finance virtual event.
 
-Register at [https://hubs.li/H0G0hZP0](https://hubs.li/H0G0hZP0){:target="_blank"}
+Register [here](https://app.brazenconnect.com/events/vrE0N?utm_medium=social&utm_source=linkedin-sgwitpartnership){:target="_blank"}
+
+[Back to Top](#top)
+
+
+<a name="3"></a>
+<h4><strong>Women in Engineering, Science & Technology (WiEST) Symposium 2021</strong></h4>
+
+The biennial WiEST Symposium celebrates successful female role models in Science, Technology, Engineering, and Mathematics (STEM), connects with students with ecosystem peers in the industry, and provides a platform for young women to learn more about STEM careers. This year, we are honoured to have President Halimah Yacob as the Guest-of-Honour to grace the event.
+
+Themed as 'Empowering Women in STEM', the Symposium will feature keynote speaker, Jo Handelsman, a leading researcher in biofilm science, as well as leading speakers from A*STAR, European External Action Service, Illumina, ISREC Foundation,​ Ministry of Education and more, as they share their research innovations, discoveries and aspirations as women in STEM.
+
+As part of the Symposium and in conjunction with International Women's Month, Women@NTU will launch a new programme, funded by Ministry of Education, to empower young women and build the next generation of women scientist, engineers, innovators, and leaders in STEM.
+
+Join us at the webinar to gain insights and discover how you can help empower women in STEM:
+- [Register for the WiEST Symposium](https://wis.ntu.edu.sg/pls/webexe88/REGISTER_NTU.REGISTER?EVENT_ID=OA21012812014410){:target="_blank"} today.
+- Please view the [programme agenda](http://women.ntu.edu.sg/NewsnEvents/Events/wiest2021/Pages/programme.aspx){:target="_blank"}.
+- For more information, please visit [http://women.ntu.edu.sg/wiest2021](http://women.ntu.edu.sg/wiest2021){:target="_blank"}.
 
 [Back to Top](#top)
