@@ -1,8 +1,9 @@
 ---
-title: Calendar
-permalink: /calendar/
+title: Past Events
+permalink: /past-events/
 ---
 
+<h1>Past Events items!</h1>
 <a name="top"></a>
 [Shopee Code League 2021](#1) | [eFinancial Careers Women in Technology Event](#2) | [Women in Engineering, Science & Technology (WiEST) Symposium 2021](#3) | [In Celebration of International Women’s Day: Leading Together in STEM](#4)
 
