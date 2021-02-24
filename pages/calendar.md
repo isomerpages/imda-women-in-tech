@@ -4,7 +4,7 @@ permalink: /calendar/
 ---
 
 <a name="top"></a>
-[Shopee Code League 2021](#1) | [eFinancial Careers Women in Technology Event](#2)
+[Shopee Code League 2021](#1) | [eFinancial Careers Women in Technology Event](#2) | [Women in Engineering, Science & Technology (WiEST) Symposium 2021](#3) | [In Celebration of International Women’s Day: Leading Together in STEM](#4)
 
 <a name="1"></a>
 <h4><strong>Shopee Code League 2021</strong></h4>
@@ -44,6 +44,7 @@ Register [here](https://app.brazenconnect.com/events/vrE0N?utm_medium=social&utm
 
 <a name="3"></a>
 <h4><strong>Women in Engineering, Science & Technology (WiEST) Symposium 2021</strong></h4>
+<img src="/images/calendar/WiEST_small.jpg" />
 
 The biennial WiEST Symposium celebrates successful female role models in Science, Technology, Engineering, and Mathematics (STEM), connects with students with ecosystem peers in the industry, and provides a platform for young women to learn more about STEM careers. This year, we are honoured to have President Halimah Yacob as the Guest-of-Honour to grace the event.
 
@@ -55,5 +56,16 @@ Join us at the webinar to gain insights and discover how you can help empower wo
 - [Register for the WiEST Symposium](https://wis.ntu.edu.sg/pls/webexe88/REGISTER_NTU.REGISTER?EVENT_ID=OA21012812014410){:target="_blank"} today.
 - Please view the [programme agenda](http://women.ntu.edu.sg/NewsnEvents/Events/wiest2021/Pages/programme.aspx){:target="_blank"}.
 - For more information, please visit [http://women.ntu.edu.sg/wiest2021](http://women.ntu.edu.sg/wiest2021){:target="_blank"}.
+
+[Back to Top](#top)
+
+
+<a name="4"></a>
+<h4><strong>In Celebration of International Women’s Day: Leading Together in STEM</strong></h4>
+
+In support of SG Women in Tech
+Join us virtually on International Women's Day as we celebrate the people and companies who #choosetochallenge perceptions and misconceptions, and lead by example in the world of Science, Technology, Engineering and Mathematics (STEM). On this momentous day, we will be launching the Corporate Pledge and diving deep into discussion with leaders in the STEM field.
+
+[<img src="/images/calendar/Leading_Together_in_Stem_small.jpg">](https://careers.shopee.com/codeleague/)
 
 [Back to Top](#top)
