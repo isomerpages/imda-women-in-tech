@@ -44,7 +44,7 @@ Register [here](https://app.brazenconnect.com/events/vrE0N?utm_medium=social&utm
 
 <a name="3"></a>
 <h4><strong>Women in Engineering, Science & Technology (WiEST) Symposium 2021</strong></h4>
-<img src="/images/calendar/WiEST_small.jpg" />
+<img src="/images/calendar/SocialMediaPost_LinkedIn&Facebook_WiESTSymposium.jpg" />
 
 The biennial WiEST Symposium celebrates successful female role models in Science, Technology, Engineering, and Mathematics (STEM), connects with students with ecosystem peers in the industry, and provides a platform for young women to learn more about STEM careers. This year, we are honoured to have President Halimah Yacob as the Guest-of-Honour to grace the event.
 
@@ -66,6 +66,6 @@ Join us at the webinar to gain insights and discover how you can help empower wo
 In support of SG Women in Tech
 Join us virtually on International Women's Day as we celebrate the people and companies who #choosetochallenge perceptions and misconceptions, and lead by example in the world of Science, Technology, Engineering and Mathematics (STEM). On this momentous day, we will be launching the Corporate Pledge and diving deep into discussion with leaders in the STEM field.
 
-[<img src="/images/calendar/Leading_Together_in_Stem_small.jpg">](https://careers.shopee.com/codeleague/)
+[<img src="/images/calendar/leading-and-envisioning_2160x1080px.jpg">](https://careers.shopee.com/codeleague/)
 
 [Back to Top](#top)
