@@ -24,6 +24,8 @@ collections:
     output: true
   community:
     output: true
+  events:
+    output: true
   womenintech:
     output: true
     

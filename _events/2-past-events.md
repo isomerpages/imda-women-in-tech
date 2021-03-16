@@ -1,6 +1,6 @@
 ---
 title: Past Events
-permalink: /past-events/
+permalink: /events/past-events/
 ---
 
 <a name="top"></a>
