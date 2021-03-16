@@ -14,10 +14,14 @@ links:
   - title: Community
     collection: community
   - title: Events
-    url: /events/
-    sublinks:
-      - title: Past Events
-        url: /past-events/
+    collection: events
+#  - title: Events
+#    url: /events/calendar/
+#    sublinks:
+#      - title: Calendar of Events
+#        url: /events/calendar/
+#      - title: Past Events
+#        url: /past-events/
   - title: Read
     url: /read/
     #resource_room: true
