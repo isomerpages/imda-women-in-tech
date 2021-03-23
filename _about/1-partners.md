@@ -10,10 +10,6 @@ permalink: /about/partners/
 
 <img src="/images/sg-com-so.jpg" alt="3" style="width:165px; height:91px">
 
-<img src="/images/rice.jpg" alt="4" style="width:165px; height:35px">
-
-<img src="/images/atd.png" alt="5" style="width:165px; height:22px">
-
 
 SG Women In Tech aims to:
 
