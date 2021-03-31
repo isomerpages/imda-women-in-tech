@@ -48,8 +48,7 @@ Join us on Monday, 5 April 2021, 12pm to 1pm as we hear from industry leaders sh
 
 <a name="6"></a>
 <h4><strong>New Frontier 2021</strong></h4>
-<img src="/images/calendar/Partner banner_1200x600.jpg">
-<img src="/images/calendar/NF21 horizontal banner V1.jpg">
+[<img src="/images/calendar/NF21 horizontal banner V1.jpg">](https://www.sginnovate.com/newfrontier/){:target="_blank"}
 
 New Frontier is an exclusive showcase of Deep Tech apprenticeships, full-time roles and workshops in exciting fields such as AI, Cybersecurity and Software Development. Look forward to panel discussions with tech leaders and startups founders, who will share valuable insights on emerging job trends across various industries, and help you uncover exciting new career opportunities.
 
