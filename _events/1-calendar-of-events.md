@@ -4,7 +4,7 @@ permalink: /events/calendar
 ---
 
 <a name="top"></a>
-[The Reading Club](#2) | [Half The Sky Panel: Thriving In The New World of Work](#3)
+[The Reading Club](#2) | [How We Got There 2021](#4) | [Driving Inclusiveness Through Digital Accessibility](#5) | [How We Got There 2021](#6)
 
 
 <a name="2"></a>
@@ -20,19 +20,38 @@ This is also a call for beautiful souls who will be willing to share a good scie
 [Back to Top](#top)
 
 
-<a name="3"></a>
-<h4><strong>Half The Sky Panel: Thriving In The New World of Work</strong></h4>
-[<img src="/images/calendar/Half The Sky Panel.png">](https://www.halftheskyasia.com/events/iwd-2021-thriving-in-the-new-world-of-work)
+<a name="4"></a>
+<h4><strong>How We Got There 2021</strong></h4>
+<img src="/images/calendar/HWGT_WIT.png">
 
-So what will it take for women to thrive in the new world of work post-pandemic? Well, we don’t yet know the answer – and, in some respects, we don’t even know the right questions to ask.
+How We Got There, a two-week-long virtual event series celebrating outstanding female leaders from across various industries like tech, design, data, marketing, product, venture capital, and many more.
 
-That’s why we’ve put together business leaders, HR Practitioners, and political leaders for our special HTS IWD #choosetochallenge event, in the hope of tackling the biggest questions we should be asking as we move forward in a complex post-pandemic world.
+From 29 March to 9 April, the series will bring together female pioneers, innovators, and trailblazers raising the bar, for one and all to learn about their career journeys, how they got to where they are today, the innovative initiatives they have led as well as trends and opportunities in their respective industries.
 
-In this webinar, we look at how the virus will continue to transform the workplace, how women will need to adopt new skills to survive, how we can effectively address existing inequalities in the workplace and push for greater sustainability and demand new ways to thrive in 2021 and beyond.
+This event series is of course open to all genders — anyone who supports the careers of #womeninbusiness and tech is welcome to attend.
 
-Date: Thursday 25 March 2021
-Time: 11 AM - 12 PM (SGT)
+Don't miss out! Sign up for your FREE ticket at [https://bit.ly/3u3SCGo](https://bit.ly/3u3SCGo){:target="_blank"}
 
-Register for FREE here: [https://www.halftheskyasia.com/events/iwd-2021-thriving-in-the-new-world-of-work](https://www.halftheskyasia.com/events/iwd-2021-thriving-in-the-new-world-of-work){:target="_blank"}
+[Back to Top](#top)
+
+
+<a name="5"></a>
+<h4><strong>Driving Inclusiveness Through Digital Accessibility</strong></h4>
+<img src="/images/calendar/Driving Inclusiveness Through Digital Accessibility.png">
+
+The SCS WIT Chapter is holding its first webinar on “Driving Inclusiveness through Digital Accessibility” to discuss ways to achieve broader and more inclusive growth in the Singapore context, the importance of sponsorship and the necessity of having intentional policies to support these steps.
+
+Join us on Monday, 5 April 2021, 12pm to 1pm as we hear from industry leaders sharing their perspectives - [https://bit.ly/318l0dT](https://bit.ly/318l0dT){:target="_blank"}
+
+[Back to Top](#top)
+
+
+<a name="6"></a>
+<h4><strong>New Frontier 2021</strong></h4>
+[<img src="/images/calendar/NF21 horizontal banner V1.jpg">](https://www.sginnovate.com/newfrontier/){:target="_blank"}
+
+New Frontier is an exclusive showcase of Deep Tech apprenticeships, full-time roles and workshops in exciting fields such as AI, Cybersecurity and Software Development. Look forward to panel discussions with tech leaders and startups founders, who will share valuable insights on emerging job trends across various industries, and help you uncover exciting new career opportunities.
+
+Register now: [https://www.sginnovate.com/newfrontier/](https://www.sginnovate.com/newfrontier/){:target="_blank"}
 
 [Back to Top](#top)

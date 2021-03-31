@@ -4,7 +4,7 @@ permalink: /events/past-events/
 ---
 
 <a name="top"></a>
-[How She Got There: Women in AI and Robotics](#1) | [SG Women in Tech 1 Year Anniversary](#2) | [Building Trust in Your COVID 19 Response](#3) | [Each for Equal: Rejoining the IT Workforce](#4) | [Responsible AI in Times of Pandemic](#5) | [AI and the Future of Ultrasound Imaging](#6) | [Each for Equal: Science and Technology](#7)
+[How She Got There: Women in AI and Robotics](#1) | [SG Women in Tech 1 Year Anniversary](#2) | [Building Trust in Your COVID 19 Response](#3) | [Each for Equal: Rejoining the IT Workforce](#4) | [Responsible AI in Times of Pandemic](#5) | [AI and the Future of Ultrasound Imaging](#6) | [Each for Equal: Science and Technology](#7) | [How to Futureproof Your Careers: Deep Tech Edition](#8) | [In Celebration of International Women’s Day: Leading Together in STEM](#9)
 
 <a name="1"></a>
 <h4><strong>How She Got There: Women in AI and Robotics</strong></h4>
@@ -72,5 +72,25 @@ Event held on : <strong>8 May 2020</strong>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/I6RqoGxiODE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 Event held on : <strong>5 May 2020</strong>
+
+[Back to Top](#top)
+
+
+<a name="8"></a>
+<h4><strong>How to Futureproof Your Careers: Deep Tech Edition</strong></h4>
+<div class="bp-youtube">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/faRfGVKHfu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Event held on : <strong>26 March 2021</strong>
+
+[Back to Top](#top)
+
+
+<a name="9"></a>
+<h4><strong>In Celebration of International Women’s Day: Leading Together in STEM</strong></h4>
+<div class="bp-youtube">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/B44xphHqRxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+Event held on : <strong>8 March 2021</strong>
 
 [Back to Top](#top)
