@@ -4,11 +4,11 @@ permalink: /events/calendar
 ---
 
 <a name="top"></a>
-[The Reading Club](#2) | [How We Got There 2021](#4) | [Driving Inclusiveness Through Digital Accessibility](#5) | [How We Got There 2021](#6)
+[Tech Reading Club](#2) | [How We Got There 2021](#4) | [Driving Inclusiveness Through Digital Accessibility](#5) | [How We Got There 2021](#6)
 
 
 <a name="2"></a>
-<h4><strong>The Reading Club</strong></h4>
+<h4><strong>Tech Reading Club</strong></h4>
 
 [<img src="/images/calendar/TRC_Launch.png">](https://lnkd.in/g-a9wJN)
 Tech Reading Club is a new social initiative founded by Chua Hui Xiang (SG100 Women in Tech) to encourage more women to pursue STEM/ tech careers. In each 30-minute session, members learn about and discuss a book on science, tech or design. Through these sessions, we hope more people will be acquainted with the opportunities and challenges associated with science, tech, and design and perhaps discover their interests in these areas. 
