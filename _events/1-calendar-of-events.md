@@ -4,6 +4,7 @@ permalink: /events/calendar
 ---
 
 <a name="top"></a>
+[Ladies in Cyber Cross Border Webinar](#1) | [DBS Women In Tech 2021 Singapore](#2)
 
 
 <a name="1"></a>
@@ -14,4 +15,10 @@ The Association of Information Security Professionals (AiSP) Ladies in Cyber Tea
 
 Please click [here](https://zoom.us/webinar/register/WN_V4hP_j8aQHCgM-fJdn6xtQ){:target="_blank"} to register for the event.
 
+[Back to Top](#top)
+
+<a name="2"></a>
+<h4><strong>DBS Women In Tech 2021 Singapore</strong></h4>
+
+[<img src="/images/calendar/DWIT-Singapore-2021_EDM.jpg">](https://www.dbs.com/DWIT/sg/index.html){:target="_blank"}
 [Back to Top](#top)
