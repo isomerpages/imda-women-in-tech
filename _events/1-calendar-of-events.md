@@ -4,21 +4,21 @@ permalink: /events/calendar
 ---
 
 <a name="top"></a>
-[Ladies in Cyber Cross Border Webinar](#1) | [DBS Women In Tech 2021 Singapore](#2)
+[Women's place in the society](#1)
 
 
 <a name="1"></a>
-<h4><strong>Ladies in Cyber Cross Border Webinar</strong></h4>
+<h4><strong>Women's place in the society</strong></h4>
 
-<img src="/images/calendar/Ladies_in_Cyber_Cross_Border_Webinar_on_31_May_21.png">
-The Association of Information Security Professionals (AiSP) Ladies in Cyber Team in Singapore together with Cyber Together, Israeli Cyber Security Association is coming together to organise a cross border webinar for any ladies that are interested to find out more on Cyber Security in Singapore and in Israel. Join our speakers (Technical & Non-Technical) to hear more about what they do daily in their job in cyber security, their personal experience, advice and motivation in Cyber Security. During the session, we can also share and discuss on how Israel and Singapore had made tremendous progress over the decades and how our needs and aspirations will continue to grow and become more diverse and how we can all strive to continue to do better in Cyber Security where we all can fulfil our dreams to be leaders in business and society.
+<img src="/images/calendar/nv_zhi_dang_zi_qiang.png">
+As society changes, traditional perceptions of gender roles are slowly breaking down. More women are challenging such notions, engaging in their own preferences and working in male-dominated fields and industries. How can we build a more inclusive society with gender diversity, achieving equality between men and women? Let us understand the impact of gender roles on the status of women through the sharing of a female game designer lead and a volunteer in the Singapore Armed Forces Volunteer Corp.
 
-Please click [here](https://zoom.us/webinar/register/WN_V4hP_j8aQHCgM-fJdn6xtQ){:target="_blank"} to register for the event.
+<strong>Date</strong>: 3rd July, Sat
 
-[Back to Top](#top)
+<strong>Time</strong>: 2-4pm
 
-<a name="2"></a>
-<h4><strong>DBS Women In Tech 2021 Singapore</strong></h4>
+<strong>Venue</strong>: Central Public Library, Programme Zone
 
-[<img src="/images/calendar/DWIT-Singapore-2021_EDM.jpg">](https://www.dbs.com/DWIT/sg/index.html){:target="_blank"}
+<strong>Registration</strong>: [https://go.gov.sg/readfest21-society-women](https://go.gov.sg/readfest21-society-women){:target="_blank"}
+
 [Back to Top](#top)
