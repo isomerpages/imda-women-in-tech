@@ -4,8 +4,6 @@ permalink: /events/calendar
 ---
 
 <a name="top"></a>
-[Women's place in the society](#1)
-
 
 <a name="1"></a>
 <h4><strong>Women's place in the society</strong></h4>
