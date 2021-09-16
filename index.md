@@ -28,15 +28,8 @@ sections:
 
     - infobar:
         subtitle: 
-        title: Call for nominations for SG 100 WIT 2021 now open!
-        description: <img src="/images/homepage/sg_100_women_in_tech_2021.jpg">
-        button: Learn More
-        url: https://www.scs.org.sg/awards/sg100wit-nomination-form
-
-    - infobar:
-        subtitle: 
         title: SG Women in Tech Corporate Pledge
-        description: <iframe width="560" height="315" src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        description: <iframe width="560" height="315" src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/><div class="bp-sec-button">Find out more <a href="https://sgtech.org.sg/SGTECH/Web/Initiatives/SG-Women-in-Tech-Company-Pledge/SG-Women-in-Tech-Company-Pledge.aspx" class="bp-sec-button is-inline-block"><span>here</span> <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></a></div>
         button: 
         url: 
         
