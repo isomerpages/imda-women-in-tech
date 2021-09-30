@@ -6,9 +6,9 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        title: SG WOMEN IN TECH
-        subtitle: Attracting and Developing Girls and Women in Tech
-        background: /images/home-page-banner.jpg
+        background: /images/IMDA-Girls-in-tech-week.jpg
+        button: Join Now
+        url: /community/girls-in-tech-week/
         key_highlights:
             - title: Girls In Education
               description: Provide girls with more knowledge about tech careers
