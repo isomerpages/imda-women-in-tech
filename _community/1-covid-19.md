@@ -43,33 +43,40 @@ This event welcomes all tertiary students who are keen to pursue a career in tec
 		background-color: #7030a0;
 		color: white;
 	}
-	.schedule-table tr.day-1 td {
-		background-color: #e9ebf5;
-		color: black;
-	}
 	.schedule-table tr.day-2 th {
-		background-color: red;
+		background-color: #f35b47;
 		color: white;
-	}
-	.schedule-table tr.day-2 td {
-		background-color: pink;
-		color: black;
 	}
 	.schedule-table tr.day-3 th {
-		background-color: orange;
+		background-color: #008080;
 		color: white;
 	}
+	.schedule-table tr.day-1 th a,
+	.schedule-table tr.day-2 th a,
+	.schedule-table tr.day-3 th a {
+		color: white;
+	}
+	.schedule-table tr.day-1 td,
+	.schedule-table tr.day-2 td,
 	.schedule-table tr.day-3 td {
-		background-color: yellow;
+		background-color: #e9ebf5;
 		color: black;
 	}
 	.schedule-table td.break {
 		text-align: center;
 	}
+	.has-side-nav {
+		display: none !important;
+	}
+	.bp-container>.row>.col.is-8.is-offset-1-desktop.is-12-touch.print-content {
+		width: 90%;
+		margin-left: 0;
+		margin-right: 0;
+	}
 </style>
 <table border="0" class="schedule-table">
 	<tr class="day-1">
-		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZApdeyupzgrHdJ9VGUvtL_Q3Pqjp8lHeRYb">Click here to register for Day 1</a></th>
+		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZApdeyupzgrHdJ9VGUvtL_Q3Pqjp8lHeRYb">Register Now</a></th>
 		<th>Day 1<br/>(11 Oct)</th>
 		<th>Companies</th>
 		<th>Synopsis</th>
@@ -108,7 +115,7 @@ This event welcomes all tertiary students who are keen to pursue a career in tec
 		<td>Join IBM to discover how a Life in Tech looks like. Have a fireside chat with IBMers on their career choices and opportunities. Find out how you can navigate your career into Tech and come prepared with questions!</td>
 	</tr>
 	<tr class="day-2">
-		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZMldeyhqzwqGNyj_PeI4v6MqXnm9eAnfuUS">Click here to register for Day 2</a></th>
+		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZMldeyhqzwqGNyj_PeI4v6MqXnm9eAnfuUS">Register Now</a></th>
 		<th>Day 2<br/>(12 Oct)</th>
 		<th>Companies</th>
 		<th>Synopsis</th>
@@ -147,7 +154,7 @@ This event welcomes all tertiary students who are keen to pursue a career in tec
 		<td>Join us our women leaders at Facebook share their career experiences and journey, discuss challenges and opportunities, and how diversity is at the core of Facebook’s internal communities.</td>
 	</tr>
 	<tr class="day-3">
-		<th rowspan="9"><a href="https://us06web.zoom.us/meeting/register/tZYvc-2rpj0iEtxdwRcBSMpLH_zPQlqwRiBO">Click here to register for Day 3</a></th>
+		<th rowspan="9"><a href="https://us06web.zoom.us/meeting/register/tZYvc-2rpj0iEtxdwRcBSMpLH_zPQlqwRiBO">Register Now</a></th>
 		<th>Day 3<br/>(13 Oct)</th>
 		<th>Companies</th>
 		<th>Synopsis</th>
@@ -191,4 +198,3 @@ This event welcomes all tertiary students who are keen to pursue a career in tec
 		<td>TikTok, known in China as Douyin (Chinese: 抖音; pinyin: Dǒuyīn), is a video-sharing focused social networking service owned by Chinese company ByteDance. The social media platform is used to make a variety of short-form videos, from genres like dance, comedy, and education, that have a duration from fifteen seconds to three minutes.</td>
 	</tr>
 </table>
-

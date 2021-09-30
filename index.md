@@ -6,8 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        background: /images/IMDA-Girls-in-tech-week.jpg
-        button: Join Now
+        background: /images/IMDA-Girls-in-tech-week-2.jpg
+        button: Register Now
         url: /community/girls-in-tech-week/
         key_highlights:
             - title: Girls In Education

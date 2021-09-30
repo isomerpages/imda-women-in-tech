@@ -340,3 +340,28 @@ $desktop: 960px + (2 * $gap) !default;
 	  
 
 
+
+.bp-hero-body .row {
+  align-items: flex-end;
+  height: calc(37.5vw - 8rem);
+  min-height: calc(37.5vw - 8rem);
+}
+@media screen and (max-width: 1023px) {
+  .bp-hero-body {
+    padding: 3rem 1.5rem 0.5rem;
+    .row {
+      display: flex;
+      align-items: flex-end;
+      height: calc(40vw);
+      min-height: calc(40vw);
+      .bp-button.search-button {
+        height: 1.4rem;
+      }
+    }
+    /*
+    */
+  }
+}
+.bp-container iframe {
+  max-width: 100%;
+}
