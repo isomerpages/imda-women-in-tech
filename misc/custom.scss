@@ -336,11 +336,9 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
-	  
-	  
 
 
-
+/* Girl in Tech Week temporary styling - START */
 .bp-hero-body .row {
   align-items: flex-end;
   height: calc(37.5vw - 8rem);
@@ -356,12 +354,17 @@ $desktop: 960px + (2 * $gap) !default;
       min-height: calc(40vw);
       .bp-button.search-button {
         height: 1.4rem;
+        margin-bottom: 3.5vw;
       }
     }
-    /*
-    */
   }
 }
 .bp-container iframe {
   max-width: 100%;
 }
+/*
+.bp-hero-body {
+  background: none;
+}
+*/
+/* Girl in Tech Week temporary styling - END */
