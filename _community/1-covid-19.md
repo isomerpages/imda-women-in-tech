@@ -76,7 +76,7 @@ This event welcomes all tertiary students who are keen to pursue a career in tec
 </style>
 <table border="0" class="schedule-table">
 	<tr class="day-1">
-		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZApdeyupzgrHdJ9VGUvtL_Q3Pqjp8lHeRYb">Register Now</a></th>
+		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZApdeyupzgrHdJ9VGUvtL_Q3Pqjp8lHeRYb">Register Now for Day 1</a></th>
 		<th>Day 1<br/>(11 Oct)</th>
 		<th>Companies</th>
 		<th>Synopsis</th>
@@ -115,7 +115,7 @@ This event welcomes all tertiary students who are keen to pursue a career in tec
 		<td>Join IBM to discover how a Life in Tech looks like. Have a fireside chat with IBMers on their career choices and opportunities. Find out how you can navigate your career into Tech and come prepared with questions!</td>
 	</tr>
 	<tr class="day-2">
-		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZMldeyhqzwqGNyj_PeI4v6MqXnm9eAnfuUS">Register Now</a></th>
+		<th rowspan="8"><a href="https://us06web.zoom.us/meeting/register/tZMldeyhqzwqGNyj_PeI4v6MqXnm9eAnfuUS">Register Now for Day 2</a></th>
 		<th>Day 2<br/>(12 Oct)</th>
 		<th>Companies</th>
 		<th>Synopsis</th>
@@ -154,7 +154,7 @@ This event welcomes all tertiary students who are keen to pursue a career in tec
 		<td>Join us our women leaders at Facebook share their career experiences and journey, discuss challenges and opportunities, and how diversity is at the core of Facebook’s internal communities.</td>
 	</tr>
 	<tr class="day-3">
-		<th rowspan="9"><a href="https://us06web.zoom.us/meeting/register/tZYvc-2rpj0iEtxdwRcBSMpLH_zPQlqwRiBO">Register Now</a></th>
+		<th rowspan="9"><a href="https://us06web.zoom.us/meeting/register/tZYvc-2rpj0iEtxdwRcBSMpLH_zPQlqwRiBO">Register Now for Day 3</a></th>
 		<th>Day 3<br/>(13 Oct)</th>
 		<th>Companies</th>
 		<th>Synopsis</th>
