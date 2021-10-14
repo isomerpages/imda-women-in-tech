@@ -366,3 +366,48 @@ $desktop: 960px + (2 * $gap) !default;
   background: none;
 }
 /* Girl in Tech Week temporary styling - END */
+
+/* 14 Oct Update - START */
+.bp-hero {
+  position: relative;
+  height: 42.86vw;
+}
+.bp-hero-body .bp-container {
+  position: static;
+}
+.bp-button.search-button.is-secondary {
+  background-color: #ff0266 !important;
+  position: absolute;
+  top: 60%;
+  left: 17.5%;
+  font-size: 2.3vw !important;
+  padding: 0.6vw 1.8vw !important;
+  transform: translate(-50%, -50%);
+}
+@media screen and (min-width: 1600px) {
+  .bp-button.search-button.is-secondary {
+    padding: 1.5vw 1.8vw !important;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .bp-hero {
+    background-size: contain !important;
+  }
+  .bp-button.search-button.is-secondary {
+    /*left: 17.5vw;*/
+    /*right: unset;*/
+    font-size: 2vw !important;
+    /*top: 59%;*/
+    /*transform: translate(-50%, -50%);*/
+    padding: 0.2vw 1.8vw !important;
+    height: auto !important;
+    margin-bottom: 0 !important;
+  }
+}
+@media screen and (max-width: 500px) {
+  .bp-button.search-button.is-secondary {
+    /*top: 57%;*/
+    padding: 0 1.4vw !important;
+  }
+}
+/* 14 Oct Update - END */

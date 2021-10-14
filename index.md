@@ -6,9 +6,9 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        background: /images/IMDA-Girls-in-tech-week-2.jpg
-        button: Register Now
-        url: /community/girls-in-tech-week/
+        background: /images/SG100WIT-2021-web-banner.png
+        button: SG100 WIT LIST
+        url: /100-sg-women-in-tech-2021/
         key_highlights:
             - title: Girls In Education
               description: Provide girls with more knowledge about tech careers
