@@ -8,7 +8,7 @@ sections:
     - hero:
         background: /images/SG100WIT-2021-web-banner-2.png
         button: SG100 WIT LIST
-        url: /100-sg-women-in-tech-2021/
+        url: https://www.scs.org.sg/sg100wit-2021-list-citations
         key_highlights:
             - title: Girls In Education
               description: Provide girls with more knowledge about tech careers
