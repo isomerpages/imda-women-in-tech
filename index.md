@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        background: /images/SG100WIT-2021-web-banner.png
+        background: /images/SG100WIT-2021-web-banner-2.png
         button: SG100 WIT LIST
         url: /100-sg-women-in-tech-2021/
         key_highlights:
