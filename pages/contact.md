@@ -23,4 +23,4 @@ contacts:
     - other: 
 ---
 
-If you would like to contribute, or simply get in touch, please fill up the form <a href="https://form.gov.sg/#!/5e8d4976cc1a910011a02c01">here</a> and we will get back to you.
+If you would like to contribute, or simply get in touch, please fill up the form <a href="https://form.gov.sg/6180e1fe171cda0012c5a09b">here</a> and we will get back to you.
