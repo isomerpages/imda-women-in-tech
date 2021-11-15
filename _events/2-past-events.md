@@ -4,10 +4,10 @@ permalink: /events/past-events/
 ---
 
 <a name="top"></a>
-[AccelerateHer Asia @ATxSG 2021 | Welcome Address by Mr. Tan Kiat How, Minister of State](#1) | [AccelerateHer Asia @ATxSG 2021 | The Women Transforming the Asian Tech Eco-System](#2) | [AccelerateHer Asia @ATxSG 2021 | Becoming a Chief in the Tech Industry](#3) | [AccelerateHer Asia @ATxSG 2021 | Leaders Shaping the New World](#4) | [How She Got There: Women in AI and Robotics](#5) | [SG Women in Tech 1 Year Anniversary](#6) | [Building Trust in Your COVID 19 Response](#7) | [Each for Equal: Rejoining the IT Workforce](#8) | [Responsible AI in Times of Pandemic](#9) | [AI and the Future of Ultrasound Imaging](#10) | [Each for Equal: Science and Technology](#11) | [How to Futureproof Your Careers: Deep Tech Edition](#12) | [In Celebration of International Women’s Day: Leading Together in STEM](#13) 
+[AccelerateHer Asia @ATxSG 2021 : Welcome Address by Mr. Tan Kiat How, Minister of State](#1) | [AccelerateHer Asia @ATxSG 2021 : The Women Transforming the Asian Tech Eco-System](#2) | [AccelerateHer Asia @ATxSG 2021 : Becoming a Chief in the Tech Industry](#3) | [AccelerateHer Asia @ATxSG 2021 : Leaders Shaping the New World](#4) | [How She Got There: Women in AI and Robotics](#5) | [SG Women in Tech 1 Year Anniversary](#6) | [Building Trust in Your COVID 19 Response](#7) | [Each for Equal: Rejoining the IT Workforce](#8) | [Responsible AI in Times of Pandemic](#9) | [AI and the Future of Ultrasound Imaging](#10) | [Each for Equal: Science and Technology](#11) | [How to Futureproof Your Careers: Deep Tech Edition](#12) | [In Celebration of International Women’s Day: Leading Together in STEM](#13) 
 
 <a name="1"></a>
-<h4><strong>AccelerateHer Asia @ATxSG 2021 &#124; Welcome Address by Mr. Tan Kiat How, Minister of State</strong></h4>
+<h4><strong>AccelerateHer Asia @ATxSG 2021 : Welcome Address by Mr. Tan Kiat How, Minister of State</strong></h4>
 <div class="bp-youtube">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/F8hD2tCSsxI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -16,7 +16,7 @@ Event held on : <strong>15 July 2021</strong>
 [Back to Top](#top)
 
 <a name="2"></a>
-<h4><strong>AccelerateHer Asia @ATxSG 2021 &#124; The Women Transforming the Asian Tech Eco-System</strong></h4>
+<h4><strong>AccelerateHer Asia @ATxSG 2021 : The Women Transforming the Asian Tech Eco-System</strong></h4>
 <div class="bp-youtube">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/fT1-bgyOywc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -25,7 +25,7 @@ Event held on : <strong>15 July 2021</strong>
 [Back to Top](#top)
 
 <a name="3"></a>
-<h4><strong>AccelerateHer Asia @ATxSG 2021 &#124; Becoming a Chief in the Tech Industry</strong></h4>
+<h4><strong>AccelerateHer Asia @ATxSG 2021 : Becoming a Chief in the Tech Industry</strong></h4>
 <div class="bp-youtube">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/vV14mrGR43A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -34,7 +34,7 @@ Event held on : <strong>15 July 2021</strong>
 [Back to Top](#top)
 
 <a name="4"></a>
-<h4><strong>AccelerateHer Asia @ATxSG 2021 &#124; Leaders Shaping the New World</strong></h4>
+<h4><strong>AccelerateHer Asia @ATxSG 2021 : Leaders Shaping the New World</strong></h4>
 <div class="bp-youtube">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/UD82AHwExbY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
