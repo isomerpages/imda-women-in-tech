@@ -11,7 +11,7 @@ navlinks:
   - title: Read
     resource_room: true
   - title: 100 SG Women in Tech
-    url: /100-sg-women-in-tech/
+    collection: sg100wit
   - title: Community
     collection: community
     sublinks:
