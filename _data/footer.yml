@@ -10,7 +10,7 @@ navlinks:
     collection: about
   - title: Read
     resource_room: true
-  - title: 100 SG Women in Tech
+  - title: SG 100 Women in Tech
     collection: sg100wit
   - title: Community
     collection: community
