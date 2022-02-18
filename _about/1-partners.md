@@ -4,11 +4,11 @@ permalink: /about/partners/
 ---
 <h2>Our Partners</h2>
 
-<img src="/images/imda.png" alt="1" style="width:165px; height:42px">
+<img src="/images/logo/imda.png" alt="1" style="width:165px; height:42px">
 
-<img src="/images/sgi.png" alt="2" style="width:165px; height:128px">
+<img src="/images/logo/sgi.png" alt="2" style="width:165px; height:128px">
 
-<img src="/images/sg-com-so.jpg" alt="3" style="width:165px; height:91px">
+<img src="/images/logo/sg-com-so.jpg" alt="3" style="width:165px; height:91px">
 
 
 SG Women In Tech aims to:

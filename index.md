@@ -6,13 +6,12 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
     - hero:
-        background: /images/SG100WIT-2021-web-banner-2.png
+        background: /images/sg100wit/SG100WIT-2021-web-banner-2.png
         button: SG100 WIT LIST
         url: https://www.scs.org.sg/sg100wit-2021-list-citations
         key_highlights:
             - title: Girls In Education
               description: Provide girls with more knowledge about tech careers
-              image: /images/misson-icon.png
             - title: Women in Workforce
               description: Encourage mentorship and networking for younger women
             - title: Tech Sector
@@ -23,7 +22,7 @@ sections:
         description: An initiative driven by the Infocomm Media Development Authority (IMDA) and supported by community and industry partners, SG Women In Tech aims to attract, retain and develop women talent across a diversity of jobs in the infocomm workforce. Read about our launch <a href="https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech">here</a>.
         button: 
         url: 
-        image: /images/AboutUs.jpeg
+        image: /images/about/AboutUs.jpeg
         alt: About Us
 
     - infobar:

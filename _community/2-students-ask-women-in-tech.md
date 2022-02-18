@@ -7,7 +7,7 @@ permalink: /community/students-ask-women-in-tech/
 <p>Check out two prominent female tech leaders in Singapore answering questions from our students!</p>
 
 <p><strong>Dr Ayesha Khanna</strong></p>
-<p><img src="/images/ayesha.jpg"/></p>
+<p><img src="/images/2020/ayesha.jpg"/></p>
 
 Dr Ayesha Khanna answers questions in a special video series called Students Ask: Women in Tech.
 
@@ -18,7 +18,7 @@ She is co-founder and CEO of ADDO AI, an artificial intelligence (AI) solutions 
 <p>Watch Ayesha’s video on <a href="https://www.linkedin.com/posts/sgwomenintech_internationalwomensday-sgwomenintech-tech-activity-6642215022351224832-Kvn6" rel="nofollow">Linkedin</a>, <a href="https://www.facebook.com/IMDAsg/videos/309549806672062/">Facebook</a>, <a href="https://www.instagram.com/tv/B9dPtvsI64J/?utm_source=ig_web_copy_link" rel="nofollow">Instagram</a>, <a href="https://youtu.be/1gBy0A5wt6w">Youtube</a> and <a href="https://twitter.com/IMDAsg/status/1236472968139509765">Twitter</a>!</p>
 
 <p><strong>Ms Stephanie Hung</strong></p>
-<p><img src="/images/stephanie-hung.jpg"/></p>
+<p><img src="/images/2020/stephanie-hung.jpg"/></p>
 <p>Stephanie Hung answers students’ questions in a special video series called Students Ask: Women in Tech. She is Senior Vice President of ST Engineering, providing cloud and edge computing, analytics, and artificial intelligence to customers.</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S03bRSe1QCw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

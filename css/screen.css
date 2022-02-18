@@ -111,7 +111,7 @@ body{position:relative;}
 .banner-hld .banner-heading-hld{position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);z-index: 2;}
 .btn-default{display:inline-block; min-width:170px; height:45px; color:#fff; font-family: SofiaProSemiBold; font-size:1.6rem; text-align:center; background:#c71e61; text-transform:uppercase; padding: 10px; -webkit-transition: all 300ms ease-out;  transition: all 300ms ease-out;}
 .btn-default:hover{-webkit-transition: all 300ms ease-out;  transition: all 300ms ease-out; background:#fff; color:#c71e61;}
-a.scroll-down-arrow{display: block; position: absolute; width: 21px; height: 21px; background: url(../images/scroll-down-arrow.png); bottom: 20px;  left: 50%;z-index: 9; transform: translate(-50%,0);}
+a.scroll-down-arrow{display: block; position: absolute; width: 21px; height: 21px; background: url(../images/css/scroll-down-arrow.png); bottom: 20px;  left: 50%;z-index: 9; transform: translate(-50%,0);}
 
 #myCarousel a span{background: none; opacity: 1; padding: 5px 5px 5px 5px; border-radius: 50%; width: 34px; height: 34px; border: 2px solid #a0a5a7; transition: all .4s ease;}
 #myCarousel a span img{display: block;}
@@ -153,8 +153,8 @@ a.scroll-down-arrow{display: block; position: absolute; width: 21px; height: 21p
 /* About Us Section End */
 
 /* 100 WIT Section Start */
-.wit-hld{background:#8c274f url(../images/wit-bg-right.jpg) no-repeat top right; background-size:15%; color:#fff; position:relative;}
-.wit-left-hld{background:#8c274f url(../images/wit-bg.jpg) no-repeat top left; min-height: 500px; height: 100%; background-size: cover;}
+.wit-hld{background:#8c274f url(../images/icons/css/wit-bg-right.jpg) no-repeat top right; background-size:15%; color:#fff; position:relative;}
+.wit-left-hld{background:#8c274f url(../images/css/wit-bg.jpg) no-repeat top left; min-height: 500px; height: 100%; background-size: cover;}
 .wit-hld h2{color:#fff; margin-bottom:0;}
 .wit-hld figure{margin:0;}
 .wit-hld figure img{width:100%;}
@@ -180,7 +180,7 @@ a.scroll-down-arrow{display: block; position: absolute; width: 21px; height: 21p
 /* News Section End */
 
 /* Event Section Start */
-.event-hld{background:#862950 url(../images/event-bg.jpg) no-repeat; color:#fff;}
+.event-hld{background:#862950 url(../images/css/event-bg.jpg) no-repeat; color:#fff;}
 .event-hld h2.body-heading{color:#fff;}
 .event-hld figure{border-radius:0;}
 .event-hld.figure-block figure figcaption span.date{background:#fff; color:#8c274f; border-radius:10px; padding:5px 8px; display:inline-block; font-family:SofiaProRegular; line-height: 2rem;}
@@ -202,14 +202,14 @@ a.scroll-down-arrow{display: block; position: absolute; width: 21px; height: 21p
 /* Partners Section End */
 
 /* Newsletter Section Start */
-.newsletter-hld{background:#4e8949 url(../images/newsletter-bg.jpg) repeat-x; color:#fff; text-align:center;}
+.newsletter-hld{background:#4e8949 url(../images/css/newsletter-bg.jpg) repeat-x; color:#fff; text-align:center;}
 .newsletter-hld h4{font-size:4rem; line-height:5rem; font-family:'SofiaProLight'; margin:0;}
 .form-control{height:45px;border: none; font-size: 1.6rem; padding: 0 20px; color: #fff; border-radius: 4px; margin-top: 22px; display:inline-block; font-family:'SofiaProLight';}
 .btn-default[type="submit"]{border:none; cursor:pointer;}
 /* Newsletter Section End */
 
 /* Footer Section Start */
-.footer-hld{background:#1a1a1a url(../images/footer-bg.jpg) no-repeat; color:#FFF;}
+.footer-hld{background:#1a1a1a url(../images/css/footer-bg.jpg) no-repeat; color:#FFF;}
 .footer-address{font-family:'SofiaProLight';}
 .footer-address span{margin-right:15px;}
 .footer-address span img{min-width:42px;}

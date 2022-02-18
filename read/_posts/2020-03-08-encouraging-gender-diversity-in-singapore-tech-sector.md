@@ -5,7 +5,7 @@ permalink: /read/encouraging-gender-diversity-in-singapore-tech-sector
 ---
 Encouraging gender diversity in Singapore’s tech sector
 Eric Goh, Vice President and Managing Director, Singapore, Dell Technologies
-<p><img src="/images/read1.jpg"/></p>
+<p><img src="/images/2020/read1.jpg"/></p>
 “If we cannot now end our differences, at least we can help make the world safe for diversity.” - John F. Kennedy
 
 As a leader passionate about creating a workplace that embraces gender diversity, I sometimes think about President John F. Kennedy’s address at a commencement ceremony at American University in 1963. Whilst he said this in the context of world peace, I find it still a relevant and important sentiment in how business leaders must encourage diverse talent at the workplace. 

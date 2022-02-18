@@ -5,7 +5,7 @@ permalink: /read/building-the-business-with-a-diverse-workforce
 ---
 Building the business with a diverse workforce
 By Sumir Bhatia, President, Lenovo Data Centre Group Asia Pacific and Site Leader, Lenovo Singapore 
-<p><img src="/images/read3.jpg"/></p>
+<p><img src="/images/2020/read3.jpg"/></p>
 Sumir Bhatia (fourth from left) 
 
 While it is important to understand how a company can support and promote diversity, it is important first to understand why it is important. 

@@ -6,7 +6,7 @@ permalink: /read/speak-up-take-charge-go-all-in
 Speak Up, Take Charge, Go All In
 
 Jamie Neo, Director of Engineering, Supplies Operations, HP Inc.
-<p><img src="/images/read2.jpg"/></p>
+<p><img src="/images/2020/read2.jpg"/></p>
 Jamie Neo, (fifth from left)  with her team members
 
 The year was 1991. I was in my 20s, a fresh graduate, a new engineer. When I started work at what was then Hewlett-Packard Company’s wafer fabrication plant, I was the only female engineer on the team. It was mostly business as usual – except for one particular male engineer.
