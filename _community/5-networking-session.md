@@ -3,7 +3,7 @@ title: Networking Session
 permalink: /community/networking-session/
 ---
 <h2>Networking Session</h2>
-<p><img src="/images/networking-sessions-1.jpg"/></p>
+<p><img src="/images/2019/networking-sessions-1.jpg"/></p>
 
 SG Women in Tech held its first networking session in 2019, hosted by Aon. The session was attended by more than 60 participants.
 
