@@ -10,7 +10,7 @@ sections:
       dropdown:
         title: Nominate Now
         options:
-          - title: Hero Dropdown Element Title
+          - title: Please visit here
             url: www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
   - infopic:
       title: ABOUT US
