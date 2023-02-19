@@ -7,17 +7,9 @@ permalink: /
 sections:
   - hero:
       background: /images/sg100wit/SG100WIT 2023 nominations web banner - V1.png
-      button: https://www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
-      url: https://www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
-      key_highlights:
-        - title: Girls In Education
-          description: Provide girls with more knowledge about tech careers
-        - title: Women in Workforce
-          description: Encourage mentorship and networking for younger women
-        - title: Tech Sector
-          description: Engage tech companies and community groups to do more together
-      title: NOMINATE NOW
-      subtitle: OPEN UNTIL 15 APRIL 2023
+      dropdown:
+        title: Nominate now
+        options: []
   - infopic:
       title: ABOUT US
       description: An initiative driven by the Infocomm Media Development Authority
