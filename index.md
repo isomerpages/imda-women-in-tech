@@ -11,7 +11,7 @@ sections:
         title: Nominate Now
         options:
           - title: Please visit here
-            url: www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
+            url: https://www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
   - infopic:
       title: ABOUT US
       description: An initiative driven by the Infocomm Media Development Authority
