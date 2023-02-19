@@ -7,8 +7,6 @@ permalink: /
 sections:
   - hero:
       background: /images/sg100wit/SG100WIT 2023 nominations web banner - V1.png
-      button: nominate here
-      url: https://www.scs.org.sg/awards/sg100wit-criteria-and-nominations-2023
   - infopic:
       title: ABOUT US
       description: An initiative driven by the Infocomm Media Development Authority
