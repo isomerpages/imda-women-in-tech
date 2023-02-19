@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       background: /images/sg100wit/SG100WIT 2023 nominations web banner - V1.png
-      button: Nominate Now
+      button: www.scs.org.sg
       url: https://www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
   - infopic:
       title: ABOUT US
