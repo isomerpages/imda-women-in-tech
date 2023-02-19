@@ -7,11 +7,8 @@ permalink: /
 sections:
   - hero:
       background: /images/sg100wit/SG100WIT 2023 nominations web banner - V1.png
-      dropdown:
-        title: Nominate now
-        options:
-          - title: Open until 15 April 2023
-            url: https://www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
+      button: NOMINATE NOW
+      url: https://www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
   - infopic:
       title: ABOUT US
       description: An initiative driven by the Infocomm Media Development Authority
