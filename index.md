@@ -27,7 +27,7 @@ sections:
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
         gyroscope; picture-in-picture" allowfullscreen></iframe><br/><div
         class="bp-sec-button">Find out more <a
-        href="https://sgtech.org.sg/SGTECH/Web/Initiatives/SG-Women-in-Tech-Company-Pledge/SG-Women-in-Tech-Company-Pledge.aspx"
+        href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge"
         class="bp-sec-button is-inline-block"><span>here</span> <i
         class="sgds-icon sgds-icon-arrow-right is-size-4"
         aria-hidden="true"></i></a></div>
