@@ -1,11 +1,4 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/logos/SG-WIT-Logo-2021.jpg
-
 links:
   - title: About
     collection: about
@@ -15,17 +8,7 @@ links:
     collection: community
   - title: Events
     collection: events
-#  - title: Events
-#    url: /events/calendar/
-#    sublinks:
-#      - title: Calendar of Events
-#        url: /events/calendar/
-#      - title: Past Events
-#        url: /past-events/
   - title: Read
     url: /read/
-    #resource_room: true
-  #- title: In The News
-   # url: /in-the-news/
   - title: Get Involved
     url: /contact/
