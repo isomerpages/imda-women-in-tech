@@ -1,5 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - Test Title.md
