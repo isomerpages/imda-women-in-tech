@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/calendar/ATxWIT Web Banner.png
+      background: /images/calendar/ATxWIT Web Banner-v2.1.png
       key_highlights:
         - title: Register now!
           description: ""
