@@ -6,11 +6,11 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/sg100wit/SG100WIT 2023 nominations web banner - V1.png
+      background: /images/calendar/ATxWIT Web Banner-v2.1.png
       key_highlights:
-        - title: Nominate now!
+        - title: Register now!
           description: ""
-          url: https://www.scs.org.sg/awards/sg100wit-criteria-and-nomination-2023
+          url: https://asiatechxsg.com/sg-women-in-tech/
   - infopic:
       title: ABOUT US
       description: An initiative driven by the Infocomm Media Development Authority
