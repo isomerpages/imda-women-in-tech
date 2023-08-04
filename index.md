@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Register now!
           description: ""
-          url: https://https://learn.generalassemb.ly/made-in-singapore-2023/
+          url: https://learn.generalassemb.ly/made-in-singapore-2023/
   - infopic:
       title: ABOUT US
       description: An initiative driven by the Infocomm Media Development Authority
