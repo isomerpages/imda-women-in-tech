@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/calendar/ATxWIT Web Banner-v2.1.png
+      background: /images/calendar/Sg Women in Tech Banner V2.png
       key_highlights:
         - title: Register now!
           description: ""
@@ -25,7 +25,7 @@ sections:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen></iframe><br/><div
+        gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><div
         class="bp-sec-button">Find out more <a
         href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge"
         class="bp-sec-button is-inline-block"><span>here</span> <i
@@ -36,14 +36,14 @@ sections:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/jK6eKQQONKw" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen></iframe><br><iframe
+        gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><iframe
         width="560" height="315" src="https://www.youtube.com/embed/E1ZO1-GRXJs"
         frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe><br><iframe width="560" height="315"
+        allowfullscreen=""></iframe><br><iframe width="560" height="315"
         src="https://www.youtube.com/embed/ae1aZGPsgVg" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen></iframe>
+        gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       button: Learn More
       url: /community/students-ask-women-in-tech/
   - infobar:
@@ -51,5 +51,5 @@ sections:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/iG-H1ZyYH_o" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen></iframe>
+        gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 ---
