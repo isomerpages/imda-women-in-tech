@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/calendar/Sg Women in Tech Banner V2.png
+      background: /images/calendar/Sg_Women_in_Tech_Banner_1200x630.png
       key_highlights:
         - title: Register now!
           description: ""
