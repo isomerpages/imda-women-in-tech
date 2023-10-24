@@ -1,5 +1,6 @@
 collections:
   community:
+    output: true
     order:
       - girls-in-tech-week.md
       - students-ask-women-in-tech.md
