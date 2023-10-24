@@ -41,8 +41,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 is_government: false
 description: test test
-staging: https://imda-women-in-tech-staging.netlify.com
-prod: https://imda-women-in-tech-prod.netlify.com
+staging: https://staging.d102j24yxobuue.amplifyapp.com/
+prod: https://master.d102j24yxobuue.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
