@@ -1,6 +1,6 @@
 ---
 title: Calendar of Events
-permalink: /events/calendar
+permalink: /events/calendar/
 ---
 
 <a name="top"></a>

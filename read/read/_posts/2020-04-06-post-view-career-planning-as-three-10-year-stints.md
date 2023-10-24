@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  View career planning as three 10-year stints
-permalink: /read/view-career-planning-as-three-10-year-stints
+permalink: /read/view-career-planning-as-three-10-year-stints/
 ---
 
 <p>View career planning as three 10-year stints</p>

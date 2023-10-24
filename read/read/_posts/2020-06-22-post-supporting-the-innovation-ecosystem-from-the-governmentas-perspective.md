@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Supporting the Innovation Ecosystem, from the government’s perspective
-permalink: /read/supporting-the-innovation-ecosystem
+permalink: /read/supporting-the-innovation-ecosystem/
 ---
 ![1](/images/2020/EP3_Poster_v2.png)
 
