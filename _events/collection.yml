@@ -1,6 +1,5 @@
 collections:
   events:
-    output: false
     order:
       - calendar-of-events.md
       - past-events.md
