@@ -1,0 +1,10 @@
+collections:
+  community:
+    output: false
+    order:
+      - girls-in-tech-week.md
+      - students-ask-women-in-tech.md
+      - mentor-connect.md
+      - women-in-tech-summit.md
+      - networking-session.md
+      - sg-women-in-tech-committee.md

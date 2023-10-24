@@ -1,0 +1,7 @@
+collections:
+  sg100wit:
+    output: false
+    order:
+      - sg-100-wit-2020.md
+      - sg-100-wit-2021.md
+      - sg-100-wit-2023.md
