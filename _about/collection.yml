@@ -1,0 +1,5 @@
+collections:
+  about:
+    output: false
+    order:
+      - partners.md

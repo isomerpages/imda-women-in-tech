@@ -7,3 +7,5 @@ _site
 node_modules
 /_site
 vendor
+
+.jekyll-cache
