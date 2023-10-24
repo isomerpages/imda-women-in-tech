@@ -3,7 +3,7 @@ layout: post
 title:  Supporting the Innovation Ecosystem, from the government’s perspective
 permalink: /read/supporting-the-innovation-ecosystem/
 ---
-![1](/images/2020/EP3_Poster_v2.png)
+![1](/images/2020/ep3_poster_v2.png)
 
 Innotopia Podcast, an initiative by PayPal Innovation Lab, sits down with leading Asia-based innovators, from serial entrepreneurs from Silicon Valley to corporate executives in APAC, revealing their stories, and highlighting the unique challenges and opportunities they’ve discovered in the Asia market.
 

@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/calendar/Sg Women in Tech Banner V3_1920x960 copy.png
+      background: /images/calendar/sg women in tech banner v3_1920x960 copy.png
       key_highlights:
         - title: Register now!
           description: ""
@@ -18,7 +18,7 @@ sections:
         Tech aims to attract, retain and develop women talent across a diversity
         of jobs in the infocomm workforce. Read about our launch <a
         href="https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech">here</a>.
-      image: /images/about/AboutUs.jpeg
+      image: /images/about/aboutus.jpeg
       alt: About Us
   - infobar:
       title: SG Women in Tech Corporate Pledge

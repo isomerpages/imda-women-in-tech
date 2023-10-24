@@ -18,7 +18,7 @@ permalink: /events/past-events/
 
 <a name="1"></a>
 <h4><strong>Girls in Tech (GIT) Week</strong></h4>
-<a href="https://www.sgwomenintech.sg/community/girls-in-tech-week/"><img src="/images/2021/Girls-in-Tech-event.jpg" /></a>
+<a href="https://www.sgwomenintech.sg/community/girls-in-tech-week/"><img src="/images/2021/girls-in-tech-event.jpg" /></a>
 
 Event held on : <strong>11 - 13 Oct 2021</strong>
 
