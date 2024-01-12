@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/calendar/GA_Break_into_Tech_2523x960.png
+      background: /images/calendar/GA_Break_into_Tech_2460x936.png
       key_highlights:
         - title: Register now!
           description: ""
