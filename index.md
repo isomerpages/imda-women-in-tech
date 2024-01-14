@@ -6,11 +6,15 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/calendar/sg women in tech banner v3_1920x960 copy.png
+      background: /images/calendar/GA_Break_into_Tech_1640x624.png
       key_highlights:
         - title: Register now!
           description: ""
-          url: https://ga.co/sgwomenintech23
+          url: https://ga.co/bit24-wit
+      variant: image
+      backgroundColor: gray
+      size: md
+      alignment: left
   - infopic:
       title: ABOUT US
       description: An initiative driven by the Infocomm Media Development Authority
