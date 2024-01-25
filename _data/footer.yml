@@ -1,0 +1,23 @@
+privacy_policy:
+feedback: https://form.gov.sg/6180e1fe171cda0012c5a09b
+terms_of_use: /terms-of-use/
+copyright_agency: 
+social_media:
+    linkedin: https://www.linkedin.com/company/sgwomenintech/
+# If navlinks are the same as your navigation bar, you can omit this section entirely!
+navlinks:
+  - title: About
+    collection: about
+  - title: Read
+    resource_room: true
+  - title: SG 100 Women in Tech
+    collection: sg100wit
+  - title: Community
+    collection: community
+    sublinks:
+      - title: Calendar
+        url: /calendar/
+      #- title: In The News
+       # url: /in-the-news/
+      - title: Get Involved
+        url: /contact/
