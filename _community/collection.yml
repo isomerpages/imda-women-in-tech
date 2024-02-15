@@ -2,7 +2,6 @@ collections:
   community:
     output: true
     order:
-      - Corporate Pledge Case Studies (draft).md
       - Corporate Pledge Case Studies.md
       - girls-in-tech-week.md
       - students-ask-women-in-tech.md
