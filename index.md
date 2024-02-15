@@ -6,11 +6,11 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/calendar/GA_Break_into_Tech_1640x624.png
+      background: /images/IMDA_SGWIT_IWD_2024_KV_FINAL.png
       key_highlights:
         - title: Register now!
           description: ""
-          url: https://ga.co/bit24-wit
+          url: https://go.gov.sg/sgwit-iwd2024
       variant: image
       backgroundColor: gray
       size: md
