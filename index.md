@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/SGWIT_IWD_2024_Web_Banner__1_.png
+      background: /images/SGWIT_IWD2024_Web_Banner.png
       key_highlights:
         - title: Register now!
           description: ""
