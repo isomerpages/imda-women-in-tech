@@ -1,16 +1,21 @@
 ---
 title: Calendar of Events
 permalink: /events/calendar/
+variant: tiptap
 ---
-
-<a name="top"></a>
-
-<a href="https://lnkd.in/giQZckqR"><img src="/images/2021/fb_live_digital_economy.jpeg" /></a>
-
-United States Secretary of Commerce, Gina Raimondo and Singapore Minister for Communications and Information, Josephine Teo will provide opening remarks and participate in a moderated panel discussion to share their thoughts on empowering women entrepreneurs in key industries and why the U.S. and Singapore are attractive places for female founders to thrive.
-
-Join us on Facebook Live for “Women in Tech - Seizing Opportunities in the Digital Economy”
-
-<strong>Date</strong>: 16 Nov 2021<br/>
-<strong>Time</strong>: 2:45pm SGT<br/>
-[Facebook Live](https://lnkd.in/giQZckqR)
+<p></p>
+<p>This International Women’s Day, SG Women in Tech is putting together our
+inaugural IWD celebration on <strong>8 March 2024</strong> from <strong>9:00AM to 1:00PM</strong>.</p>
+<p>At our event titled “WITness Her Spark”, SGWIT proudly presents an inspiring
+day of conversations with trailblazing female leaders, insights from companies
+building inclusive environments for women to thrive in, and the opportunity
+to network with a diverse community of women including some of our latest
+SG100WIT 2023 honorees.</p>
+<p>Join us for the event by signing up here and we’ll see you soon!</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/sgwit-iwd2024</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IWD2024_EDM_final_min.png">
+</div>
+<p></p>
