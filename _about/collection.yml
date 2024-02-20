@@ -2,7 +2,7 @@ collections:
   about:
     output: true
     order:
-      - Our Stories.md
       - About Us.md
       - SGWIT Committee.md
+      - Our Stories.md
       - partners.md
