@@ -2,6 +2,6 @@ collections:
   about:
     output: true
     order:
-      - SGWIT Committee.md
       - About Us.md
+      - SGWIT Committee.md
       - partners.md
