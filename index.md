@@ -17,8 +17,8 @@ sections:
       alignment: left
   - infopic:
       title: SGWIT
-      description: "SGWIT is an initiative driven by the Infocomm Media Development
-        Authority (IMDA) and supported by the community and industry partners. "
+      description: SGWIT is an initiative driven by the Infocomm Media Development
+        Authority (IMDA) and supported by the community and industry partners.
       image: /images/about/aboutus.jpeg
       alt: About Us
       subtitle: Who we are
@@ -29,25 +29,21 @@ sections:
       button: Learn more about the specific actions participating companies pledge and
         discover how you can contribute to this impactful initiative!
       alt: Image alt text
-      description: "The Corporate Pledge is a collaborative effort driven by companies
-        committed to building a more inclusive and equitable tech industry. "
-      url: ' <iframe width="560" height="315"
+      description: The Corporate Pledge is a collaborative effort driven by companies
+        committed to building a more inclusive and equitable tech industry.
+      url: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0"
-        allowfullscreen="allow="></iframe><br><div class="bp-sec-button"></div>'
+        allowfullscreen="allow="></iframe><br><div class="bp-sec-button"></div>
       image: /images/2020/deepracer edm sg-01-01.png
   - infobar:
       title: SG100WIT 2023
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/jK6eKQQONKw" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><iframe
-        width="560" height="315" src="https://www.youtube.com/embed/E1ZO1-GRXJs"
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe><br><iframe width="560" height="315"
-        src="https://www.youtube.com/embed/ae1aZGPsgVg" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      description: Check out the latest SG100WIT list of women and girls in tech
+        honorees in this video. <iframe allowfullscreen="" allow="accelerometer;
+        autoplay; clipboard-write; encrypted-media; gyroscope;
+        picture-in-picture; web-share" frameborder="0" title="YouTube video
+        player"
+        src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
+        height="315" width="560"></iframe>
       button: Learn More
       url: /community/students-ask-women-in-tech/
       subtitle: Video
