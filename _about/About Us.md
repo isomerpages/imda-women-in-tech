@@ -19,6 +19,7 @@ pursue a career in the dynamic infocomm tech sector.</p>
 </li>
 <li>
 <p>Attract and develop more girls and women in tech industry</p>
+<p></p>
 </li>
 </ol>
 <p>Position Singapore as a global leader in fostering a supportive environment
