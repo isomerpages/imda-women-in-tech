@@ -16,7 +16,7 @@ sections:
       size: md
       alignment: left
   - infopic:
-      title: ABOUT US
+      title: SGWIT
       description: An initiative driven by the Infocomm Media Development Authority
         (IMDA) and supported by community and industry partners, SG Women In
         Tech aims to attract, retain and develop women talent across a diversity
@@ -24,6 +24,7 @@ sections:
         href="https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech">here</a>.
       image: /images/about/aboutus.jpeg
       alt: About Us
+      subtitle: WHO WE ARe
   - infobar:
       title: SG Women in Tech Corporate Pledge
       description: <iframe width="560" height="315"
