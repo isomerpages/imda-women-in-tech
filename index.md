@@ -25,6 +25,12 @@ sections:
       image: /images/about/aboutus.jpeg
       alt: About Us
       subtitle: WHO WE ARe
+  - infopic:
+      title: Corporate Pledge
+      subtitle: SG WOMEN IN TECH
+      id: infopic
+      button: Button Text
+      alt: Image alt text
   - infobar:
       title: Corporate Pledge
       description: <iframe width="560" height="315"
@@ -38,7 +44,7 @@ sections:
         aria-hidden="true"></i></a></div>
       subtitle: SG Women in Tech
   - infobar:
-      title: Students Ask&colon; Women In Tech
+      title: SG100WIT 2023
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/jK6eKQQONKw" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
@@ -52,10 +58,9 @@ sections:
         gyroscope; picture-in-picture" allowfullscreen=""></iframe>
       button: Learn More
       url: /community/students-ask-women-in-tech/
-  - infobar:
-      title: Our Year In Review
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/iG-H1ZyYH_o" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      subtitle: Video
+  - resources:
+      title: News & Events
+      subtitle: LATEST
+      id: resources
 ---
