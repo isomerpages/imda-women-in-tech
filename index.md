@@ -31,12 +31,10 @@ sections:
       alt: Image alt text
       description: The Corporate Pledge is a collaborative effort driven by companies
         committed to building a more inclusive and equitable tech industry.
-      url: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0"
-        allowfullscreen="allow="></iframe><br><div class="bp-sec-button"></div>
+      url: "-"
       image: /images/2020/deepracer edm sg-01-01.png
   - infobar:
-      title: SG100WIT 2023
+      title: SG100 WIT 2023
       description: Check out the latest SG100WIT list of women and girls in tech
         honorees in this video. <iframe allowfullscreen="" allow="accelerometer;
         autoplay; clipboard-write; encrypted-media; gyroscope;
