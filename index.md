@@ -17,32 +17,24 @@ sections:
       alignment: left
   - infopic:
       title: SGWIT
-      description: An initiative driven by the Infocomm Media Development Authority
-        (IMDA) and supported by community and industry partners, SG Women In
-        Tech aims to attract, retain and develop women talent across a diversity
-        of jobs in the infocomm workforce. Read about our launch <a
-        href="https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech">here</a>.
+      description: "SGWIT is an initiative driven by the Infocomm Media Development
+        Authority (IMDA) and supported by the community and industry partners. "
       image: /images/about/aboutus.jpeg
       alt: About Us
-      subtitle: WHO WE ARe
+      subtitle: Who we are
   - infopic:
       title: Corporate Pledge
       subtitle: SG WOMEN IN TECH
       id: infopic
-      button: Button Text
+      button: Learn more about the specific actions participating companies pledge and
+        discover how you can contribute to this impactful initiative!
       alt: Image alt text
-  - infobar:
-      title: Corporate Pledge
-      description: <iframe width="560" height="315"
+      description: "The Corporate Pledge is a collaborative effort driven by companies
+        committed to building a more inclusive and equitable tech industry. "
+      url: ' <iframe width="560" height="315"
         src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><div
-        class="bp-sec-button">Find out more <a
-        href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge"
-        class="bp-sec-button is-inline-block"><span>here</span> <i
-        class="sgds-icon sgds-icon-arrow-right is-size-4"
-        aria-hidden="true"></i></a></div>
-      subtitle: SG Women in Tech
+        allowfullscreen="allow="></iframe><br><div class="bp-sec-button"></div>'
+      image: /images/2020/deepracer edm sg-01-01.png
   - infobar:
       title: SG100WIT 2023
       description: <iframe width="560" height="315"
