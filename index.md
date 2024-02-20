@@ -26,7 +26,7 @@ sections:
       alt: About Us
       subtitle: WHO WE ARe
   - infobar:
-      title: SG Women in Tech Corporate Pledge
+      title: Corporate Pledge
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media;
@@ -36,6 +36,7 @@ sections:
         class="bp-sec-button is-inline-block"><span>here</span> <i
         class="sgds-icon sgds-icon-arrow-right is-size-4"
         aria-hidden="true"></i></a></div>
+      subtitle: SG Women in Tech
   - infobar:
       title: Students Ask&colon; Women In Tech
       description: <iframe width="560" height="315"
