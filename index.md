@@ -17,9 +17,9 @@ sections:
       alignment: left
   - infopic:
       title: SGWIT
-      description: SG Women in Tech (SGWIT) fosters a thriving tech sector by
-        empowering women in tech. Join our vibrant community and connect with
-        like-minded individuals.
+      description: SG Women in Tech (SGWIT) is an initiative driven by IMDA and
+        supported by industry partners. SGWIT fosters a thriving tech sector by
+        empowering women in tech.
       image: /images/about/aboutus.jpeg
       alt: About Us
       subtitle: Who we are
