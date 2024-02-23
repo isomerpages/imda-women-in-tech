@@ -28,11 +28,11 @@ sections:
       title: Corporate Pledge
       subtitle: SG WOMEN IN TECH
       id: infopic
-      button: Learn more about the specific actions participating companies pledge and
-        discover how you can contribute to this impactful initiative!
+      button: "Learn more "
       alt: Image alt text
-      description: The Corporate Pledge is a collaborative effort driven by companies
-        committed to building a more inclusive and equitable tech industry.
+      description: "Join the Corporate Pledge, a collaborative effort fostering
+        inclusiveness in the tech industry. Over 60 companies have committed to
+        supporting women in tech. "
       url: "-"
       image: /images/2020/deepracer edm sg-01-01.png
   - infobar:
