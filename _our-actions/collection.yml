@@ -1,4 +1,5 @@
 collections:
   our-actions:
     output: true
-    order: []
+    order:
+      - SG100WIT.md
