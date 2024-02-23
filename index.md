@@ -37,15 +37,15 @@ sections:
       image: /images/2020/deepracer edm sg-01-01.png
   - infobar:
       title: SG100 WIT 2023
-      description: Check out the latest SG100WIT list of women and girls in tech
-        honorees in this video. <iframe allowfullscreen="" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture; web-share" frameborder="0" title="YouTube video
-        player"
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
         src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
-        height="315" width="560"></iframe>
-      button: Learn More
-      url: /community/students-ask-women-in-tech/
+        height="315" width="560"></iframe> Check out the latest edition of
+        Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this
+        video. Find out more
+      button: "About SG100WIT "
+      url: /100-sg-women-in-tech-2023/
       subtitle: Video
   - resources:
       title: News & Events
