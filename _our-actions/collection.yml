@@ -1,0 +1,4 @@
+collections:
+  our-actions:
+    output: true
+    order: []
