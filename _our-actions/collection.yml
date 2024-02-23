@@ -2,6 +2,7 @@ collections:
   our-actions:
     output: true
     order:
+      - IWD 2024.md
       - What We Do.md
       - SG100WIT.md
       - ATX SG.md
