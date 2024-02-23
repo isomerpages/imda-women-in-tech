@@ -2,4 +2,5 @@ collections:
   our-actions:
     output: true
     order:
+      - What We Do.md
       - SG100WIT.md
