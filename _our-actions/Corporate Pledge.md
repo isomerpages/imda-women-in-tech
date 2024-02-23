@@ -125,7 +125,7 @@ knowledge on gender diversity and inclusion</p>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Internal corporate activities / resources</strong>
+<p><strong>Internal corporate activities / resources</strong> 
 <br>
 <br>BofA Women in Technology &amp; Operations (WIT&amp;O) is a line of business
 advocacy group for Global Technology &amp; Operations. It actively promotes
@@ -135,7 +135,7 @@ WIT&amp;O has more than 7,000 members who provide a community of support
 for each other. Members choose to participate in regional chapters or globally
 through workgroups and global steering group programs.</p>
 <hr>
-<p><strong>Develop and retain female talent</strong>
+<p><strong>Develop and retain female talent</strong> 
 <br>
 <br>BofA is committed to improve promotion, retention and pull through rates
 for women at all levels by creating a more inclusive culture and by advocating
@@ -145,7 +145,7 @@ team. Through these interactions, participants can draw on the leaders’
 experiences to help them navigate through some of the challenges they may
 relate to.</p>
 <hr>
-<p><strong>Seed students’ interest in technology</strong>
+<p><strong>Seed students’ interest in technology</strong> 
 <br>
 <br>BofA has successfully ran Code to Connect series across multiple years.
 This is a series that is tailor made for technology penultimate and final
@@ -294,13 +294,104 @@ needs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>DBS</strong>
+</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Build and nurture a strong pipeline of women talent in technology – Launch
+DBS Women in Tech Conference, Partner with United Women Singapore (Girls2Pioneer)
+to encourage female youth towards STEM related degrees and careers&nbsp;</p>
+<hr>
+<p>Develop women in tech through training and mentoring – Grow and retain
+talent within the organisation through various internal and external mentoring
+and networking events including the IMDA Mentor Connect</p>
+<hr>
+<p>Champion women in tech through dedicated recruitment and development programmes
+– Organise specially curated hiring programmes to increase the percentage
+of women hires in Technology ( such as DBS Women in Tech virtual hiring
+)</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Dell Technologies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Set up Women in Tech Resource Team</p>
+<hr>
+<p>Commit public to diverse leadership</p>
+<hr>
+<p>Conduct executive coaching &amp; professional development</p>
+<hr>
+<p>Organise/ sponsor events for networking across companies for Women in
+Tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ensign InfoSecurity&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Organize a learning journey for female students aimed at sparking interest
+in a meaningful cybersecurity career</p>
+<hr>
+<p>To have at least 50% of interns taken into Ensign in 2021 to be females</p>
+<hr>
+<p>Jointly organize a female youth symposium involving female youths and
+industry professionals, in partnership with AiSP’s Ladies in Cyber Charter.&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EPAM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Educate local talent in digital technologies and provide inclusive in-house
+training opportunities to local communities, women returning to work after
+extended leaves, career-switchers and university graduates</p>
+<hr>
+<p>Spark children’s and teenagers’ interest in the IT profession by engaging
+and educating them through EPAM’s eKids education initiatives&nbsp; with
+a special focus on early STEAM education for young girls to encourage them
+to pursue education in the math and science fields and a potential career
+in IT / engineering</p>
+<hr>
+<p>Continue to commit in creating a diverse and inclusive workplace where
+collaboration is valued and differences are appreciated. Where our teams
+work together to deliver the most creative and cutting-edge digital solutions
+and ideas that positively impact our community and the world. Continue
+to cooperate with local organizations to promote employability and education
+(e2i, SkillsFuture &amp; IMDA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>EZ-Link</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Organise special outreach events for recruiting female tech talent</p>
+<hr>
+<p>Implement events/programmes or participate in schools' career day to interest
+girls in STEM careers&nbsp;</p>
+<hr>
+<p>Internship/networking/mentorship programmes for higher education institutions'
+students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fermata Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Actively promotes an inclusive environment where employees have an opportunity
+to achieve personal success and contribute to the growth of the business.
+Employees will be able to seek coaching and personal development sessions.</p>
+<hr>
 </td>
 </tr>
 </tbody>
