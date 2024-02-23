@@ -12,3 +12,5 @@ links:
     url: /read/
   - title: Contact Us
     url: /contact/
+  - title: Our Actions
+    collection: about
