@@ -44,7 +44,7 @@ sections:
         src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
         height="315" width="560"></iframe><br>
 
-        Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video. <br> Find out more at the link below.
+        Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video. 
       button: Find out more About SG100WIT
       url: /100-sg-women-in-tech-2023/
       subtitle: Video
