@@ -28,11 +28,11 @@ sections:
       title: Corporate Pledge
       subtitle: SG WOMEN IN TECH
       id: infopic
-      button: "Learn more "
+      button: Learn more
       alt: Image alt text
-      description: "Join the Corporate Pledge, a collaborative effort fostering
+      description: Join the Corporate Pledge, a collaborative effort fostering
         inclusiveness in the tech industry. Over 60 companies have committed to
-        supporting women in tech. "
+        supporting women in tech.
       url: "-"
       image: /images/2020/deepracer edm sg-01-01.png
   - infobar:
@@ -44,7 +44,7 @@ sections:
         src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
         height="315" width="560"></iframe><br>
 
-        Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video. <br> Find out more
+        Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video. <br> Find out more at the link below.
       button: About SG100WIT
       url: /100-sg-women-in-tech-2023/
       subtitle: Video
