@@ -17,7 +17,7 @@ in Tech, IMDA, Singapore (govinsider.asia)</a>
 </li>
 <li>
 <p>SG100WIT 2023 Honourees Bell Beh on challenging the status quo to pursue
-her dreams. <a href="https://e27.co/buzzar-ceo-bell-beh-advocates-open-conversations-on-systemic-issues-to-empower-women-in-tech-20230913/" rel="noopener noreferrer nofollow" target="_blank">BuzzAR CEO Bell Beh advocates open conversations on systemic issues to empower women in tech | e27</a>
+her dreams. <a href="https://e27.co/buzzar-ceo-bell-beh-advocates-open-conversations-on-systemic-issues-to-empower-women-in-tech-20230913/" rel="noopener noreferrer nofollow" target="_blank">BuzzAR CEO Bell Beh advocates open conversations on systemic issues to empower women in tech | e27</a> 
 <br>
 <br>
 </p>
@@ -30,16 +30,14 @@ building a one-stop prop-tech company. <a href="https://asiatechpodcast.com/2023
 </li>
 <li>
 <p>Read about the inspiring story of SG100WIT listee Cik Hamidah, founder
-of data analysis firm, Parrot Social. <a href="https://www.beritaharian.sg/setempat/tekad-bangun-pasarkan-perniagaan-klien-dengan-analisis-data" rel="noopener noreferrer nofollow" target="_blank">Tekad Bangun, Pasarkan Perniagaan Klien Dengan Analisis Data, Berita Singapura - </a>
-<a rel="noopener noreferrer nofollow" target="_blank">Beritaharian.sg</a>
+of data analysis firm, Parrot Social. <a href="https://www.beritaharian.sg/setempat/tekad-bangun-pasarkan-perniagaan-klien-dengan-analisis-data" rel="noopener noreferrer nofollow" target="_blank">Tekad Bangun, Pasarkan Perniagaan Klien Dengan Analisis Data, Berita Singapura - Beritaharian.sg</a>
 </p>
 <p></p>
 </li>
 <li>
 <p>Read about SG100WIT listee Ms Nadhira Salsabila, software engineer at
 PayPal, on making an impact and inspiring the next generation of women
-in tech. <a href="https://www.beritaharian.sg/setempat/ingin-beri-kesan-mudahkan-urusan-pengguna-berteras-teknologi" rel="noopener noreferrer nofollow" target="_blank">Ingin Beri Kesan, Mudahkan Urusan Pengguna Berteras Teknologi, Berita Singapura - </a>
-<a rel="noopener noreferrer nofollow" target="_blank">Beritaharian.sg</a>
+in tech.<a href="https://www.beritaharian.sg/setempat/ingin-beri-kesan-mudahkan-urusan-pengguna-berteras-teknologi" rel="noopener noreferrer nofollow" target="_blank">Ingin Beri Kesan, Mudahkan Urusan Pengguna Berteras Teknologi, Berita Singapura - Beritaharian.sg</a>
 </p>
 <p></p>
 </li>
@@ -47,7 +45,7 @@ in tech. <a href="https://www.beritaharian.sg/setempat/ingin-beri-kesan-mudahkan
 <p>Be inspired by SG100WIT listee Ms Nur Atiqah Othman, senior research engineer
 at IHPC, on overcoming challenges and fears in pursuing a tech career.
 <a href="https://www.beritaharian.sg/setempat/cemerlang-dari-jurusan-kemanusiaan-ke-dunia-teknologi" rel="noopener noreferrer nofollow" target="_blank">Cemerlang Dari Jurusan Kemanusiaan Ke Dunia Teknologi, Berita Singapura
--</a><a rel="noopener noreferrer nofollow" target="_blank">Beritaharian.sg</a>
+- Beritaharian.sg</a>
 </p>
 </li>
 </ol>
