@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: SGWIT
       description: SG Women in Tech (SGWIT) fosters a thriving tech sector by
-        empowering women in tech. <a href="/about/about-us/l">Learn more</a>
+        empowering women in tech. <a href="/about/about-us/">Learn more</a>
       image: /images/about/aboutus.jpeg
       alt: About Us
       subtitle: Who we are
