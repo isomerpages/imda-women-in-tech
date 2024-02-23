@@ -18,7 +18,7 @@ sections:
   - infopic:
       title: SGWIT
       description: SG Women in Tech (SGWIT) fosters a thriving tech sector by
-        empowering women in tech. Join our vibrant community to connect with us.
+        empowering women in tech. <a href="/about/about-us/l">Learn more</a>
       image: /images/about/aboutus.jpeg
       alt: About Us
       subtitle: Who we are
@@ -44,7 +44,7 @@ sections:
         src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
         height="315" width="560"></iframe><br>
 
-        Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video. 
+        Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video.
       button: Find out more About SG100WIT
       url: /100-sg-women-in-tech-2023/
       subtitle: Video
