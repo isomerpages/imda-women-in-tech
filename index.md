@@ -23,7 +23,7 @@ sections:
       image: /images/about/aboutus.jpeg
       alt: About Us
       subtitle: Who we are
-      button: Join our Mailing List
+      button: Become a member
       url: /about/about-us/
   - infopic:
       title: Corporate Pledge
