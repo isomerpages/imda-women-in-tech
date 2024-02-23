@@ -2,6 +2,6 @@ collections:
   our-actions:
     output: true
     order:
-      - ATX SG.md
       - What We Do.md
       - SG100WIT.md
+      - ATX SG.md
