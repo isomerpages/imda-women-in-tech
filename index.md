@@ -17,11 +17,13 @@ sections:
       alignment: left
   - infopic:
       title: SGWIT
-      description: SGWIT is an initiative driven by the Infocomm Media Development
-        Authority (IMDA) and supported by the community and industry partners.
+      description: "SG Women in Tech (SGWIT) fosters a thriving tech sector by
+        empowering women in tech. "
       image: /images/about/aboutus.jpeg
       alt: About Us
       subtitle: Who we are
+      button: Learn more
+      url: /about-us
   - infopic:
       title: Corporate Pledge
       subtitle: SG WOMEN IN TECH
