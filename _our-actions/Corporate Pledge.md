@@ -1057,6 +1057,106 @@ and support networks at the workplace</p>
 equality in all forms, striving towards an equal opportunity employer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Salesforce</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Internal Corporate Activities/Resources - To grow Salesforce Women's Network
+(SWN) members and participations. The Salesforce Women’s Network is instrumental
+in achieving the goal of 50% women leaders, across all levels and geos,
+and representative of all Equality Groups at Salesforce, to empower and
+inspire all employees to lead in their own lives without limitation</p>
+<hr>
+<p>To host Virtual Mentorship programmes with benficiaries/schools. 30 min
+conversations between employees working within Salesforce to raise awareness
+about the breadth of roles available within the industry amongst women.
+Whether they are mothers, women returning to work after a short/long break,
+high school students or university students</p>
+<hr>
+<p>To host Networking Opportunities (SWN Circles) monthly. SWN Circles is
+a virtual safe-space discussion on women supporting women. Facilitators
+will have a scheduled program with pre-determined dates and access to a
+curated library of resource materials incl. intro video and discussion
+guide</p>
+<hr>
+<p>To host #IamRemarkable programs monthly to improve self promotion motivation
+and skills of women</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SAP Asia</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Build internal Inclusive Leadership Succession - Ongoing: part of a Leadership
+Experience and Development program we have launched in Southeast Asia with
+two cohorts- aspirational leaders and senior leadership successors. Nominations
+are based on succession readiness and gender diversity</p>
+<hr>
+<p>Continue to build a targeted pipeline with gender diversity - Ongoing:
+changing the way we attract talent by nurturing select talent communities.
+Run targeted talent win events led by our talent attraction team (we have
+had dedicated cohorts of early talents and/or females) to engage with them
+through an immersive experience whilst increasing brand visible and nurturing
+pipeline for selected types of roles</p>
+<hr>
+<p>Launch of an SAP Women Founders’ Forum (new for 2021) - This initiative
+will provide female founders access to mentors and experts to walk them
+through the processes, how to integrate to SAP technology/, learn from
+other startups that have already integrated to SAP offerings, in addition
+to providing mentorship on other areas as such financial advice and scaling.
+We are aiming not only to inspire more women to start startups, but more
+importantly help women who already have started startups become more successful
+with access to the right resources</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAS Singapore</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Through SAS Women’s Initiatives Network to create opportunities and a
+community where women in SAS are encouraged to achieve their full potential,
+both in their personal and professional lives.</p>
+<hr>
+<p></p>
+<p>Commit to build female tech talent pipeline in hiring</p>
+<p></p>
+<hr>
+<p></p>
+<p>Create a cozy dedicated nursing environment on-site</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Blockchain Innovation Programme (SBIP)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To organize seminar with panel featuring female leaders in blockchain
+field</p>
+<hr>
+<p>To conduct female-focus technical training/workshop related to blockchain</p>
+<hr>
+<p>To hold/support female-focus hackathon related to blockchain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SGInnovate</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Leadership stance on promoting diversity and gender equality</p>
+<hr>
+<p>Gender equal HR policies and practices</p>
+<hr>
+<p>Dedicated content and event series promoting SG WiT</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
