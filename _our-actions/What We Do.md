@@ -16,6 +16,6 @@ We showcase diverse role models and their achievements.</p>
 hyperlink to SG100WIT subpage</p>
 <p><strong>Tech Events:</strong> We organise and facilitate networking events
 and opportunities for women in tech to connect with industry experts, professionals,
-and peers through events such as <strong><u>Asia Tech x Singapore (ATxSG) and IWD 2024</u></strong>(hyperlink
-to subpages). These connections foster collaboration, mentorship, and career
-opportunities within the industry.</p>
+and peers through events such as <a href="/our-actions/atx-sg/" rel="noopener noreferrer nofollow" target="_blank">Asia Tech x Singapore (ATxSG)</a><strong><u> </u></strong>and<strong><u> </u></strong>
+<a href="/our-actions/iwd2024/" rel="noopener noreferrer nofollow" target="_blank">IWD 2024</a>. These connections foster collaboration, mentorship, and
+career opportunities within the industry.</p>
