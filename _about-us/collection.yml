@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Stories/.keep
       - About Us.md
       - SGWIT Committee.md
       - Our Stories.md
