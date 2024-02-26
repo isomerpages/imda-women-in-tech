@@ -40,17 +40,6 @@ sections:
         who are passionate about technology and empowerment.
       button: Become a member
       url: /about/about-us/
-  - infopic:
-      title: Corporate Pledge
-      subtitle: SG WOMEN IN TECH
-      id: infopic
-      button: Learn more
-      alt: Image alt text
-      description: Join the Corporate Pledge, a collaborative effort fostering
-        inclusiveness in the tech industry. Over 60 companies have committed to
-        supporting women in tech.
-      url: "-"
-      image: /images/2020/deepracer edm sg-01-01.png
   - infobar:
       title: Corporate Pledge
       id: infobar
