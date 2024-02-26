@@ -9,7 +9,9 @@ society, and the digital economy converge.</p>
 <p>ATxSG, organised by the Infocomm Media Development Authority (IMDA) and
 Informa Tech, and supported by the Singapore Tourism Board (STB), fosters
 discussions that uniquely thrive in Singapore, spanning across business,
-technology, and government sectors.</p>
+technology, and government sectors.
+<br>
+</p>
 <p><strong>ATxSG 2024</strong>
 </p>
 <p>On 29 - 31 May 2024, ATxSG will host a multitude of co-located events,
@@ -23,6 +25,7 @@ our collective digital future.</p>
 2024): Showcasing cutting-edge tech topics across its co-located events:&nbsp;BroadcastAsia,
 CommunicAsia, SatelliteAsia, TechXLR8 Asia, and Innovfest x Elevating Founders.</p>
 <p>Find out more about <strong>ATxSG <a href="https://asiatechxsg.com/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u></strong>
+<br>
 </p>
 <p><strong>ATxWIT 2023</strong>
 </p>
