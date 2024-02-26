@@ -22,8 +22,7 @@ pursue a career in the dynamic infocomm tech sector.</p>
 <p></p>
 </li>
 </ol>
-<p>Position Singapore as a global leader in fostering a supportive environment
-for women in tech SGWIT has since evolved into a vibrant community of women
-in tech where ideas flourish, networks expand, and aspirations are realised.</p>
+<p>SGWIT has since evolved into a vibrant community of women in tech where
+ideas flourish, networks expand, and aspirations are realised.</p>
 <p></p>
 <p></p>
