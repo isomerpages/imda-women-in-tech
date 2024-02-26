@@ -12,6 +12,7 @@ description: ""
 <p>To guide and galvanise the industry and community towards SGWIT’s mission,
 IMDA has convened a dedicated committee of individuals who are passionate
 and committed to the cause.
+<br>
 <br>The committee’s responsibilities include:</p>
 <ol data-tight="true" class="tight">
 <li>
