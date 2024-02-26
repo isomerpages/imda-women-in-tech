@@ -21,9 +21,8 @@ sections:
         supported by industry partners. SGWIT fosters a thriving tech sector by
         empowering women in tech.
       image: /images/about/aboutus.jpeg
-      alt: Find out more
       subtitle: Who we are
-      button: Become a member
+      button: Find out more
       url: /about/about-us/
   - infopic:
       title: Singapore 100 Women in Tech (SG100WIT) List
