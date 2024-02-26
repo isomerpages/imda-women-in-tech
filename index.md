@@ -60,7 +60,7 @@ sections:
         <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
         web-share" frameborder="0" title="YouTube video player"
-        src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
+        src="https://www.youtube.com/embed/-oDamlPFejc?si=J2SgQnY0jabB4d2E"
         height="315" width="560"></iframe><br>
 
         Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video.
