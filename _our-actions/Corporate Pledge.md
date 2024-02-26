@@ -612,7 +612,7 @@ help women become exceptional leaders.</p>
 </tbody>
 </table>
 <p></p>
-<p>Find out more about the Corporate Pledge <a href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Find out more about the Corporate Pledge <a href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge" rel="noopener noreferrer nofollow" target="_blank">here.</a> 
 <br>
 </p>
 <p></p>
