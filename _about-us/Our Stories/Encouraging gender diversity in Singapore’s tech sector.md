@@ -7,7 +7,9 @@ third_nav_title: Our Stories
 ---
 <h4><strong>8 March 2020<br>Encouraging gender diversity in Singapore’s tech sector</strong></h4>
 <p>Eric Goh, Vice President and Managing Director, Singapore, Dell Technologies</p>
-<p>&lt;p&gt;&lt;img src="/images/2020/read1.jpg"&gt;&lt;/p&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eric Goh, VP and MD, Singapore, Dell Technologies" src="/images/2020/read1.jpg">
+</div>
 <p>“If we cannot now end our differences, at least we can help make the world
 safe for diversity.” - John F. Kennedy</p>
 <p>As a leader passionate about creating a workplace that embraces gender
