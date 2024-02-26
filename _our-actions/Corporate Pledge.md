@@ -405,10 +405,214 @@ Employees will be able to seek coaching and personal development sessions.</p>
 <hr>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Flying Cape</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Provide public commitment to women participation in Tech&nbsp;</p>
+<hr>
+<p>Enhance mentorship programme with a 50/50 hiring goal for gender diversity&nbsp;</p>
+<hr>
+<p>Provide opportunities for Mom to re-enter workforce with roadmap for advancement
+in Career in Tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Fyreflyz Pte Ltd</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Recruit and empower more women and expose them to technological possibilities</p>
+<hr>
+<p>To provide an environment that encourages self-learning for women</p>
+<hr>
+<p>Expand internship and learning opportunities for younger women</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>GIC</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Tackle unconscious bias by rolling out unconscious bias training for all
+employees</p>
+<hr>
+<p>Recruitment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Talent Acquisition to focus more efforts in sourcing for and surface
+more female tech profiles</p>
+</li>
+<li>
+<p>&nbsp;Ensure diverse interview panels (at least 1 female interviewer)
+for all interviews</p>
+</li>
+</ul>
+<hr>
+<p>Female Talent Engagement &amp; Development</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Establish female tech network and mentoring circles to help junior
+female talent find concrete and meaningful support from female peers and
+leaders to do well&nbsp; in their roles and in the GIC environment</p>
+</li>
+<li>
+<p>&nbsp;Actively build strong gender representation in the top talent bench
+so as to nurture the next generation of female technology leaders in GIC</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Government Technology Agency of Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To drive mentorship and development of female talents, particularly the
+young and return-to-work groups, to help bolster our female tech talent
+pool in SG</p>
+<hr>
+<p>Strengthen awareness and knowledge on gender diversity and inclusion across
+the organization, through education and training</p>
+<hr>
+<p>Establish a&nbsp;Women@GovTech&nbsp;employee resource group, to lead and
+chart future initiatives to support the development and retention of female
+employees</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>IBM</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Attract</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Hiring of women tech talent</p>
+</li>
+<li>
+<p>Partner with schools/academia to increase Women in Tech</p>
+</li>
+<li>
+<p>Partnership with Placement Agencies and Women Organisation</p>
+</li>
+<li>
+<p>Feature IBM women speakers in seminars, conferences and conventions</p>
+</li>
+</ul>
+<hr>
+<p>Develop &nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Push for women education in IBM with various women training sessions to
+support them in the workplace</p>
+</li>
+</ul>
+<hr>
+<p>Retain</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Women ASEAN Business Resource Group&nbsp;</p>
+</li>
+<li>
+<p>Flexible work options</p>
+</li>
+<li>
+<p>&nbsp;Review and update policies for women employees</p>
+</li>
+<li>
+<p>External partnership to increase exposure</p>
+</li>
+<li>
+<p>Advocate internal recognition</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Infocomm Media Development Authority</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Curate an industry-wide movement - SG Women in Tech to attract, retain
+and develop girls and women in tech&nbsp;</p>
+<hr>
+<p>Participate in mentorship programmes (as mentor and mentee) to grow women
+tech talent within IMDA and in the tech industry</p>
+<hr>
+<p>Seed students' early interest in tech e.g. through career awareness activities
+or tech skills development for pre-tertiary girls</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ingram Micro</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Promote career opportunities for Women in Tech in Virtual Career Fairs</p>
+<hr>
+<p>Promote internship opportunities for Women in Tech with Polytechnics/ITEs/Universities</p>
+<hr>
+<p>Offer academic sponsorship to high potential females in the organisation
+and providing roadmaps for their career advancement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Inspire-Tech</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Coaching and personal development sessions for women employees</p>
+<hr>
+<p>Appropriate HR interventions to support family life by empowering women
+to manage their working hours flexibly as they need to take care of their
+families while managing their deliverables</p>
+<hr>
+<p>Internship and mentoring programmes in place to develop youths. We will
+put additional efforts to encourage female youths to join our internship
+programmes</p>
+<hr>
+<p>Set up a Women in Tech support team comprising of CEO, HR manager, Operations
+Manager and Marketing Manager</p>
+<hr>
+<p>Company participation in SGTech Career Support Group to inspire women
+interested in tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>J.P. Morgan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Engaging our women employees and strengthening women representation across
+all levels in the organization through programs such as Women on the Move,
+a firmwide initiative to increase awareness and address topics that matter
+to women as well as provide a forum for women’s voices at the firm.</p>
+<hr>
+<p>Educating the next generation of women and instilling in them a passion
+for technology through junior and youth talent programs such as GenerationTech
+and Winning Women Program</p>
+<hr>
+<p>Providing access to tools that enable the successful development, advancement
+and retention of women; recognizing women's unique contributions to the
+organization and offering career development strategies and insights to
+help women become exceptional leaders.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<p>
+<p>Find out more about the Corporate Pledge <a href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 <br>
 </p>
 <p></p>
