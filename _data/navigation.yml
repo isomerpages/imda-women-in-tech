@@ -10,7 +10,7 @@ links:
     collection: community
   - title: News & Events
     collection: events
-  - title: Read
-    url: /read/
+  - title: News & Events
+    url: /news-and-events/
   - title: Contact Us
     url: /contact/
