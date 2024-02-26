@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Stories/Speak Up, Take Charge, Go All In.md
       - Our Stories/Encouraging gender diversity in Singapore’s tech sector.md
       - Our Stories/Owned Media.md
       - Our Stories/.keep
