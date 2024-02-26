@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Stories
 ---
-<p>&lt;Migrate existing content from <a rel="noopener noreferrer nofollow" target="_blank">https://www.sgwomenintech.sg/read/</a> and
-include the following updated content.&gt;</p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Hear how the Chair of SG Women in Tech orchestrates strategic research
