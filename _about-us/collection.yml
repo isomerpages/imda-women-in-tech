@@ -1,5 +1,5 @@
 collections:
-  about:
+  about-us:
     output: true
     order:
       - About Us.md
