@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Stories
 ---
-<h4><strong>Speak Up, Take Charge, Go All In</strong><br><strong>24 March 2020</strong><br></h4>
+<h4><strong>Speak up, Take charge, Go all in</strong><br><strong>24 March 2020</strong><br></h4>
 <p>Jamie Neo, Director of Engineering, Supplies Operations, HP Inc.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Jamie Neo (fifth from left) with her team members" src="/images/2020/read2.jpg">
