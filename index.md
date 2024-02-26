@@ -36,8 +36,8 @@ sections:
   - infobar:
       title: Ignite Your Passion with SGWIT
       id: infobar
-      description: "Join our vibrant community and connect with like-minded
-        individuals who are passionate about technology and empowerment. "
+      description: Join our vibrant community and connect with like-minded individuals
+        who are passionate about technology and empowerment.
       button: Become a member
       url: /about/about-us/
   - infopic:
