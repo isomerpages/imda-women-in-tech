@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Stories/Building the business with a diverse workforce.md
       - Our Stories/.keep
       - Our Stories/Owned Media.md
       - Our Stories/Speak Up, Take Charge, Go All In.md
