@@ -7,10 +7,6 @@ permalink: /
 sections:
   - hero:
       background: /images/sg100wit/SGWIT_Hero_Banner.png
-      key_highlights:
-        - title: Register now!
-          description: ""
-          url: https://go.gov.sg/sgwit-iwd2024
       variant: image
       backgroundColor: gray
       size: md
