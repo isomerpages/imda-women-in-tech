@@ -46,11 +46,23 @@ sections:
       id: infopic
       button: Learn more
       alt: Image alt text
-      description: Join the Corporate Pledge, a collaborative effort fostering
+      description: "Join the Corporate Pledge, a collaborative effort fostering
         inclusiveness in the tech industry. Over 60 companies have committed to
-        supporting women in tech.
+        supporting women in tech. "
       url: "-"
       image: /images/2020/deepracer edm sg-01-01.png
+  - infobar:
+      title: Corporate Pledge
+      id: infobar
+      description: '<iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
+        height="315" width="560"></iframe><br> The Corporate Pledge is a
+        collaborative effort driven by companies committed to building a more
+        inclusive and equitable tech industry. '
+      button: Button Text
+      url: /what-we-do/corporate-pledge
   - infobar:
       title: SG100 WIT 2023
       description: >-
