@@ -4,9 +4,10 @@ permalink: /about/sgwit-committee/
 variant: tiptap
 description: ""
 ---
-<h1>SGWIT Committee</h1>
-<h4></h4>
-<p>&lt; Import updated committee list &gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SGWIT Committee" src="/images/2022/committeemembers2022.png">
+</div>
 <p></p>
 <p>To guide and galvanise the industry and community towards SGWIT’s mission,
 IMDA has convened a dedicated committee of individuals who are passionate
