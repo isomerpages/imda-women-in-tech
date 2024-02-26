@@ -7,7 +7,9 @@ third_nav_title: Our Stories
 ---
 <h4><strong>24 March 2020<br>Speak Up, Take Charge, Go All In</strong><br></h4>
 <p>Jamie Neo, Director of Engineering, Supplies Operations, HP Inc.</p>
-<p>&lt;p&gt;&lt;img src="/images/2020/read2.jpg"&gt;&lt;/p&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jamie Neo (fifth from left) with her team members" src="/images/2020/read2.jpg">
+</div>
 <p>Jamie Neo, (fifth from left) with her team members</p>
 <p>The year was 1991. I was in my 20s, a fresh graduate, a new engineer.
 When I started work at what was then Hewlett-Packard Company’s wafer fabrication
