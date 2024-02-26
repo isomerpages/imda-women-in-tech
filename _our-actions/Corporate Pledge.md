@@ -1241,6 +1241,141 @@ and employee volunteering.</p>
 their wealth needs to achieve their financial goals.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST Engineering&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Encourage networking within ST Engineering and with external partners
+through sharing of best practices and experiences</p>
+<hr>
+<p>Build pipeline of women talents and offer mentorship and sponsorship for
+individuals on women in leadership professional development</p>
+<hr>
+<p>Create awareness of diversity @ work and organise events/webinars/feedback
+sessions and support groups within ST Engineering</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tribal Worldwide</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To implement Total Experience™ (TX) programme and to work with schools,
+IHLs to provide internship, networking and mentorship opportunities; for
+female students to be exposed in areas such as Technology, CX and Product
+Design&nbsp;</p>
+<hr>
+<p>Conduct executive coaching and professional development for female talents
+and to provide equal access to both men and women</p>
+<hr>
+<p>Launch a new HR initiative to support employees with dual-roles such as
+working mom and caregiver to elderly parents to be given flexibility in
+working hours to attend to needs at home. Company to provide an additional
+of 2 days of family leave programme for working mom/caregivers</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Trusted Services</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>On-site Nursing room (Structural workplace intervention)</p>
+<hr>
+<p>Mentorship Program (Coaching &amp; Professional Development)</p>
+<hr>
+<p>Seeding students’ interest in Tech via Internship Program</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ubisoft Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Create ERGs and allyship programs for our female employees and roll out
+a Women in Leadership program&nbsp;</p>
+<hr>
+<p>Review our maternity and paternity leave policies and advocate for flexible
+work arrangements</p>
+<hr>
+<p>Conduct career talks with secondary schools to create awareness about
+career opportunities in the industry for students and with parents"</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Unity Technologies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Internal Corporate Activities and Resources</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Co-host events between the Women and Asian Employee Resource Group during
+International Women’s Day 2021.&nbsp;</p>
+</li>
+</ul>
+<hr>
+<p>Mentorship &amp; Professional Development</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Work with an external consultant or organization to provide public speaking
+workshops to our APAC female employees.&nbsp;</p>
+</li>
+</ul>
+<hr>
+<p>Networking Opportunities&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In Q3/Q4 2021, we will host a Candid Conversation event in Singapore focused
+on providing opportunities for external guests to come learn and join Unity
+Technologies</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>vLookUp</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Connect aspiring women leaders in Tech to mentors, role models and domain
+experts and nurtures curated, one-on-one conversations coupled with career-specific
+guidance to enable women to grow and lead</p>
+<hr>
+<p></p>
+<p>Aims to break access barriers to leaders in Tech Industry and to facilitate
+access between women leaders and mentees. It is a mentee driven platform
+which empowers women is tech to choose from a pool of mentors as per their
+specific career needs.</p>
+<hr>
+<p></p>
+<p>Create a cross- organizational community of mentors and women mentees
+who believe in helping women leaders in Tech grow and find relevant opportunities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;Wipro Limited (Singapore Branch)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Rejuvenation leave - Entitlement extended to cover mental health/ family
+issues</p>
+<hr>
+<p></p>
+<p>Regular inhouse global held Woman networking, mentoring and events</p>
+<hr>
+<p></p>
+<p>Embrace CCP/ SGUP of Woman Returning to Work after long sabbatical break
+due to family commitment</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
