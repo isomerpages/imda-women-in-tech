@@ -21,7 +21,7 @@ sections:
         supported by industry partners. SGWIT fosters a thriving tech sector by
         empowering women in tech.
       image: /images/about/aboutus.jpeg
-      alt: About Us
+      alt: Find out more
       subtitle: Who we are
       button: Become a member
       url: /about/about-us/
