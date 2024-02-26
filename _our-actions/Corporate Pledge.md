@@ -847,6 +847,216 @@ and participate in free, hands-on computer and technology workshop</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Motional</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To encourage and empower women to build personal and professional development
+by providing guidance, advice, and feedback to each other, via peer-to-peer
+mentoring circles</p>
+<hr>
+<p>To encourage young fathers to take an active role when a new baby joins
+the family, by providing structured and official paternity leave, promoting
+equitable load share between both working parents.</p>
+<hr>
+<p>To build a supportive community for the women and allies at our company
+by creating an open space for discussion, sharing experiences, providing
+mentorship, and facilitating outreach to the wider community. Motional
+aims to ensure inclusivity and equitable advancement, and promote opportunities
+for growth and success for women within the company and beyond.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>NCS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To build a female talent pipeline</p>
+<hr>
+<p>To drive women mentorship and sponsorship programs</p>
+<hr>
+<p>To launch initiatives to inspire women to embark on a career in tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OCBC</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Set up a Cross-Divisional Women in Tech Resource Team</p>
+<hr>
+<p>Conduct Professional Coaching and Reverse Mentorship</p>
+<hr>
+<p>Work With Community Partners to Organise Networking Events</p>
+<hr>
+<p>Expand Internship and Graduate Programmes for Young Women in STEM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Okta</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Recruiting more female talent to build balanced teams - We attract and
+value talent that reflects our community of partners, customers, and employees</p>
+<hr>
+<p>Nurturing an inclusive culture - We strive to support our workforce not
+only in their professional journeys but in their personal growth as well.
+That includes a fair and equitable approach to promotions and pay parity,
+offering comprehensive benefits, providing learning and development programs,
+and supporting everyone in Dynamic Work:
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parental Leave: 18-week parental leave that is equitable and extends to
+all parents, regardless of birthing or caregiver status
+<br>
+</p>
+</li>
+<li>
+<p>Maternity Coverage: Up to US$20,000 per year
+<br>&nbsp;</p>
+</li>
+<li>
+<p>Okta-provided funds to help pay for fertility treatments or other family-forming
+services
+<br>
+</p>
+</li>
+<li>
+<p>Dynamic Work: Workplace solutions, such as co-working spaces, outside
+of our primary office locations that support our distributed teams.&nbsp;Curated
+programs that build community both in-person and virtually&nbsp;</p>
+</li>
+</ul>
+<hr>
+<p>Foster female employee engagement through Employee Resource Groups such
+as&nbsp;Women@Okta&nbsp;(W@Okta)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>W@Okta&nbsp;sponsors talks focused on professional development and career
+strategy, organizes social events and philanthropy programs, and facilitates
+mentorship and networking for women in technology</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Oracle</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Invest in equity to achieve equality - Deliver the inaugural Women in
+Tech Summit for Oracle women, investing in top technical talent to enhance
+innovation, product development as well as technical capability and career
+advancement</p>
+<hr>
+<p>Commit to increasing representation of female leaders and experts across
+the organization - through targeted development and engagement activities,
+empowering current and future generations of Oracle women leaders</p>
+<hr>
+<p>Organize and sponsor events that foster professional networks - creating
+an environment of growth and retention of Oracle women leaders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PayPal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Grooming the next generation female leaders (examples of initiatives are
+PayPal Women Luminaries Program, internships, etc.)</p>
+<hr>
+<p>Creating more opportunities for our female employees (one way is through
+our affinity group, Unity, which aims to help our female employees thrive
+and provide them with growth opportunities)</p>
+<hr>
+<p>Talent pipelining and attraction of female tech talent (examples of initiatives
+are recruitment events/career talks targeting female students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Pensees</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Form a Pensees' 'Women in Tech' Committee - to roll-out of whole year
+activities for women in tech, for example our HR is currently planning
+an International Women's Day Celebration for our office</p>
+<hr>
+<p>Organise women-related talks during International Women's Day and other
+days of the year, to promote women well-being; such as talks on bust care,
+symptoms of breast cancer, etc.</p>
+<hr>
+<p>Raising the profile of 'Women in Tech' at Pensees by writing feature stories
+and publicising them through our digital media platforms</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PwC Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Nurture our growing female talent in technology by offering executive
+coaching to females in tech at PwC Singapore&nbsp;</p>
+<hr>
+<p>Amplify the voices, achievements and challenges of women across diverse
+backgrounds and drive their personal career goals forward by creating 'Lean
+In' circles and safe spaces across the firm</p>
+<hr>
+<p>Collaborate with educational institutions and exchange sharings with female
+students around careers in STEM, showcasing the journeys of our female
+tech talent in PwC Singapore</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Razer</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ensure that a minimum of one interviewable candidate for positions across
+senior role vacancies (i.e director and above) and fresh graduate/internship
+opportunities is female</p>
+<hr>
+<p>Conduct anti-bias training for all hiring managers&nbsp;</p>
+<hr>
+<p>Execute regular women-only school outreach programs (Secondary and tertiary
+level) in collaboration with other participating WIT companies</p>
+<hr>
+<p>Conduct school outreach programs for secondary and tertiary students</p>
+<hr>
+<p>To showcase success stories of the Women at Razer through internal communications
+channels and social amplification programs</p>
+<hr>
+<p>To facilitate networking opportunities for and with phenomenal women across
+the tech industry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong>Rakuten</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Provide continuous support for Mothers at workplace such as maternity
+benefits, flexible working hours, nursing rooms, and counselling services</p>
+<hr>
+<p>Concerted initiatives to endorse women empowerment (personally and professionally)
+such as women-focused tech talks, International Women’s Day panel discussion
+and support networks at the workplace</p>
+<hr>
+<p>Commit to implement workplace practices that embraces inclusivity and
+equality in all forms, striving towards an equal opportunity employer</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
