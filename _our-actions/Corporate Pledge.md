@@ -609,6 +609,244 @@ organization and offering career development strategies and insights to
 help women become exceptional leaders.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kaspersky</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To encourage and enable female undergraduates to pursue cybersecurity
+careers through activities such as career talks, and book prizes</p>
+<hr>
+<p>To promote cyber literacy and better the understanding of cybersecurity
+career pathways</p>
+<hr>
+<p>To build a Kaspersky WiT resource team to heighten confidence of female
+professionals in cybersecurity through mentorship and coaching</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Keppel Data Centres</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Be an equal opportunity employer where our workplace practices are based
+on meritocracy and not subject to any form of biasness</p>
+<hr>
+<p>Commit to promoting an inclusive culture within the organization by raising
+awareness of gender equality and workplace diversity through various activities
+and programmes. This year, we are running an Inclusive Leaderships and
+Behaviours programme for our people managers to learn about subconscious
+biases impacting their daily work situations</p>
+<hr>
+<p>Work with academic institutions to conduct campus outreach programme,
+career talks, networking sessions targeting to attract female tech talents
+into the industry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Kobe Global Technologies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Kobe is committing to upholding fair, gender-neutral hiring practices
+that ensure equally-qualified women have equal employment opportunities</p>
+<hr>
+<p>Kobe will carry out executive coaching and mentorship for female employees,
+both to develop them within their existing roles and to offer career guidance
+and personal support where needed</p>
+<hr>
+<p>Kobe is pledging to ensure the availability of internship programmes for
+interested female students from higher education institutions&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>KPMG in Singapore</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Participation in recruitment events/activities which support the hiring
+of women in tech</p>
+<hr>
+<p>Concerted outreach to girls schools on cyber careers, awareness and tech
+knowledge - Our KPMG Cares team reaches out regularly to schools on these
+topics. This year, we will make a concerted effort to reach out to more
+girls schools</p>
+<hr>
+<p>Champion and provide recommendations for diversity and inclusion in publications
+where possible. For example, KPMG is co-writing a publication with Real
+Estate Developers Association in&nbsp; Singapore (REDAS) on the Built Environment
+and one of the key insights is around the huge gap in digital talent for
+the sector based on the current interim result findings. We can make a
+mention against the backdrop of gender digital divide and digital gender
+gap, supplemented with face-to-face interviews</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;LemmaTree</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Continue our inclusive workplace practices that commit to embracing diversity
+in all of its forms and being an equal opportunity employer</p>
+<hr>
+<p>Commit to inspiring and guiding underprivileged individuals in pursuing
+their passion and making a difference to the society through technology</p>
+<hr>
+<p>Continue building a culture of learning and growing in the tech sector,
+where empowered women leaders empower future leaders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lenovo</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Dedicated Women Resource Team - Lenovo has set up a WILL (Women in Lenovo
+Leadership) employee resource group dedicated to drive diversity and inclusive
+in the workplace in order to hold fast to the public commitment to a diverse
+workplace and leadership&nbsp;</p>
+<hr>
+<p>Mentorship Programs - Lenovo has a regional mentorship program dedicated
+to the female employees. It maps a female mentee to a mentor in accordance
+to the objectives that the female mentee aims to achieve out of the mentorship
+program&nbsp;</p>
+<hr>
+<p>Seed interest in STEM education - Lenovo will continue to drive initiatives
+that promote interest and exposure to STEM education at a young age, particularly
+Technology in order to build a strong pipeline of talent for the future</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LinkedIn</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Create equal opportunities for women to take on Leadership roles by increasing
+the inclusivity of our hiring practices, attracting a more diverse set
+of talent and nurturing meaningful relationships that lead to opportunities.
+In 2021, a key initiative to drive this focus will be diverse slates of
+candidates and interviewers for our leadership roles</p>
+<hr>
+<p>Accelerate career growth of existing female talent by building a leadership
+pipeline through focused development programs.&nbsp; A key initiative in
+this space is EmpowerIn, an annual cohort program (now in its fourth cycle).
+The last 3 cycles of the program have been very successful with in-person
+and hybrid (in-person and virtual) models. However, in 2021 we commit to
+running the first fully virtual cohort successfully</p>
+<hr>
+<p>Build a people manager population who are world class at inclusive leadership.
+Managers are responsible for hiring and promotion decisions, coaching and
+developing people on their teams which comprise of folks with different
+gender orientations, abilities and backgrounds. Recognizing that leading
+inclusively and mitigating bias will take sustained focus, we have rolled
+out an inclusive leadership framework and our managers across the globe,
+now engaging in a live-virtual learning course called Leading with Inclusion.
+By the end of 2021, all of our people managers in Singapore will complete
+this course</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lumen Technologies</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Champion diversity goals by leading efforts to increase women representation</p>
+<hr>
+<p>Cultivate an inclusive workplace, and actively create opportunities for
+women from diverse backgrounds</p>
+<hr>
+<p>Commit to developing women for leadership roles, and empower women tech
+talent through mentorship, while fostering a strong community spirit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mastercard</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Scale locally in Singapore our award-winning Girls4Tech™ education program,
+designed for girls ages 8-16, aims to create future problem-solvers. Based
+on STEM principles, Girls4Tech was&nbsp; developed in conjunction with
+our top engineers and technologists to showcase Mastercard’s payments technology,
+incorporating our deep expertise in encryption, fraud detection, cybersecurity,
+AI, data privacy, and more</p>
+<hr>
+<p>Support research to enable women’s empowerment</p>
+<hr>
+<p>Drive targeted events or initiatives (mentoring, external/internal speakers,
+etc) to support development of women leaders through our internal Women
+Leadership Network</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>McKinsey &amp; Company</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Organize learning and engagement session(s) with McKinsey’s global women
+tech leaders to provide role models and to inspire more local women in
+tech</p>
+<hr>
+<p>Provide guiding insights on supporting the inclusion and advancement of
+women in tech, as part of McKinsey’s Women in the Workplace research</p>
+<hr>
+<p>Conduct professional development session(s) to cultivate leadership skills
+and to build a peer support community for women in tech</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Microsoft</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Microsoft Corporate Activities</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Organise Monthly Women At Microsoft Event&nbsp;
+<br>
+</p>
+</li>
+<li>
+<p>Microsoft INCLUDE 2021 Virtual Event on 17th March</p>
+</li>
+</ul>
+<hr>
+<p>Empower Others to Achieve More</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Organise Microsoft SG Codess for University students. Codess provide a
+platform for networking events and workshops where female coders can mentor,
+share advice and experiences, and motivate each other to achieve professional
+goals
+<br>
+</p>
+</li>
+<li>
+<p>Partner with NUS Women In Tech for speaker sessions targeted for tech
+talents</p>
+</li>
+</ul>
+<hr>
+<p>Spark early passion for tech with Girls</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Organise Annual DigiGirlz Program : Platform for Secondary school girls
+to learn about careers in technology, connect with Microsoft employees,
+and participate in free, hands-on computer and technology workshop</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
