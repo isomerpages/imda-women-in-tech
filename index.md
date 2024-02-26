@@ -26,13 +26,11 @@ sections:
       button: Become a member
       url: /about/about-us/
   - infopic:
-      title: Singapore 100 Women in Tech (SG100WIT) list
+      title: Singapore 100 Women in Tech (SG100WIT) List
       id: infopic
       description: SGWIT honours women and girls in tech with the Singapore 100 Women
         in Tech (SG100WIT) List. The third edition amplifies these brilliant
         capabilities in tech
-      button: Learn More
-      url: "-"
       alt: Image alt text
   - infobar:
       title: Ignite Your Passion with SGWIT
