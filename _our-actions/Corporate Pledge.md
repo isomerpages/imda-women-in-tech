@@ -1157,6 +1157,90 @@ field</p>
 <p>Dedicated content and event series promoting SG WiT</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ShopBack&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Implement structural interventions (e.g. dedicated facilities, new policies)
+to better support women (e.g. mothers) in the workplace</p>
+<hr>
+<p>Develop mentorship programs within the company to enable professional
+development across the organization</p>
+<hr>
+<p>Increase visibility of female role models to foster interest in the Tech
+sector and inspire the next generation of leaders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Shopee</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Feature female employees and leaders in Shopee's communication platforms
+- to support gender diversity across different roles and levels.</p>
+<hr>
+<p>Train, coach and mentor female employees through talent programmes - to
+provide access to training and professional development for both men and
+women.</p>
+<hr>
+<p>Feature Shopee's female spokesperson(s) at webinars or events for students,
+graduates or working professionals - to inspire more women to join the
+tech sector and spark their interest in tech careers.&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singapore Airlines</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Organize special outreach events for recruiting female tech talent such
+as internships, career talks.&nbsp;</p>
+<hr>
+<p>Set up Women in Tech Resource Team</p>
+<hr>
+<p>Mentorship Programme for coaching and development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Singtel&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>To encourage and grow women in tech, by organising internal and external
+events. E.g. speaking panel for International Women’s Day, Networking session
+for female employees etc</p>
+<hr>
+<p>To seed students’ interest in tech by Implement events/programmes to interest
+girls in STEM careers, e.g. Singtel-SUTD women in tech scholarship&nbsp;</p>
+<hr>
+<p>To celebrate women’s successes and our everyday heroines by featuring
+their stories on social media</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Standard Chartered</strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Increase female representation&nbsp;in&nbsp;senior leadership positions
+to 35%. Foster an&nbsp;inclusive and family-friendly culture through enabling
+flexible ways of working, coaching programme for&nbsp;women, and 20 weeks
+of fully paid maternity or adoption leave.</p>
+<hr>
+<p>Empower young women to be digitally ready to enter the technology industry.
+Build a pipeline of Futuremakers through community investment programmes
+and employee volunteering.</p>
+<hr>
+<p>Celebrate&nbsp;women’s&nbsp;individualities by supporting and personalising
+their wealth needs to achieve their financial goals.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
