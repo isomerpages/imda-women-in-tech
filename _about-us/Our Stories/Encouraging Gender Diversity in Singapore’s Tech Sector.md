@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Our Stories
 ---
-<h4><strong>Encouraging gender diversity in Singapore’s Tech Sector</strong><br><strong>8 March 2020</strong><br></h4>
+<h4><strong>Encouraging gender diversity in Singapore’s tech sector</strong><br><strong>8 March 2020</strong><br></h4>
 <p>Eric Goh, Vice President and Managing Director, Singapore, Dell Technologies</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Eric Goh, VP and MD, Singapore, Dell Technologies" src="/images/2020/read1.jpg">
