@@ -169,9 +169,7 @@ to do so in 2022 as well.</p>
 <hr>
 <p>Conduct Professional Coaching and Reverse Mentorship</p>
 <hr>
-<p>Work With Community Partners to Organise Networking Events
-<br>
-</p>
+<p>Work With Community Partners to Organise Networking Events</p>
 <hr>
 <p>Expand Internship and Graduate Programmes for Young Women in STEM</p>
 </td>
@@ -384,17 +382,6 @@ students</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Fermata Singapore</strong>
 </p>
 </td>
@@ -458,7 +445,9 @@ for all interviews</p>
 <li>
 <p>&nbsp;Establish female tech network and mentoring circles to help junior
 female talent find concrete and meaningful support from female peers and
-leaders to do well&nbsp; in their roles and in the GIC environment</p>
+leaders to do well&nbsp; in their roles and in the GIC environment
+<br>
+</p>
 </li>
 <li>
 <p>&nbsp;Actively build strong gender representation in the top talent bench
@@ -524,7 +513,7 @@ support them in the workplace</p>
 <p>Flexible work options</p>
 </li>
 <li>
-<p>&nbsp;Review and update policies for women employees</p>
+<p>Review and update policies for women employees</p>
 </li>
 <li>
 <p>External partnership to increase exposure</p>
