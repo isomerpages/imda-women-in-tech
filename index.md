@@ -6,7 +6,7 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/Hero_Banner_1920x720.jpg
+      background: /images/Hero_Banner_1200.jpg
       variant: image
       backgroundColor: gray
       size: md
