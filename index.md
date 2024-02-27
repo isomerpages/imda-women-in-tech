@@ -28,9 +28,8 @@ sections:
   - infobar:
       title: Ignite Your Passion with SGWIT
       id: infobar
-      description: Join our diverse tech community and connect with like-minded
-        individuals. Share ideas, collaborate and grow your network in a diverse
-        and inclusive environment.
+      description: Elevate your tech journey! Connect, share, collaborate with
+        like-minded women in our diverse & inclusive community
       button: Become a member
       url: /about/about-us/
   - infobar:
