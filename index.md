@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       background: /images/Hero_Banner_1920.jpg
-      variant: center
+      variant: image
       backgroundColor: gray
       size: md
       alignment: left
