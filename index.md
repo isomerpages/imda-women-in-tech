@@ -29,8 +29,8 @@ sections:
   - infobar:
       title: Elevate your tech journey with SGWIT
       id: infobar
-      description: Elevate your tech journey! Connect, share, collaborate with
-        like-minded women in our diverse & inclusive community
+      description: Connect, share, collaborate with like-minded women in our diverse &
+        inclusive community
       button: Become a member
       url: /contact/
   - infobar:
