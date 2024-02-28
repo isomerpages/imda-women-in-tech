@@ -28,7 +28,7 @@ contributing to this impactful initiative!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong><a href="http://ADDO.AI" rel="noopener noreferrer nofollow" target="_blank">ADDO.AI</a></strong>
+<p><strong>ADDO.Al</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -381,17 +381,32 @@ students</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Fermata Singapore</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="5" colspan="2">
 <p>Actively promotes an inclusive environment where employees have an opportunity
 to achieve personal success and contribute to the growth of the business.
 Employees will be able to seek coaching and personal development sessions.</p>
 <hr>
+<p></p>
+<p>Review maternity and paternity leave policies - and provide flexible work
+arrangements for working parents.</p>
+<hr>
+<p>Engage female students in schools across different levels of institutions
+and specialties (STEM, life sciences etc.)</p>
+<hr>
+<p>Sick leave entitlement will be extended to cover mental health days and
+an additional two-days per month for menstrual leave.</p>
+<hr>
+<p>Run and dedicate time and budget to women’s health and wellness events.</p>
 </td>
 </tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
+<tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Flying Cape</strong>
