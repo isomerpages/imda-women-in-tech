@@ -70,4 +70,7 @@ Listens survey, 87 percent of employees reported that they believe Lenovo
 fosters a community where individuals of any background can succeed, regardless
 of race, gender or ethnicity, a four-point increase from the FY 2018/19
 score. For the first time, Diversity Best Practice named Lenovo to its
-2019 Inclusion Index.</p>
+2019 Inclusion Index.
+<br>
+<br>We are looking forward to improving all of these figures – because it’s
+what’s best for our business.</p>
