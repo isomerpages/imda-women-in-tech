@@ -29,7 +29,7 @@ sections:
       url: /sg100wit/
       button: Find out more
   - infobar:
-      title: Elevate your tech journey with SGWIT!
+      title: Elevate your tech journey!
       id: infobar
       description: Connect, share, collaborate with like-minded women in our diverse &
         inclusive community
