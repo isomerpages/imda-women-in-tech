@@ -2,6 +2,7 @@ collections:
   our-actions:
     output: true
     order:
+      - "Reports/BCG Report #2.md"
       - "Reports/BCG Report #1.md"
       - Reports/.keep
       - What We Do.md
