@@ -12,5 +12,5 @@ higher participation of women in tech in SEA than global averages, and
 about 65% of respondents agreed that the tech sector offers more tailored
 programmes to recruit, retain and promote women.
 <br>
-<br>Find out more about the report here: <a rel="noopener noreferrer nofollow" target="_blank">https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector</a>
+<br>Find out more about the report here: <strong><a href="https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector" rel="noopener noreferrer nofollow" target="_blank">https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector</a></strong>
 </p>
