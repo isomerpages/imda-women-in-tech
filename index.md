@@ -46,7 +46,7 @@ sections:
         collaborative effort driven by companies committed to building a more
         inclusive and equitable tech industry.
       button: Learn More
-      url: /what-we-do/corporate-pledge
+      url: /our-actions/corporate-pledge/
   - infobar:
       title: SG100 WIT 2023
       description: >-
