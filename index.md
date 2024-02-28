@@ -29,7 +29,7 @@ sections:
       url: /sg100wit/
       button: Find out more
   - infobar:
-      title: Elevate your tech journey with SGWIT
+      title: Elevate your tech journey with SGWIT!
       id: infobar
       description: Connect, share, collaborate with like-minded women in our diverse &
         inclusive community
@@ -58,7 +58,7 @@ sections:
 
         Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video.
       button: Find out more About SG100WIT
-      url: /100-sg-women-in-tech-2023/
+      url: /sg100wit/sgwit2023/
   - resources:
       title: News & Events
       subtitle: LATEST
