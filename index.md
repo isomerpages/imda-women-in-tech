@@ -25,7 +25,7 @@ sections:
       description: "#SGWIT celebrates women & girls in tech! The list honours
         inspiring female contributors to Singapore's vibrant tech scene"
       alt: Image alt text
-      image: /images/SG100WIT_honourees_on_stage_hq.png
+      image: /images/SG100WIT_honourees_on_stage_640x480.png
       url: /sg100wit/
       button: Find out more
   - infobar:
