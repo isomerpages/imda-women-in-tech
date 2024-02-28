@@ -27,12 +27,12 @@ sections:
       alt: Image alt text
       image: /images/SG100WIT_honourees_on_stage_hq.png
   - infobar:
-      title: Ignite Your Passion with SGWIT
+      title: Elevate your tech journey with SGWIT
       id: infobar
       description: Elevate your tech journey! Connect, share, collaborate with
         like-minded women in our diverse & inclusive community
       button: Become a member
-      url: /about/about-us/
+      url: /contact/
   - infobar:
       title: Corporate Pledge
       id: infobar
