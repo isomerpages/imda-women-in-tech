@@ -2,9 +2,9 @@ collections:
   our-partnerships:
     output: true
     order:
-      - JP Morgan GenerationTech.md
       - Partner's Programme.md
       - Mentor Connect.md
+      - JP Morgan GenerationTech.md
       - Corporate Pledge Stories.md
       - girls-in-tech-week.md
       - students-ask-women-in-tech.md
