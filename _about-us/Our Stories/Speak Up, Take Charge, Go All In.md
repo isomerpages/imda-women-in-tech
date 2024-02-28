@@ -86,4 +86,7 @@ on new roles – that was key in my development.</p>
 <p>It’s not always easy, but it’s definitely rewarding. Recently, I was competing
 in a competition organized by a local manufacturing federation. When I
 passed the panel of male judges my name card and they saw the title “Director
-of Engineering”, their eyes lit up. I smiled. What a journey it has been.</p>
+of Engineering”, their eyes lit up. I smiled. What a journey it has been.
+<br>
+<br>This International Women’s Day, I urge everyone to: Speak Up, Take Charge,
+Go All In.</p>
