@@ -2,11 +2,11 @@ collections:
   our-actions:
     output: true
     order:
-      - Reports/.keep
-      - "Reports/BCG Report #1.md"
-      - "Reports/BCG Report #2.md"
       - What We Do.md
       - SG100WIT.md
       - ATxSG.md
       - IWD 2024.md
       - Corporate Pledge.md
+      - Reports/.keep
+      - "Reports/BCG Report #1.md"
+      - "Reports/BCG Report #2.md"
