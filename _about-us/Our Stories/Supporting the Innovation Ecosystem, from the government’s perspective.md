@@ -18,8 +18,8 @@ government. The episode was recorded during the first week of Singapore’s
 lockdown period amid COVID-19. Jane shared about the government’s support
 for SMEs and the wider business community during the island-wide “circuit
 breaker” that was imposed to curb the virus’ spread.</p>
-<p>Check out Jane’s podcast and that of other featured guests on [Spotify](
-<a href="https://open.spotify.com/show/29oii015aYSKtveIDurWSv?si=7rm_RiqnQ4WuAn3EaCpNDA" rel="noopener noreferrer nofollow" target="_blank">https://open.spotify.com/show/29oii015aYSKtveIDurWSv?si=7rm_RiqnQ4WuAn3EaCpNDA</a>),
-[iTunes](<a href="https://podcasts.apple.com/sg/podcast/ep-1-singapore-the-innovation-hub-of-southeast-asia/id1515926490){:target=&quot;_blank" rel="noopener noreferrer nofollow" target="_blank">https://podcasts.apple.com/sg/podcast/ep-1-singapore-the-innovation-hub-of-southeast-asia/id1515926490){:target="_blank</a>"},
-Overcast, [Stitcher](<a href="https://www.stitcher.com/podcast/innotopia-podcast){:target=&quot;_blank" rel="noopener noreferrer nofollow" target="_blank">https://www.stitcher.com/podcast/innotopia-podcast){:target="_blank</a>"},
-and [<a href="http://PayPal-innovationlab.com/innotopia](https://www.paypal.com/sg/webapps/mpp/innovationlab/innotopia){:target=&quot;_blank" rel="noopener noreferrer nofollow" target="_blank">PayPal-innovationlab.com/innotopia](https://www.paypal.com/sg/webapps/mpp/innovationlab/innotopia){:target="_blank</a>"}!</p>
+<p>Check out Jane’s podcast and that of other featured guests on
+<br>[Spotify]( <a href="https://open.spotify.com/show/29oii015aYSKtveIDurWSv?si=7rm_RiqnQ4WuAn3EaCpNDA" rel="noopener noreferrer nofollow" target="_blank">https://open.spotify.com/show/29oii015aYSKtveIDurWSv?si=7rm_RiqnQ4WuAn3EaCpNDA</a>),
+<br>[iTunes](<a href="https://podcasts.apple.com/sg/podcast/ep-1-singapore-the-innovation-hub-of-southeast-asia/id1515926490){:target=&quot;_blank" rel="noopener noreferrer nofollow" target="_blank">https://podcasts.apple.com/sg/podcast/ep-1-singapore-the-innovation-hub-of-southeast-asia/id1515926490)</a>,
+<br>Overcast, [Stitcher](<a href="https://www.stitcher.com/podcast/innotopia-podcast){:target=&quot;_blank" rel="noopener noreferrer nofollow" target="_blank">https://www.stitcher.com/podcast/innotopia-podcast)</a>,
+and [<a href="http://PayPal-innovationlab.com/innotopia](https://www.paypal.com/sg/webapps/mpp/innovationlab/innotopia){:target=&quot;_blank" rel="noopener noreferrer nofollow" target="_blank">PayPal-innovationlab.com/innotopia](https://www.paypal.com/sg/webapps/mpp/innovationlab/innotopia)</a>!</p>
