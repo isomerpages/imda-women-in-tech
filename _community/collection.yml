@@ -2,7 +2,7 @@ collections:
   community:
     output: true
     order:
-      - mentor-connect.md
+      - Mentor Connect.md
       - Corporate Pledge Stories.md
       - girls-in-tech-week.md
       - students-ask-women-in-tech.md
