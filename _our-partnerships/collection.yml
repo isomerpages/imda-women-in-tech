@@ -2,11 +2,11 @@ collections:
   our-partnerships:
     output: true
     order:
-      - Girls Love Tech.md
       - Partner's Programme.md
       - Mentor Connect.md
       - JP Morgan GenerationTech.md
       - Cross Polytechnic GIT.md
+      - Girls Love Tech.md
       - Corporate Pledge Stories.md
       - girls-in-tech-week.md
       - students-ask-women-in-tech.md
