@@ -26,6 +26,8 @@ sections:
         inspiring female contributors to Singapore's vibrant tech scene"
       alt: Image alt text
       image: /images/SG100WIT_honourees_on_stage_hq.png
+      url: /100-sg-women-in-tech-2023/
+      button: Find out more
   - infobar:
       title: Elevate your tech journey with SGWIT
       id: infobar
