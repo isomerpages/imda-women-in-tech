@@ -1,5 +1,5 @@
 collections:
-  community:
+  our-partnerships:
     output: true
     order:
       - Mentor Connect.md
