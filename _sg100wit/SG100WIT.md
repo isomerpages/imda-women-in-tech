@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M2BXtjlMTBw?si=DK-HUQOMmqxgwysT"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/M2BXtjlMTBw?si=AS78cGaHMMlR1BUI"></iframe>
 </div>
 <p>
 <br>The SG 100 Women in Tech (SG100WIT) list features female role models in
