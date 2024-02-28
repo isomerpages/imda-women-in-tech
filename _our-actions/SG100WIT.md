@@ -30,6 +30,6 @@ and students studying STEM&nbsp;</p>
 <p>Provide thought leadership and nurture younger talents</p>
 </li>
 </ol>
-<p>Find out more about the <a href="/100-sg-women-in-tech-2023/" rel="noopener noreferrer nofollow" target="_blank">SG100WIT List here</a>
+<p>Find out more about the <strong><a href="/sg100wit/" rel="noopener noreferrer nofollow" target="_blank">SG100WIT List here</a></strong>
 </p>
 <p></p>
