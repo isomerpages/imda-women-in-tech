@@ -2,6 +2,7 @@ collections:
   sg100wit:
     output: true
     order:
+      - SG100WIT 2023.md
       - SG100WIT.md
       - sg-100-wit-2023.md
       - sg-100-wit-2021.md
