@@ -13,5 +13,5 @@ up for the participants to engage with trailblazers in tech all over the
 world. Attendees participated in interactive activities such as robotics
 workshops and super fun sessions on Public Speaking. Polytechnic and University
 students also gained invaluable entrepreneurial insights.</p>
-<p><strong><a href="https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/press-releases/2022/singapore-women-in-tech-signs-mou-with-five-polytechnics-to-develop-and-nurture-girls-in-tech" rel="noopener noreferrer nofollow" target="_blank">Girls Love Tech | She Loves Tech Global Conference 2023</a></strong>
+<p><strong><a href="https://conference.shelovestech.org/page/3333712/girls-love-tech" rel="noopener noreferrer nofollow" target="_blank">Girls Love Tech | She Loves Tech Global Conference 2023</a></strong>
 </p>
