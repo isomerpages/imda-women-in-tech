@@ -728,7 +728,8 @@ gap, supplemented with face-to-face interviews</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;LemmaTree</p>
+<p>&nbsp;<strong>LemmaTree</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Continue our inclusive workplace practices that commit to embracing diversity
@@ -890,7 +891,8 @@ and participate in free, hands-on computer and technology workshop</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Motional</p>
+<p><strong>Motional</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>To encourage and empower women to build personal and professional development
@@ -923,7 +925,8 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>OCBC</p>
+<p><strong>OCBC</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Set up a Cross-Divisional Women in Tech Resource Team</p>
@@ -937,7 +940,8 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Okta</p>
+<p><strong>Okta</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Recruiting more female talent to build balanced teams - We attract and
@@ -959,7 +963,8 @@ all parents, regardless of birthing or caregiver status
 </li>
 <li>
 <p>Maternity Coverage: Up to US$20,000 per year
-<br>&nbsp;</p>
+<br>
+</p>
 </li>
 <li>
 <p>Okta-provided funds to help pay for fertility treatments or other family-forming
