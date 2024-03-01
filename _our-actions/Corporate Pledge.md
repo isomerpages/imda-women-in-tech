@@ -16,7 +16,7 @@ contributing to this impactful initiative!</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Equal Growth Opportunities -&nbsp;</strong>we invest in our team
+<p><strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our team
 members, providing women with&nbsp;equal opportunities from recruitment
 to upskilling, networking and promotions at Attribute Data. We set aside
 annual personal enrichment funds and time offs to utilize for conferences,
