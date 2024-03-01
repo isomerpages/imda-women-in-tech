@@ -12,10 +12,10 @@ pursuing careers in tech.</p>
 <p><strong>SG100WIT:</strong> This is an initiative aimed at celebrating 100
 inspiring women who have made significant contributions to the tech industry.
 We showcase diverse role models and their achievements.</p>
-<p>Find out more about <strong>SG100WIT <a href="/our-actions/sg100wit/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
+<p>Find out more about <strong>SG100WIT <a href="/our-actions/sg100wit/" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
 </p>
 <p><strong>Tech Events:</strong> We organise and facilitate networking events
 and opportunities for women in tech to connect with industry experts, professionals,
-and peers through events such as <a href="/our-actions/atx-sg/" rel="noopener noreferrer nofollow" target="_blank">Asia Tech x Singapore (ATxSG)</a><strong><u> </u></strong>and<strong><u> </u></strong>
-<a href="/our-actions/iwd2024/" rel="noopener noreferrer nofollow" target="_blank">IWD 2024</a>. These connections foster collaboration, mentorship, and
-career opportunities within the industry.</p>
+and peers through events such as <strong><a href="/our-actions/atx-sg/" rel="noopener noreferrer nofollow" target="_blank">Asia Tech x Singapore (ATxSG)</a><u> </u></strong>and<strong><u> </u><a href="/our-actions/iwd2024/" rel="noopener noreferrer nofollow" target="_blank">IWD 2024</a></strong>.
+These connections foster collaboration, mentorship, and career opportunities
+within the industry.</p>
