@@ -24,6 +24,7 @@ workshops and professional certifications so that everyone has a fair allocation
 of resources for their growth.
 <br>
 </p>
+<p></p>
 </li>
 <li>
 <p><strong>Flexible Work Arrangements -&nbsp;</strong>We offer flexible work
@@ -32,6 +33,7 @@ it easier for women to balance their work and personal lives. We see great
 potential in mothers coming back to the workforce and provide them with
 the room to contribute to team success with more diversity of thought and
 experiences.
+<br>
 <br>
 </p>
 </li>
@@ -44,6 +46,7 @@ to help young talents gain industry experiences while they go through their
 tertiary education.</p>
 </li>
 </ol>
+<p></p>
 <p></p>
 <table>
 <tbody>
