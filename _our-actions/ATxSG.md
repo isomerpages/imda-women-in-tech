@@ -44,7 +44,5 @@ success in an inclusive digital economy.</p>
 opportunities could facilitate success in the tech industry.&nbsp; They
 learned strategies to challenge biases and stereotypes that might hinder
 progress and gained the confidence to pursue their aspirations.</p>
-<p>Find out more about the event <strong><a href="https://asiatechxsg.com/sg-women-in-tech/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-<a href="https://asiatechxsg.com/sg-women-in-tech/" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+<p>Find out more about the event <strong><a href="https://asiatechxsg.com/sg-women-in-tech/" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
 <p>.</p>
