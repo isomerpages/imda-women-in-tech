@@ -30,6 +30,6 @@ and students studying STEM&nbsp;</p>
 <p>Provide thought leadership and nurture younger talents</p>
 </li>
 </ol>
-<p>Find out more about the SGWIT List <strong><a href="/sg100wit/" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
+<p>Find out more about the SG100WIT List <strong><a href="/sg100wit/" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
 </p>
 <p></p>
