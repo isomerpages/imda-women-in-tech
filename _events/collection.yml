@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - News.md
       - News & Events.md
+      - News.md
       - calendar-of-events.md
       - past-events.md
