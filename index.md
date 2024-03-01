@@ -20,7 +20,7 @@ sections:
       button: find out more
       url: /about/about-us/
       image: /images/about/SGWIT_about_us.jpg
-      alt: Image alt text
+      alt: SGWIT who we are
   - infopic:
       title: SG Women in Tech
       description: SG Women in Tech (SGWIT) empowers women in Singapore's tech
