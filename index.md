@@ -29,11 +29,11 @@ sections:
       url: /sg100wit/
       button: Find out more
   - infobar:
-      title: Elevate your tech journey!
+      title: Elevate Your Tech Journey!
       id: infobar
       description: Connect, share, collaborate with like-minded women in our diverse &
         inclusive community
-      button: Become a member
+      button: Reach out now
       url: /contact/
   - infobar:
       title: Corporate Pledge
