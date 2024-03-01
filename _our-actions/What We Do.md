@@ -12,8 +12,7 @@ pursuing careers in tech.</p>
 <p><strong>SG100WIT:</strong> This is an initiative aimed at celebrating 100
 inspiring women who have made significant contributions to the tech industry.
 We showcase diverse role models and their achievements.</p>
-<p>Find out more about <strong>SG100WIT <a href="/sg100wit/sgwit2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>-&gt;
-hyperlink to SG100WIT subpage</p>
+<p>Find out more about <strong>SG100WIT <a href="/sg100wit/sgwit2023/" rel="noopener noreferrer nofollow" target="_blank">here</a> </strong>-&gt;</p>
 <p><strong>Tech Events:</strong> We organise and facilitate networking events
 and opportunities for women in tech to connect with industry experts, professionals,
 and peers through events such as <a href="/our-actions/atx-sg/" rel="noopener noreferrer nofollow" target="_blank">Asia Tech x Singapore (ATxSG)</a><strong><u> </u></strong>and<strong><u> </u></strong>
