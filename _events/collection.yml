@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - News & Events.md
       - calendar-of-events.md
       - past-events.md
