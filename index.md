@@ -12,6 +12,16 @@ sections:
       size: md
       alignment: left
   - infopic:
+      title: SG WIT
+      subtitle: Who we are
+      id: infopic
+      description: SG Women in Tech (SGWIT) empowers women in Singapore's tech
+        industry. Attracting, retaining, & developing female talent.
+      button: find out more
+      url: /about/about-us/
+      image: /images/about/SGWIT_about_us.jpg
+      alt: Image alt text
+  - infopic:
       title: SG Women in Tech
       description: SG Women in Tech (SGWIT) empowers women in Singapore's tech
         industry. Attracting, retaining, & developing female talent.
