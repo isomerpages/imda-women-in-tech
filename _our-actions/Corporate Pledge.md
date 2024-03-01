@@ -14,6 +14,37 @@ dedication to fostering a thriving tech ecosystem for women. Find out the
 specific actions participating companies have pledged and join them in
 contributing to this impactful initiative!</p>
 <p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Equal Growth Opportunities -&nbsp;</strong>we invest in our team
+members, providing women with&nbsp;equal opportunities from recruitment
+to upskilling, networking and promotions at Attribute Data. We set aside
+annual personal enrichment funds and time offs to utilize for conferences,
+workshops and professional certifications so that everyone has a fair allocation
+of resources for their growth.
+<br>
+</p>
+</li>
+<li>
+<p><strong>Flexible Work Arrangements -&nbsp;</strong>We offer flexible work
+arrangements, such as remote work and flexible start and end times to make
+it easier for women to balance their work and personal lives. We see great
+potential in mothers coming back to the workforce and provide them with
+the room to contribute to team success with more diversity of thought and
+experiences.
+<br>
+</p>
+</li>
+<li>
+<p><strong>Growing Young Women Tech Talent Pool -&nbsp;</strong>We&nbsp;partner
+with universities, polytechnics, and industry technology partners to promote
+careers in tech to young women. Hosting and facilitating data skills workshops,
+participating in career fairs, or offering internship and work-study opportunities
+to help young talents gain industry experiences while they go through their
+tertiary education.</p>
+</li>
+</ol>
+<p></p>
 <table>
 <tbody>
 <tr>
