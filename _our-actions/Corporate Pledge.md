@@ -46,7 +46,10 @@ to help young talents gain industry experiences while they go through their
 tertiary education.</p>
 </li>
 </ol>
-<p></p>
+<p>
+<br>
+</p>
+<hr>
 <p></p>
 <table>
 <tbody>
