@@ -1,12 +1,12 @@
 title: SG Women In Tech
-url: ""
+url: https://www.sgwit.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#6031b6"
   secondary-color: "#ad62aa"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#69252d"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
@@ -44,7 +44,7 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 is_government: false
-description: test test
+description: ""
 staging: https://staging.d102j24yxobuue.amplifyapp.com/
 prod: https://master.d102j24yxobuue.amplifyapp.com/
 plugins:
@@ -54,3 +54,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+google_analytics_ga4: ""
+linkedin-insights: ""
