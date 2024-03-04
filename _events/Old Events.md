@@ -73,10 +73,10 @@ description: ""
 <p></p>
 <h4><strong>AccelerateHer Asia @ATxSG 2021</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F8hD2tCSsxI"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F8hD2tCSsxI"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT1-bgyOywc"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT1-bgyOywc"></iframe>
 </div>
 <div class="iframe-wrapper">
 <iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vV14mrGR43A"></iframe>
