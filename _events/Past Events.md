@@ -18,8 +18,10 @@ description: ""
 </p>
 <p></p>
 <h4><strong>Girls in Tech (GIT) Week</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="/community/girls-in-tech-week/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2021/imda-girls-in-tech-week.jpg"></a>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2021/girls-in-tech-event.jpg">
+</div>
 <p>Event held on : <strong>11 - 13 Oct 2021</strong>
 </p>
 <p></p>
