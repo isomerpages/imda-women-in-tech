@@ -6,13 +6,13 @@ colors:
   secondary-color: "#ad62aa"
   media-colors:
     - title: media-color-one
-      color: "#69252d"
+      color: "#9b9b9b"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
-      color: "#9b9b9b"
+      color: "#7b3c40"
     - title: media-color-five
       color: "#50e3c2"
 resources_name: resources
