@@ -25,16 +25,16 @@ description: ""
 <p></p>
 <h4><strong>AccelerateHer Asia @ATxSG 2021</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F8hD2tCSsxI?si=2NnkmTQmM7H-XyBN"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F8hD2tCSsxI?si=2NnkmTQmM7H-XyBN"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT1-bgyOywc?si=3UY_ikwHER0FJlOr"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT1-bgyOywc?si=3UY_ikwHER0FJlOr"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vV14mrGR43A?si=HMgol7wYPRpv9Hi_"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vV14mrGR43A?si=HMgol7wYPRpv9Hi_"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UD82AHwExbY?si=EpoSYDkea3Bv0RUl"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UD82AHwExbY?si=EpoSYDkea3Bv0RUl"></iframe>
 </div>
 <p>Event held on : <strong>15 July 2021</strong>
 </p>
