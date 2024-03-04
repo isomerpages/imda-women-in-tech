@@ -12,7 +12,7 @@ description: ""
 </div>
 <p>Event date: 8 March 2024</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iG-H1ZyYH_o?si=trkNwCIRoxXUnSul"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iG-H1ZyYH_o?si=trkNwCIRoxXUnSul"></iframe>
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
@@ -73,16 +73,16 @@ description: ""
 <p></p>
 <h4><strong>AccelerateHer Asia @ATxSG 2021</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F8hD2tCSsxI"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F8hD2tCSsxI"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT1-bgyOywc"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT1-bgyOywc"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vV14mrGR43A"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vV14mrGR43A"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UD82AHwExbY"></iframe>
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UD82AHwExbY"></iframe>
 </div>
 <p>Event held on : <strong>15 July 2021</strong>
 </p>
