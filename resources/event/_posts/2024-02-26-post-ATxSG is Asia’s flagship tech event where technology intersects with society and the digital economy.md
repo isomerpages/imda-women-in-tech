@@ -8,6 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h4><strong>Event Date: 29-31 May 2024</strong><br></h4>
 <p>Asia Tech x Singapore (ATxSG) is Asia’s flagship tech event where technology
 intersects with society and the digital economy.</p>
 <p>Organised by the Infocomm Media Development Authority (IMDA) and Informa
