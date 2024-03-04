@@ -35,7 +35,7 @@ CommunicAsia, SatelliteAsia, TechXLR8 Asia, and Innovfest x Elevating Founders.<
 <p><strong>ATxWIT 2023</strong>
 </p>
 <p>The ATxWIT event took place on 7 June 2023 at the Grand Ballroom of Capella
-Singapore</p>
+Singapore.</p>
 <p>It was an inspiring session featuring leaders who had shattered barriers
 and forged paths in the digital age. Role models shared their journeys,
 offering valuable insights and advice on empowering individuals to achieve
