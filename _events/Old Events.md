@@ -109,7 +109,7 @@ description: ""
 <p></p>
 <h4><strong>How She Got There: Women in AI and Robotics</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dSPlAn9le_Q"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dSPlAn9le_Q"></iframe>
 </div>
 <p>Event held on : <strong>17 Dec 2020</strong>
 </p>
@@ -118,7 +118,7 @@ description: ""
 <p></p>
 <h4><strong>SG Women in Tech 1 Year Anniversary</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nGoo6AyK2kg"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nGoo6AyK2kg"></iframe>
 </div>
 <p>Event held on : <strong>26 Oct 2020</strong>
 </p>
