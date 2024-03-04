@@ -2,7 +2,7 @@ collections:
   our-partnerships:
     output: true
     order:
-      - Partner's Programme.md
+      - Partners Programme.md
       - Mentor Connect.md
       - JP Morgan GenerationTech.md
       - Cross Polytechnic GIT.md
