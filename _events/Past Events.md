@@ -43,3 +43,17 @@ description: ""
 <p></p>
 <p><a href="/events/sgwit-past-events/#top" rel="noopener noreferrer nofollow" target="_blank">Back to Top</a>
 </p>
+<p></p>
+<h4><strong>How to Futureproof Your Careers: Deep Tech Edition</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/faRfGVKHfu8?si=FMH2BztyG3EYXE6S"></iframe>
+</div>
+<p>Event held on : <strong>26 March 2021</strong>
+</p>
+<p></p>
+<h4><strong>In Celebration of International Women’s Day: Leading Together in STEM</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B44xphHqRxs?si=BAFGdxYXTXjDQzx_"></iframe>
+</div>
+<p>Event held on : <strong>8 March 2021</strong>
+</p>
