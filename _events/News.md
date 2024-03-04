@@ -26,6 +26,6 @@ out of which 100 top women and girls in tech were honoured in 2023.</p>
 </p>
 <p><a href="https://www.iaasiaonline.com/growing-and-nurturing-tech-talent-through-women-in-tech-and-ai-advocacy/" rel="noopener noreferrer nofollow" target="_blank">Growing and Nurturing Tech Talent through Women in Tech and AI Advocacy - IAA - Industrial Automation ( iaasiaonline.com)</a>
 </p>
-<p><a href="Singapore Computer Society unveils 3rd edition of Singapore 100 Women in Tech (SG100WIT) List - TNGlobal ( technode.global)" rel="noopener noreferrer nofollow" target="_blank">Singapore Computer Society unveils 3rd edition of Singapore 100 Women in Tech (SG100WIT) List - TNGlobal ( technode.global)</a>
+<p><a href="https://technode.global/2023/09/11/singapore-computer-society-unveils-3rd-edition-of-singapore-100-women-in-tech-sg100wit-list/" rel="noopener noreferrer nofollow" target="_blank">Singapore Computer Society unveils 3rd edition of Singapore 100 Women in Tech (SG100WIT) List - TNGlobal ( technode.global)</a>
 </p>
 <p></p>
