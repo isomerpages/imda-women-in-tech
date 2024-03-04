@@ -12,7 +12,7 @@ description: ""
 </div>
 <p>Event date: 8 March 2024</p>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iG-H1ZyYH_o?si=trkNwCIRoxXUnSul"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iG-H1ZyYH_o?si=trkNwCIRoxXUnSul"></iframe>
 </div>
 <p></p>
 <ul data-tight="true" class="tight">
