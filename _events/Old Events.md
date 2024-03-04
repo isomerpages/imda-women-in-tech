@@ -79,10 +79,10 @@ description: ""
 <iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fT1-bgyOywc"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vV14mrGR43A"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vV14mrGR43A"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UD82AHwExbY"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UD82AHwExbY"></iframe>
 </div>
 <p>Event held on : <strong>15 July 2021</strong>
 </p>
@@ -91,7 +91,7 @@ description: ""
 <p></p>
 <h4><strong>How to Futureproof Your Careers: Deep Tech Edition</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/faRfGVKHfu8"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/faRfGVKHfu8"></iframe>
 </div>
 <p>Event held on : <strong>26 March 2021</strong>
 </p>
@@ -100,7 +100,7 @@ description: ""
 <p></p>
 <h4><strong>In Celebration of International Women’s Day: Leading Together in STEM</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B44xphHqRxs"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B44xphHqRxs"></iframe>
 </div>
 <p>Event held on : <strong>8 March 2021</strong>
 </p>
