@@ -10,7 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMDA_SGWIT_IWD_2024_KV_FINAL.png">
 </div>
-<p>Event date: 8 March 2024</p>
+<p><strong>Event date: 8 March 2024</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iG-H1ZyYH_o?si=trkNwCIRoxXUnSul"></iframe>
 </div>
