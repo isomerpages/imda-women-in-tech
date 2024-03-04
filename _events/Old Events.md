@@ -127,7 +127,7 @@ description: ""
 <p></p>
 <h4><strong>Building Trust in Your COVID 19 Response</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r89g8g7zk3Q"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/r89g8g7zk3Q"></iframe>
 </div>
 <p>Event held on : <strong>9 Sep 2020</strong>
 </p>
@@ -136,7 +136,7 @@ description: ""
 <p></p>
 <h4><strong>Each for Equal: Rejoining the IT Workforce</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aWk8hvPliP4"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aWk8hvPliP4"></iframe>
 </div>
 <p>Event held on : <strong>13 Jul 2020</strong>
 </p>
@@ -145,7 +145,7 @@ description: ""
 <p></p>
 <h4><strong>Responsible AI in Times of Pandemic</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yWxE5KO9yAQ"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yWxE5KO9yAQ"></iframe>
 </div>
 <p>Event held on : <strong>3 June 2020</strong>
 </p>
@@ -154,7 +154,7 @@ description: ""
 <p></p>
 <h4><strong>AI and the Future of Ultrasound Imaging</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/017KIoyU-II"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/017KIoyU-II"></iframe>
 </div>
 <p>Event held on : <strong>8 May 2020</strong>
 </p>
@@ -163,7 +163,7 @@ description: ""
 <p></p>
 <h4><strong>Each for Equal: Science and Technology</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="378" width="672" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I6RqoGxiODE"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I6RqoGxiODE"></iframe>
 </div>
 <p>Event held on : <strong>5 May 2020</strong>
 </p>
