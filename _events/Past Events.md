@@ -41,5 +41,5 @@ description: ""
 <p>Event held on : <strong>15 July 2021</strong>
 </p>
 <p></p>
-<p><a href="/events/past-events/#top" rel="noopener noreferrer nofollow" target="_blank">Back to Top</a>
+<p><a href="/events/sgwit-past-events/#top" rel="noopener noreferrer nofollow" target="_blank">Back to Top</a>
 </p>
