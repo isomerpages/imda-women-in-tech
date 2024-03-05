@@ -1047,8 +1047,12 @@ and participate in free, hands-on computer and technology workshop</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="41" data-tight="true" class="tight">
+<li>
 <p><strong>Motional</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To encourage and empower women to build personal and professional development
@@ -1068,8 +1072,12 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="42" data-tight="true" class="tight">
+<li>
 <p><strong>NCS</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To build a female talent pipeline</p>
@@ -1081,8 +1089,12 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="43" data-tight="true" class="tight">
+<li>
 <p><strong>OCBC</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Set up a Cross-Divisional Women in Tech Resource Team</p>
@@ -1096,8 +1108,12 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="44" data-tight="true" class="tight">
+<li>
 <p><strong>Okta</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Recruiting more female talent to build balanced teams - We attract and
@@ -1148,8 +1164,12 @@ mentorship and networking for women in technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="45" data-tight="true" class="tight">
+<li>
 <p><strong>Oracle</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Invest in equity to achieve equality - Deliver the inaugural Women in
@@ -1167,8 +1187,12 @@ an environment of growth and retention of Oracle women leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="46" data-tight="true" class="tight">
+<li>
 <p><strong>PayPal</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Grooming the next generation female leaders (examples of initiatives are
@@ -1184,8 +1208,12 @@ are recruitment events/career talks targeting female students)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="47" data-tight="true" class="tight">
+<li>
 <p><strong>Pensees</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Form a Pensees' 'Women in Tech' Committee - to roll-out of whole year
@@ -1202,8 +1230,12 @@ and publicising them through our digital media platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="48" data-tight="true" class="tight">
+<li>
 <p><strong>PwC Singapore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Nurture our growing female talent in technology by offering executive
@@ -1220,8 +1252,12 @@ tech talent in PwC Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="49" data-tight="true" class="tight">
+<li>
 <p><strong>Razer</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Ensure that a minimum of one interviewable candidate for positions across
@@ -1244,8 +1280,12 @@ the tech industry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>Rakuten</strong>
+<ol start="50" data-tight="true" class="tight">
+<li>
+<p><strong>Rakuten</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Provide continuous support for Mothers at workplace such as maternity
