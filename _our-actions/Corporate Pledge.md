@@ -680,7 +680,7 @@ support them in the workplace</p>
 <td rowspan="1" colspan="1">
 <ol start="26" data-tight="true" class="tight">
 <li>
-<p><strong>Infocomm Media Development Authority</strong>
+<p><strong>Infocomm Media Development Authority</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -1411,11 +1411,11 @@ field</p>
 <td rowspan="1" colspan="1">
 <ol start="55" data-tight="true" class="tight">
 <li>
-<p><strong>SGInnovate</strong>
+<p><strong>SGInnovate</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/logos/sgi.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/logos/sgi.png">
 </div>
 </li>
 </ol>
