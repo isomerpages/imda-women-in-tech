@@ -65,8 +65,12 @@ tertiary education.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
 <p><strong>ADDO.Al</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Recruit more women in tech to create a competitive and diverse environment</p>
@@ -78,8 +82,12 @@ tertiary education.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
 <p><strong>Accenture</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Paid Parental leave: Paid maternity leave has been extended from 16 to
@@ -96,8 +104,12 @@ mental health issues</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p><strong>Amazon<br></strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Commit to Inclusion, Diversity and Equity in all aspects of our workplace
@@ -117,8 +129,12 @@ providing them with internship, traineeship and career opportunities</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p><strong>Aon</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Establish a Women in Technology resource group across Aon</p>
@@ -131,8 +147,12 @@ fields</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
 <p><strong>Assurity Trusted Solutions</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Engage female students in schools</p>
@@ -145,8 +165,12 @@ knowledge on gender diversity and inclusion</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="6" data-tight="true" class="tight">
+<li>
 <p><strong>Autodesk&nbsp;</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Continue to grow and engage the Autodesk Women’s Network</p>
@@ -158,8 +182,12 @@ knowledge on gender diversity and inclusion</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="7" data-tight="true" class="tight">
+<li>
 <p><strong>Bank of America (BofA)</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p><strong>Internal corporate activities / resources</strong> 
@@ -198,8 +226,12 @@ to do so in 2022 as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="8" data-tight="true" class="tight">
+<li>
 <p><strong>Bank of Singapore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Set up a Cross-Divisional Women in Tech Resource Team</p>
@@ -213,8 +245,12 @@ to do so in 2022 as well.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="9" data-tight="true" class="tight">
+<li>
 <p><strong>BCG</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Setting quantitative aspirations for recruiting women in digital projects
@@ -230,8 +266,12 @@ and promotion rates for women and men in digital projects</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="10" data-tight="true" class="tight">
+<li>
 <p><strong>BHP</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>BHP Technology mentoring program – where our Technology employees are
