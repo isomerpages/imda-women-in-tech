@@ -526,8 +526,12 @@ an additional two-days per month for menstrual leave.</p>
 <tr></tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="21" data-tight="true" class="tight">
+<li>
 <p><strong>Flying Cape</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Provide public commitment to women participation in Tech&nbsp;</p>
@@ -540,8 +544,12 @@ in Career in Tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="22" data-tight="true" class="tight">
+<li>
 <p><strong>Fyreflyz Pte Ltd</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Recruit and empower more women and expose them to technological possibilities</p>
@@ -553,8 +561,12 @@ in Career in Tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="23" data-tight="true" class="tight">
+<li>
 <p><strong>GIC</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Tackle unconscious bias by rolling out unconscious bias training for all
@@ -590,8 +602,12 @@ so as to nurture the next generation of female technology leaders in GIC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="24" data-tight="true" class="tight">
+<li>
 <p><strong>Government Technology Agency of Singapore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To drive mentorship and development of female talents, particularly the
@@ -608,8 +624,12 @@ employees</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="25" data-tight="true" class="tight">
+<li>
 <p><strong>IBM</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Attract</p>
@@ -658,8 +678,12 @@ support them in the workplace</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="26" data-tight="true" class="tight">
+<li>
 <p><strong>Infocomm Media Development Authority</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Curate an industry-wide movement - SG Women in Tech to attract, retain
@@ -674,8 +698,12 @@ or tech skills development for pre-tertiary girls</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="27" data-tight="true" class="tight">
+<li>
 <p><strong>Ingram Micro</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Promote career opportunities for Women in Tech in Virtual Career Fairs</p>
@@ -688,8 +716,12 @@ and providing roadmaps for their career advancement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="28" data-tight="true" class="tight">
+<li>
 <p><strong>Inspire-Tech</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Coaching and personal development sessions for women employees</p>
@@ -711,8 +743,12 @@ interested in tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="29" data-tight="true" class="tight">
+<li>
 <p><strong>J.P. Morgan</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Engaging our women employees and strengthening women representation across
@@ -732,8 +768,12 @@ help women become exceptional leaders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="30" data-tight="true" class="tight">
+<li>
 <p><strong>Kaspersky</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To encourage and enable female undergraduates to pursue cybersecurity
