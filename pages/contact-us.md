@@ -8,9 +8,9 @@ locations:
       - ""
       - ""
       - ""
-    title: SGWIT Linkedin
     operating_hours: []
     maps_link: https://www.linkedin.com/company/sgwomenintech/
+    title: SGWIT Linkedin
 contacts:
   - content:
       - phone: +65 6123 4567
@@ -22,5 +22,10 @@ contacts:
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://www.linkedin.com/company/sgwomenintech/
+    title: "SGWIT Linkedin "
 feedback: https://form.gov.sg/6180e1fe171cda0012c5a09b
 ---
