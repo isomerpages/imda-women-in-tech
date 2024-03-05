@@ -1301,8 +1301,12 @@ equality in all forms, striving towards an equal opportunity employer</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="51" data-tight="true" class="tight">
+<li>
 <p><strong>Salesforce</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Internal Corporate Activities/Resources - To grow Salesforce Women's Network
@@ -1329,8 +1333,12 @@ and skills of women</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="52" data-tight="true" class="tight">
+<li>
 <p><strong>SAP Asia</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Build internal Inclusive Leadership Succession - Ongoing: part of a Leadership
@@ -1357,7 +1365,12 @@ with access to the right resources</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SAS Singapore</p>
+<ol start="53" data-tight="true" class="tight">
+<li>
+<p><strong>SAS Singapore</strong>
+</p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Through SAS Women’s Initiatives Network to create opportunities and a
@@ -1374,8 +1387,12 @@ both in their personal and professional lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="54" data-tight="true" class="tight">
+<li>
 <p><strong>Singapore Blockchain Innovation Programme (SBIP)</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To organize seminar with panel featuring female leaders in blockchain
@@ -1388,8 +1405,12 @@ field</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="55" data-tight="true" class="tight">
+<li>
 <p><strong>SGInnovate</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Leadership stance on promoting diversity and gender equality</p>
@@ -1401,8 +1422,12 @@ field</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="56" data-tight="true" class="tight">
+<li>
 <p><strong>ShopBack&nbsp;</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Implement structural interventions (e.g. dedicated facilities, new policies)
@@ -1417,8 +1442,12 @@ sector and inspire the next generation of leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="57" data-tight="true" class="tight">
+<li>
 <p><strong>Shopee</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Feature female employees and leaders in Shopee's communication platforms
@@ -1435,8 +1464,12 @@ tech sector and spark their interest in tech careers.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="58" data-tight="true" class="tight">
+<li>
 <p><strong>Singapore Airlines</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Organize special outreach events for recruiting female tech talent such
@@ -1449,8 +1482,12 @@ as internships, career talks.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="59" data-tight="true" class="tight">
+<li>
 <p><strong>Singtel&nbsp;</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To encourage and grow women in tech, by organising internal and external
@@ -1466,8 +1503,12 @@ their stories on social media</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="60" data-tight="true" class="tight">
+<li>
 <p><strong>Standard Chartered</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Increase female representation&nbsp;in&nbsp;senior leadership positions
