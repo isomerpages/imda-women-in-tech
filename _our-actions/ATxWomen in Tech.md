@@ -28,6 +28,7 @@ latest tech trends, challenges, and opportunities. These include:</p>
 governments, global enterprises, and communities for in-depth discussion
 on the role of technology in shaping our collective digital future.
 <br>
+<br>
 </p>
 </li>
 <li>
