@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Agency Name
 locations:
   - address:
-      - ""
+      - "-"
       - ""
       - ""
     operating_hours: []
@@ -26,6 +26,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: https://www.linkedin.com/company/sgwomenintech/
-    title: "SGWIT Linkedin "
+    title: SGWIT Linkedin
 feedback: https://form.gov.sg/6180e1fe171cda0012c5a09b
 ---
