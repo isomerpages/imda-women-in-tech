@@ -1526,8 +1526,12 @@ their wealth needs to achieve their financial goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="61" data-tight="true" class="tight">
+<li>
 <p><strong>ST Engineering&nbsp;</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Encourage networking within ST Engineering and with external partners
@@ -1542,8 +1546,12 @@ sessions and support groups within ST Engineering</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="62" data-tight="true" class="tight">
+<li>
 <p><strong>Tribal Worldwide</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To implement Total Experience™ (TX) programme and to work with schools,
@@ -1562,8 +1570,12 @@ of 2 days of family leave programme for working mom/caregivers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="63" data-tight="true" class="tight">
+<li>
 <p><strong>Trusted Services</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>On-site Nursing room (Structural workplace intervention)</p>
@@ -1575,8 +1587,12 @@ of 2 days of family leave programme for working mom/caregivers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="64" data-tight="true" class="tight">
+<li>
 <p><strong>Ubisoft Singapore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Create ERGs and allyship programs for our female employees and roll out
@@ -1591,8 +1607,12 @@ career opportunities in the industry for students and with parents"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="65" data-tight="true" class="tight">
+<li>
 <p><strong>Unity Technologies</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Internal Corporate Activities and Resources</p>
@@ -1623,8 +1643,12 @@ Technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="66" data-tight="true" class="tight">
+<li>
 <p><strong>vLookUp</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Connect aspiring women leaders in Tech to mentors, role models and domain
@@ -1644,8 +1668,12 @@ who believe in helping women leaders in Tech grow and find relevant opportunitie
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Wipro Limited (Singapore Branch)</strong>
+<ol start="67" data-tight="true" class="tight">
+<li>
+<p><strong>Wipro Limited (Singapore Branch)</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Rejuvenation leave - Entitlement extended to cover mental health/ family
@@ -1662,7 +1690,7 @@ due to family commitment</p>
 </tbody>
 </table>
 <p></p>
-<p>Find out more about the Corporate Pledge <a href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge" rel="noopener noreferrer nofollow" target="_blank">here.</a> 
+<p>Find out more about the Corporate Pledge <strong><a href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong> 
 <br>
 </p>
 <p></p>
