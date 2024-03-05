@@ -296,8 +296,12 @@ Leadership Team</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="11" data-tight="true" class="tight">
+<li>
 <p><strong>ByteDance</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Promote internal Women Mentorship programme - As part of a wider mentoring
@@ -323,8 +327,12 @@ achieve their personal and professional goals</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="12" data-tight="true" class="tight">
+<li>
 <p><strong>Carousell</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To nurture and build on our newly formed structure for all Women in Carousell:
@@ -340,8 +348,12 @@ amplification of minority voices</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="13" data-tight="true" class="tight">
+<li>
 <p><strong>CuriousCore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Providing access to a women career coach (or leader) to discuss sensitive
@@ -356,8 +368,12 @@ needs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="14" data-tight="true" class="tight">
+<li>
 <p><strong>Cyber Security Agency of Singapore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>To organise /support a female mentorship session or programme</p>
@@ -369,8 +385,12 @@ needs</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="15" data-tight="true" class="tight">
+<li>
 <p><strong>DBS</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Build and nurture a strong pipeline of women talent in technology – Launch
@@ -389,8 +409,12 @@ of women hires in Technology ( such as DBS Women in Tech virtual hiring
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="16" data-tight="true" class="tight">
+<li>
 <p><strong>Dell Technologies</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Set up Women in Tech Resource Team</p>
@@ -405,8 +429,12 @@ Tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="17" data-tight="true" class="tight">
+<li>
 <p><strong>Ensign InfoSecurity&nbsp;</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Organize a learning journey for female students aimed at sparking interest
@@ -420,8 +448,12 @@ industry professionals, in partnership with AiSP’s Ladies in Cyber Charter.&nb
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="18" data-tight="true" class="tight">
+<li>
 <p><strong>EPAM</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Educate local talent in digital technologies and provide inclusive in-house
@@ -444,8 +476,12 @@ to cooperate with local organizations to promote employability and education
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="19" data-tight="true" class="tight">
+<li>
 <p><strong>EZ-Link</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Organise special outreach events for recruiting female tech talent</p>
@@ -459,8 +495,12 @@ students</p>
 </tr>
 <tr>
 <td rowspan="5" colspan="1">
+<ol start="20" data-tight="true" class="tight">
+<li>
 <p><strong>Fermata Singapore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="5" colspan="2">
 <p>Actively promotes an inclusive environment where employees have an opportunity
