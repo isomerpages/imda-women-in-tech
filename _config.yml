@@ -3,7 +3,7 @@ url: https://www.sgwit.sg
 favicon: /images/favicon.ico
 colors:
   primary-color: "#614067"
-  secondary-color: "#8a4049"
+  secondary-color: "#9e3c50"
   media-colors:
     - title: media-color-one
       color: "#9b9b9b"
