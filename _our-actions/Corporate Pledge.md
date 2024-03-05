@@ -681,7 +681,11 @@ support them in the workplace</p>
 <ol start="26" data-tight="true" class="tight">
 <li>
 <p><strong>Infocomm Media Development Authority</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/imda.png">
+</div>
 </li>
 </ol>
 </td>
@@ -1408,7 +1412,11 @@ field</p>
 <ol start="55" data-tight="true" class="tight">
 <li>
 <p><strong>SGInnovate</strong>
+<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/logos/sgi.png">
+</div>
 </li>
 </ol>
 </td>
