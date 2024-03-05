@@ -683,9 +683,6 @@ support them in the workplace</p>
 <p><strong>Infocomm Media Development Authority</strong> 
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/imda.png">
-</div>
 </li>
 </ol>
 </td>
@@ -864,8 +861,12 @@ gap, supplemented with face-to-face interviews</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;34. <strong>LemmaTree</strong>
+<ol start="34" data-tight="true" class="tight">
+<li>
+<p><strong>LemmaTree</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Continue our inclusive workplace practices that commit to embracing diversity
@@ -1414,9 +1415,6 @@ field</p>
 <p><strong>SGInnovate</strong> 
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/logos/sgi.png">
-</div>
 </li>
 </ol>
 </td>
