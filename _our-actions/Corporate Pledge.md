@@ -788,8 +788,12 @@ professionals in cybersecurity through mentorship and coaching</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="31" data-tight="true" class="tight">
+<li>
 <p><strong>Keppel Data Centres</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Be an equal opportunity employer where our workplace practices are based
@@ -808,8 +812,12 @@ into the industry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="32" data-tight="true" class="tight">
+<li>
 <p><strong>Kobe Global Technologies</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Kobe is committing to upholding fair, gender-neutral hiring practices
@@ -825,8 +833,12 @@ interested female students from higher education institutions&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="33" data-tight="true" class="tight">
+<li>
 <p><strong>KPMG in Singapore</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Participation in recruitment events/activities which support the hiring
@@ -848,7 +860,7 @@ gap, supplemented with face-to-face interviews</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<strong>LemmaTree</strong>
+<p>&nbsp;34. <strong>LemmaTree</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -864,8 +876,12 @@ where empowered women leaders empower future leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="35" data-tight="true" class="tight">
+<li>
 <p><strong>Lenovo</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Dedicated Women Resource Team - Lenovo has set up a WILL (Women in Lenovo
@@ -885,8 +901,12 @@ Technology in order to build a strong pipeline of talent for the future</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="36" data-tight="true" class="tight">
+<li>
 <p><strong>LinkedIn</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Create equal opportunities for women to take on Leadership roles by increasing
@@ -915,8 +935,12 @@ this course</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="37" data-tight="true" class="tight">
+<li>
 <p><strong>Lumen Technologies</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Champion diversity goals by leading efforts to increase women representation</p>
@@ -930,8 +954,12 @@ talent through mentorship, while fostering a strong community spirit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="38" data-tight="true" class="tight">
+<li>
 <p><strong>Mastercard</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Scale locally in Singapore our award-winning Girls4Tech™ education program,
@@ -950,8 +978,12 @@ Leadership Network</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="39" data-tight="true" class="tight">
+<li>
 <p><strong>McKinsey &amp; Company</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Organize learning and engagement session(s) with McKinsey’s global women
@@ -967,8 +999,12 @@ and to build a peer support community for women in tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="40" data-tight="true" class="tight">
+<li>
 <p><strong>Microsoft</strong>
 </p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="2">
 <p>Microsoft Corporate Activities</p>
