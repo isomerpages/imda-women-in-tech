@@ -8,9 +8,9 @@ locations:
       - ""
       - ""
       - ""
-    title: SG WIT Linkedin
     operating_hours: []
     maps_link: https://www.linkedin.com/company/sgwomenintech/
+    title: SG WIT Linkedin
 contacts:
   - content:
       - phone: +65 6123 4567
