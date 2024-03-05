@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: Agency Name
 locations:
   - address:
-      - "-"
+      - ""
       - ""
       - ""
     operating_hours: []
