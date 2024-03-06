@@ -62,7 +62,7 @@ sections:
       button: Find out more About SG100WIT
       url: /sg100wit/sgwit2023/
   - resources:
-      title: News & Events
-      subtitle: LATEST
+      title: "News & Events "
+      subtitle: View our upcoming activities
       id: resources
 ---
