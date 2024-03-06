@@ -65,7 +65,7 @@ sections:
       title: News & Events
       id: infobar
       description: Step into the heartbeat of SGWIT's community by embarking on a
-        journey of discovert and innovation through our upcoming activities
+        journey of discovery and innovation through our upcoming activities
   - resources:
       subtitle: Latest News
       id: resources
