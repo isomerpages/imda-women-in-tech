@@ -1410,16 +1410,17 @@ field</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="55" data-tight="true" class="tight">
-<li>
-<p><strong>SGInnovate</strong> 
-</p>
-</li>
-</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/sginnov_1.png">
 </div>
+<ol start="55" data-tight="true" class="tight">
+<li>
+<p><strong>SGInnovate</strong>
+</p>
+</li>
+</ol>
+<p></p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Leadership stance on promoting diversity and gender equality</p>
