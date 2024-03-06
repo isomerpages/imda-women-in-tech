@@ -18,4 +18,5 @@ navlinks:
         url: /calendar/
       - title: Get Involved
         url: /contact/
-show_reach: false
+show_reach: true
+contact_us: /contact-us/
