@@ -61,8 +61,12 @@ sections:
         Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video.
       button: Find out more About SG100WIT
       url: /sg100wit/sgwit2023/
-  - resources:
+  - infobar:
       title: News & Events
+      id: infobar
+      description: Step into the heartbeat of SGWIT's community by embarking on a
+        journey of discovert and innovation through our upcoming activities
+  - resources:
       subtitle: Latest News
       id: resources
 ---
