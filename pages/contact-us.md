@@ -3,14 +3,6 @@ layout: contact_us
 title: Contact Us
 permalink: /contact-us/
 agency_name: Agency Name
-locations:
-  - address:
-      - ""
-      - ""
-      - ""
-    operating_hours: []
-    maps_link: https://www.linkedin.com/company/sgwomenintech/
-    title: Follow our Linkedin
 contacts:
   - content:
       - phone: +65 6123 4567
@@ -26,6 +18,6 @@ contacts:
       - phone: ""
       - email: ""
       - other: https://www.linkedin.com/company/sgwomenintech/
-    title: SGWIT Linkedin
+    title: Follow SGWIT Linkedin
 feedback: https://form.gov.sg/6180e1fe171cda0012c5a09b
 ---
