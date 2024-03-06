@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Our Stories
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about/Our_Stories_Image.jpg">
+</div>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Hear how the Chair of SG Women in Tech orchestrates strategic research
