@@ -10,9 +10,10 @@ to create a conducive environment with a strong support system to attract,
 retain, and develop more women in tech.</p>
 <p></p>
 <p>Join the movement now! More than sixty companies have demonstrated their
-dedication to fostering a thriving tech ecosystem for women. Find out the
-specific actions participating companies have pledged and join them in
-contributing to this impactful initiative!</p>
+dedication to fostering a thriving tech ecosystem for women.</p>
+<p></p>
+<p>Find out some of the actions our corporate pledge companies contributed
+to their working environment for this impactful initiative:</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
