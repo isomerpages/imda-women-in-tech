@@ -1,5 +1,5 @@
 collections:
-  events:
+  news-and-events:
     output: true
     order:
       - News.md
