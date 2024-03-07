@@ -19,10 +19,10 @@ to their working environment for this impactful initiative:</p>
 <li>
 <p><strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our team
 members, providing women with&nbsp;equal opportunities from recruitment
-to upskilling, networking and promotions at Attribute Data. We set aside
-annual personal enrichment funds and time offs to utilize for conferences,
-workshops and professional certifications so that everyone has a fair allocation
-of resources for their growth.
+to upskilling, networking and promotions. We set aside annual personal
+enrichment funds and time offs to utilize for conferences, workshops and
+professional certifications so that everyone has a fair allocation of resources
+for their growth.
 <br>
 </p>
 <p></p>
