@@ -48,8 +48,10 @@ tertiary education.</p>
 </li>
 </ol>
 <p>
-<br>
-</p>
+<br>We have also compiled case studies to showcase how some companies are
+championing change and celebrating the impact of women in the tech industry.
+Read the Corporate Pledge Stories <a href="https://www.sgwomenintech.sg/our-partnerships/corporate-pledge-stories/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <hr>
 <p></p>
 <table>
