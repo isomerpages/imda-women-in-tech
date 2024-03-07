@@ -1,14 +1,14 @@
 logo: /images/logos/sg-wit-logo-2021.jpg
 links:
-  - title: About
-    collection: about
+  - title: About Us
+    collection: about-us
+  - title: Our Actions
+    collection: our-actions
   - title: SG 100 Women in Tech
     collection: sg100wit
-  - title: Community
-    collection: community
-  - title: Events
+  - title: Our Partnerships
+    collection: our-partnerships
+  - title: News & Events
     collection: events
-  - title: Read
-    url: /read/
-  - title: Get Involved
-    url: /contact/
+  - title: Contact Us
+    url: /contact-us

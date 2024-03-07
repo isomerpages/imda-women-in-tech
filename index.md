@@ -6,54 +6,66 @@ image: /images/isomer-logo.svg
 permalink: /
 sections:
   - hero:
-      background: /images/SGWIT_IWD2024_Web_Banner.png
-      key_highlights:
-        - title: Register now!
-          description: ""
-          url: https://go.gov.sg/sgwit-iwd2024
+      background: /images/Hero_Banner_1200.jpg
       variant: image
       backgroundColor: gray
       size: md
       alignment: left
   - infopic:
-      title: ABOUT US
-      description: An initiative driven by the Infocomm Media Development Authority
-        (IMDA) and supported by community and industry partners, SG Women In
-        Tech aims to attract, retain and develop women talent across a diversity
-        of jobs in the infocomm workforce. Read about our launch <a
-        href="https://www.imda.gov.sg/news-and-events/impact-news/2019/11/Empowering-women-in-tech">here</a>.
-      image: /images/about/aboutus.jpeg
-      alt: About Us
+      title: SG Women in Tech
+      subtitle: Who we are
+      id: infopic
+      description: SG Women in Tech (SGWIT) empowers women in Singapore's tech
+        industry. Attracting, retaining, & developing female talent.
+      button: find out more
+      url: /about/about-us/
+      image: /images/about/SGWIT_about_us.jpg
+      alt: SGWIT who we are
+  - infopic:
+      title: Singapore 100 Women in Tech (SG100WIT) List
+      id: infopic
+      description: "#SGWIT celebrates women & girls in tech! The list honours
+        inspiring female contributors to Singapore's vibrant tech scene"
+      alt: Image alt text
+      image: /images/SG100WIT_honourees_on_stage_640x480.png
+      url: /sg100wit/
+      button: Find out more
   - infobar:
-      title: SG Women in Tech Corporate Pledge
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/3-gyPRqg7CM" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><div
-        class="bp-sec-button">Find out more <a
-        href="https://www.sgtech.org.sg/pageManagement/sgwomenintechcorporatepledge"
-        class="bp-sec-button is-inline-block"><span>here</span> <i
-        class="sgds-icon sgds-icon-arrow-right is-size-4"
-        aria-hidden="true"></i></a></div>
+      title: Elevate Your Tech Journey!
+      id: infobar
+      description: Connect, share, collaborate with like-minded women in our diverse &
+        inclusive community
+      button: Reach out now
+      url: /contact/
   - infobar:
-      title: Students Ask&colon; Women In Tech
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/jK6eKQQONKw" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe><br><iframe
-        width="560" height="315" src="https://www.youtube.com/embed/E1ZO1-GRXJs"
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen=""></iframe><br><iframe width="560" height="315"
-        src="https://www.youtube.com/embed/ae1aZGPsgVg" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      title: Corporate Pledge
+      id: infobar
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/3-gyPRqg7CM?si=JBAbkebzHh_lO8kS"
+        height="315" width="560"></iframe><br> The Corporate Pledge is a
+        collaborative effort driven by companies committed to building a more
+        inclusive and equitable tech industry.
       button: Learn More
-      url: /community/students-ask-women-in-tech/
+      url: /our-actions/corporate-pledge/
   - infobar:
-      title: Our Year In Review
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/iG-H1ZyYH_o" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-        gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      title: SG100 WIT 2023
+      description: >-
+        <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/-oDamlPFejc?si=J2SgQnY0jabB4d2E"
+        height="315" width="560"></iframe><br>
+
+        Check out the latest edition of Singapore 100 Women in Tech (SG100WIT) List of Tech Honorees in this video.
+      button: Find out more About SG100WIT
+      url: /sg100wit/sgwit2023/
+  - infobar:
+      title: News & Events
+      id: infobar
+      description: Step into the heartbeat of SGWIT's community by embarking on a
+        journey of discovery and innovation through our upcoming activities
+  - resources:
+      id: resources
 ---
