@@ -2,9 +2,9 @@ collections:
   our-partnerships:
     output: true
     order:
-      - Corporate Pledge Stories.md
       - Partners Programme.md
       - Mentor Connect.md
       - JP Morgan GenerationTech.md
       - Cross Polytechnic GIT.md
       - Girls Love Tech.md
+      - Corporate Pledge Stories.md
