@@ -16,4 +16,4 @@ to fostering a more inclusive and diverse tech ecosystem.</p>
 <p>Join us in celebrating the impact of championing changes for women in
 tech by exploring our Corporate Pledge Stories. Together, let's champion
 change and create a more equitable and innovative future for all.</p>
-<p>Download our Corporate Pledge Stories <a href="/files/Corporate_Pledge_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Download our Corporate Pledge Stories <a href="/files/SGWIT_Corporate_Pledge_Stories.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
