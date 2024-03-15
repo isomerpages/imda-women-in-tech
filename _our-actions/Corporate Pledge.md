@@ -1414,9 +1414,6 @@ field</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/sginnov_1.png">
-</div>
 <ol start="55" data-tight="true" class="tight">
 <li>
 <p><strong>SGInnovate</strong>
