@@ -8,3 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h2>International Women's Day: New study to spotlight women in tech across Southeast Asia</h2>
+<p><strong><a href="https://www.channelnewsasia.com/watch/international-womens-day-new-study-spotlight-women-tech-across-southeast-asia-4181771" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/international-womens-day-new-study-spotlight-women-tech-across-southeast-asia-4181771</a></strong>
+</p>
+<p></p>
