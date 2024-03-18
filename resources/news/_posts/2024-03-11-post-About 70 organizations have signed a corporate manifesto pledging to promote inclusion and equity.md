@@ -8,5 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><a href="https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561</a></strong>
+<h2>About 70 organizations have signed a corporate manifesto pledging to promote inclusion and equity in science and technology</h2>
+<p></p>
+<p>Find out more here: <strong><a href="https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561</a></strong>
 </p>
