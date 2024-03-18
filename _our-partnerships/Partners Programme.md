@@ -23,7 +23,10 @@ to championing growth and innovation.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>
+<br>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/JPM_Logo_2016_PRINT_D_CMYK.jpg">
 </div>
@@ -31,7 +34,9 @@ to championing growth and innovation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/CMYK_Red_Black_Small_GeneralAssembly_Horizonta.png">
 </div>
