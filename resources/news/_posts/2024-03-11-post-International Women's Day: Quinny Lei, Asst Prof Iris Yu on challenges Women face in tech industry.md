@@ -8,3 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="https://www.channelnewsasia.com/watch/international-womens-day-quinny-lei-asst-prof-iris-yu-challenges-women-face-tech-industry-4181886" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/international-womens-day-quinny-lei-asst-prof-iris-yu-challenges-women-face-tech-industry-4181886</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+</a>
+</p>
