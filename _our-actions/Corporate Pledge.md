@@ -14,39 +14,6 @@ dedication to fostering a thriving tech ecosystem for women.</p>
 <p></p>
 <p>Find out some of the actions our corporate pledge companies contributed
 to their working environment for this impactful initiative:</p>
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our team
-members, providing women with&nbsp;equal opportunities from recruitment
-to upskilling, networking and promotions. We set aside annual personal
-enrichment funds and time offs to utilize for conferences, workshops and
-professional certifications so that everyone has a fair allocation of resources
-for their growth.
-<br>
-</p>
-<p></p>
-</li>
-<li>
-<p><strong>Flexible Work Arrangements -&nbsp;</strong>We offer flexible work
-arrangements, such as remote work and flexible start and end times to make
-it easier for women to balance their work and personal lives. We see great
-potential in mothers coming back to the workforce and provide them with
-the room to contribute to team success with more diversity of thought and
-experiences.
-<br>
-<br>
-</p>
-</li>
-<li>
-<p><strong>Growing Young Women Tech Talent Pool -&nbsp;</strong>We&nbsp;partner
-with universities, polytechnics, and industry technology partners to promote
-careers in tech to young women. Hosting and facilitating data skills workshops,
-participating in career fairs, or offering internship and work-study opportunities
-to help young talents gain industry experiences while they go through their
-tertiary education.</p>
-</li>
-</ol>
 <p>
 <br>We have also compiled case studies to showcase how some companies are
 championing change and celebrating the impact of women in the tech industry.
@@ -165,12 +132,17 @@ knowledge on gender diversity and inclusion</p>
 <hr>
 <p>Establish a Women in Tech employee resource group
 <br>
-<br>1. <strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our
-team members, providing women with&nbsp;equal opportunities from recruitment
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our team
+members, providing women with&nbsp;equal opportunities from recruitment
 to upskilling, networking and promotions at Attribute Data. We set aside
 annual personal enrichment funds and time offs to utilize for conferences,
 workshops and professional certifications so that everyone has a fair allocation
 of resources for their growth.</p>
+</li>
+</ol>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
