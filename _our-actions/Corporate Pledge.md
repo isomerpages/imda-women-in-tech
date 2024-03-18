@@ -167,10 +167,10 @@ knowledge on gender diversity and inclusion</p>
 <br>
 <br>1. <strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our
 team members, providing women with&nbsp;equal opportunities from recruitment
-to upskilling, networking and promotions. We set aside annual personal
-enrichment funds and time offs to utilize for conferences, workshops and
-professional certifications so that everyone has a fair allocation of resources
-for their growth.</p>
+to upskilling, networking and promotions at Attribute Data. We set aside
+annual personal enrichment funds and time offs to utilize for conferences,
+workshops and professional certifications so that everyone has a fair allocation
+of resources for their growth.</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
