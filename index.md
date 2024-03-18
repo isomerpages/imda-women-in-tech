@@ -19,7 +19,7 @@ sections:
         industry. Attracting, retaining, & developing female talent.
       button: find out more
       url: /about/about-us/
-      image: /images/about/SGWIT_about_us.jpg
+      image: /images/WIT_IWD_0011_resized.png
       alt: SGWIT who we are
   - infopic:
       title: Singapore 100 Women in Tech (SG100WIT) List
