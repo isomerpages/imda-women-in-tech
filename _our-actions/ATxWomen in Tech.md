@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/about/ATxS_2022.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ATxWomen_in_Tech_2023.jpg">
+</div>
 <p>Asia Tech x Singapore (ATxSG) is Asia’s flagship tech event where technology,
 society, and the digital economy converge.</p>
 <p>ATxSG, organised by the Infocomm Media Development Authority (IMDA) and
@@ -28,7 +28,6 @@ latest tech trends, challenges, and opportunities. These include:</p>
 governments, global enterprises, and communities for in-depth discussion
 on the role of technology in shaping our collective digital future.
 <br>
-<br>
 </p>
 </li>
 <li>
@@ -37,7 +36,7 @@ its co-located events:&nbsp;BroadcastAsia, CommunicAsia, SatelliteAsia,
 TechXLR8 Asia, and Innovfest x Elevating Founders.</p>
 </li>
 </ol>
-<p>Find out more about <strong>ATxSG <a href="https://asiatechxsg.com/" rel="noopener noreferrer nofollow" target="_blank">here</a><u>.</u></strong> 
+<p>Find out more about ATxSG <a href="https://asiatechxsg.com/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 </p>
 <p><strong>ATxWIT 2023</strong>
