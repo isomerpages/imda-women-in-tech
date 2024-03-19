@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>The 3rd edition of the SG100WIT List received a record of 800 nominations,
+<p>The third edition of the SG100WIT List received a record of 800 nominations,
 out of which 100 top women and girls in tech were honoured in 2023.</p>
 <p><a href="https://techcoffeehouse.com/2023/09/05/singapore-100-women-in-tech-sg100wit-honors-diverse-achievers-in-the-tech-sector/" rel="noopener noreferrer nofollow" target="_blank">Singapore 100 Women in Tech (SG100WIT) Honors Diverse Achievers in the Tech Sector - </a>
 <a rel="noopener noreferrer nofollow" target="_blank">techcoffeehouse.com</a>
