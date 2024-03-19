@@ -11,9 +11,6 @@ retain, and develop more women in tech.</p>
 <p></p>
 <p>Join the movement now! More than sixty companies have demonstrated their
 dedication to fostering a thriving tech ecosystem for women.</p>
-<p></p>
-<p>Find out some of the actions our corporate pledge companies contributed
-to their working environment for this impactful initiative:</p>
 <p>
 <br>We have also compiled case studies to showcase how some companies are
 championing change and celebrating the impact of women in the tech industry.
