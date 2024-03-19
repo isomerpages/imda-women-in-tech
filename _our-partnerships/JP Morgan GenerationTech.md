@@ -20,7 +20,7 @@ and mathematics (STEM) from a young age.</p>
 it saw a tripling of the number of participants over the last two years
 making it the largest one so far.
 <br>
-<br>Read the press release <strong><a href="https://www.jpmorgan.com/about-us/corporate-news/2022/jpmorgan-collaborates-with-singapore-women" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
+<br>Read the press release <strong><a href="https://www.straitstimes.com/tech/how-a-jp-morgan-hackathon-is-getting-more-teenage-girls-in-singapore-excited-about-stem" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
 <p>Read about <strong><a href="https://www.straitstimes.com/tech/how-a-jp-morgan-hackathon-is-getting-more-teenage-girls-in-singapore-excited-about-stem" rel="noopener noreferrer nofollow" target="_blank">J.P. Morgan GenerationTech here.</a></strong> 
 <br>
