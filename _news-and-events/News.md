@@ -23,9 +23,6 @@ and advance opportunities for women and girls in tech. <strong><a href="https://
 <p>Discover the inspiring journey of SGWIT100 listee, Yu Yuebo, cooperation
 and industrial marketing manager of NCS. <a href="https://www.zaobao.com.sg/news/singapore/story20230905-1430348" rel="noopener noreferrer nofollow" target="_blank">.</a><strong><a href="https://www.zaobao.com.sg/news/singapore/story20230905-1430348" rel="noopener noreferrer nofollow" target="_blank"> 打破标签勇闯科技业 “女模范”百人榜单出炉 | 联合早报 ( zaobao.com.sg)</a></strong>
 </p>
-<p>IMDA appoints five Training Fellows to deepen the technology skills of
-Singapore’s workforce. <strong><a href="https://www.beritaharian.sg/setempat/imda-lantik-5-rakan-kerja-latihan-bagi-pertingkat-kemahiran-teknologi-tenaga-kerja" rel="noopener noreferrer nofollow" target="_blank">Imda Lantik 5 Rakan Kerja Latihan Bagi Pertingkat Kemahiran Teknologi Tenaga Kerja, Berita Singapura - Beritaharian.sg</a></strong>
-</p>
 <p>JP Morgan Generation Tech 2023: <strong><a href="https://www.straitstimes.com/tech/how-a-jp-morgan-hackathon-is-getting-more-teenage-girls-in-singapore-excited-about-stem" rel="noopener noreferrer nofollow" target="_blank">All hands on tech: How this hackathon is getting more teenage girls in Singapore excited about STEM | The Straits Times</a></strong>
 </p>
 <p>The third edition of the SG100WIT List received a record of 800 nominations,
