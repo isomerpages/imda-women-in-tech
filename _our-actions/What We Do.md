@@ -14,7 +14,7 @@ pursuing careers in tech.</p>
 <p><strong>SG100WIT:</strong> This is an initiative aimed at celebrating 100
 inspiring women who have made significant contributions to the tech industry.
 We showcase diverse role models and their achievements.</p>
-<p>Find out more about SG100WIT<strong> <a href="/our-actions/sg100wit/" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong> 
+<p>Find out more about SG100WIT<strong> <a href="/our-actions/sg100wit/" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
 </p>
 <p>
 <br>
