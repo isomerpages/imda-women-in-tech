@@ -39,7 +39,7 @@ to championing growth and innovation.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/CMYK_Red_Black_Small_GeneralAssembly_Horizonta.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/logos/CMYK_Red_Black_Small_GeneralAssembly_Horizonta.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
