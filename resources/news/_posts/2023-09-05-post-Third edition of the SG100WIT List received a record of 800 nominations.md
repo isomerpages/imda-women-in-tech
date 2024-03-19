@@ -18,8 +18,8 @@ out of which 100 top women and girls in tech were honoured in 2023.
 </p>
 <p><strong><a href="https://www.iaasiaonline.com/growing-and-nurturing-tech-talent-through-women-in-tech-and-ai-advocacy/" rel="noopener noreferrer nofollow" target="_blank">Growing and Nurturing Tech Talent through Women in Tech and AI Advocacy - IAA - Industrial Automation (iaasiaonline.com)</a></strong>
 </p>
-<p><strong><a href="https://technode.global/2023/09/11/singapore-computer-society-unveils-3rd-edition-of-singapore-100-women-in-tech-sg100wit-list/" rel="noopener noreferrer nofollow" target="_blank">Singapore Computer Society unveils 3rd edition of Singapore 100 Women in Tech (SG100WIT) List - TNGlobal (technode.global)</a> </strong>
+<p><strong><a href="https://technode.global/2023/09/11/singapore-computer-society-unveils-3rd-edition-of-singapore-100-women-in-tech-sg100wit-list/" rel="noopener noreferrer nofollow" target="_blank">Singapore Computer Society unveils 3rd edition of Singapore 100 Women in Tech (SG100WIT) List - TNGlobal (technode.global)</a></strong>
 </p>
-<p><strong><a href="https://www.beritaharian.sg/setempat/imda-lantik-5-rakan-kerja-latihan-bagi-pertingkat-kemahiran-teknologi-tenaga-kerja" rel="noopener noreferrer nofollow" target="_blank">IMDA appoints five Training Fellows to deepen the technology skills of Singapore’s workforce - Berita Singapura - Beritaharian.sg</a></strong>
+<p><strong><a href="https://www.beritaharian.sg/setempat/imda-lantik-5-rakan-kerja-latihan-bagi-pertingkat-kemahiran-teknologi-tenaga-kerja" rel="noopener noreferrer nofollow" target="_blank">IMDA appoints 5 Training Fellows to deepen the technology skills of Singapore’s workforce - Berita Singapura - Beritaharian.sg</a></strong> 
 <br>
 </p>
