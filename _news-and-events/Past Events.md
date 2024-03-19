@@ -13,24 +13,17 @@ description: ""
 <p><strong>Event date: 8 March 2024</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/iG-H1ZyYH_o?si=trkNwCIRoxXUnSul"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JjsYQkwvezk?si=CaAMLjVwxZ8QpukD"></iframe>
 </div>
 <p></p>
-<p>This International Women’s Day, SG Women in Tech is putting together our
-inaugural IWD celebration on <strong>8 March 2024</strong> from <strong>9:00AM to 1:00PM</strong>.</p>
-<p>At our event titled “WITness Her Spark”, SGWIT proudly presents an inspiring
+<p>This International Women’s Day, SG Women in Tech put together our inaugural
+IWD celebration on <strong>8 March 2024</strong>.</p>
+<p>At our event titled “WITness Her Spark”, SGWIT proudly presented an inspiring
 day of conversations with trailblazing female leaders, insights from companies
 building inclusive environments for women to thrive in, and the opportunity
 to network with a diverse community of women including some of our latest
 SG100WIT 2023 honorees.</p>
-<p>Join us for the event by signing up here and we’ll see you soon!</p>
-<p><strong><a href="https://www.go.gov.sg/sgwit-iwd2024" rel="noopener noreferrer nofollow" target="_blank">https://www.go.gov.sg/sgwit-iwd2024</a></strong> 
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IWD2024_EDM_final_min.png">
-</div>
+<p></p>
 <hr>
 <p></p>
 <ul data-tight="true" class="tight">
