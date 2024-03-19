@@ -22,6 +22,3 @@ making it the largest one so far.
 <br>
 <br>Read the press release <strong><a href="https://www.straitstimes.com/tech/how-a-jp-morgan-hackathon-is-getting-more-teenage-girls-in-singapore-excited-about-stem" rel="noopener noreferrer nofollow" target="_blank">here</a>.</strong>
 </p>
-<p>Read about <strong><a href="https://www.straitstimes.com/tech/how-a-jp-morgan-hackathon-is-getting-more-teenage-girls-in-singapore-excited-about-stem" rel="noopener noreferrer nofollow" target="_blank">J.P. Morgan GenerationTech here.</a></strong> 
-<br>
-</p>
