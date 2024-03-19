@@ -23,7 +23,7 @@ We showcase diverse role models and their achievements.</p>
 <li>
 <p><strong>Tech Events:</strong> We organise and facilitate networking events
 and opportunities for women in tech to connect with industry experts, professionals,
-and peers through events such as <strong><a href="/our-actions/atx-wit" rel="noopener noreferrer nofollow" target="_blank">Asia</a><a href="/our-actions/atx-sg/" rel="noopener noreferrer nofollow" target="_blank"> Tech x Singapore (ATxSG)</a><u> </u></strong>and<strong><u> </u><a href="/our-actions/iwd2024/" rel="noopener noreferrer nofollow" target="_blank">IWD 2024</a></strong>.
+and peers through events such as <strong><a href="/our-actions/atx-wit" rel="noopener noreferrer nofollow" target="_blank">Asia Tech x Singapore (ATxSG)</a><u> </u></strong>and<strong><u> </u><a href="/our-actions/iwd2024/" rel="noopener noreferrer nofollow" target="_blank">IWD 2024</a></strong>.
 These connections foster collaboration, mentorship, and career opportunities
 within the industry.</p>
 </li>
