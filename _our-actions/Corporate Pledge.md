@@ -7,11 +7,12 @@ description: ""
 <p>The Corporate Pledge is a collaborative effort driven by companies committed
 to building a more inclusive and equitable tech industry. Companies pledged
 to create a conducive environment with a strong support system to attract,
-retain, and develop more women in tech.</p>
-<p></p>
+retain, and develop more women in tech.
+<br>
+</p>
 <p>Join the movement now! More than sixty companies have demonstrated their
-dedication to fostering a thriving tech ecosystem for women.</p>
-<p>
+dedication to fostering a thriving tech ecosystem for women.
+<br>
 <br>We have also compiled case studies to showcase how some companies are
 championing change and celebrating the impact of women in the tech industry.
 Read the Corporate Pledge Stories <a href="https://www.sgwomenintech.sg/our-partnerships/corporate-pledge-stories/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
