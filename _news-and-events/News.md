@@ -5,18 +5,14 @@ variant: tiptap
 description: ""
 ---
 <p>International Women's Day: New study to spotlight women in tech across
-Southeast Asia. <strong><a href="https://www.channelnewsasia.com/watch/international-womens-day-new-study-spotlight-women-tech-across-southeast-asia-4181771" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/international-womens-day-new-study-spotlight-women-tech-across-southeast-asia-4181771</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">
+Southeast Asia. <strong><a href="https://www.channelnewsasia.com/watch/international-womens-day-new-study-spotlight-women-tech-across-southeast-asia-4181771" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/international-womens-day-new-study-spotlight-women-tech-across-southeast-asia-4181771</a></strong> 
 <br>
-</a>
 <br>International Women's Day: Quinny Lei, Asst Prof Iris Yu on challenges
-women face in tech industry. <strong><a href="https://www.channelnewsasia.com/watch/international-womens-day-quinny-lei-asst-prof-iris-yu-challenges-women-face-tech-industry-4181886" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/international-womens-day-quinny-lei-asst-prof-iris-yu-challenges-women-face-tech-industry-4181886</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">
+women face in tech industry. <strong><a href="https://www.channelnewsasia.com/watch/international-womens-day-quinny-lei-asst-prof-iris-yu-challenges-women-face-tech-industry-4181886" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/watch/international-womens-day-quinny-lei-asst-prof-iris-yu-challenges-women-face-tech-industry-4181886</a></strong> 
 <br>
-</a>
-<br>约70个机构签署企业宣言 承诺促进科技领域包容性和公平<strong> <a href="https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561</a></strong>
+<br>约70个机构签署企业宣言 承诺促进科技领域包容性和公平<strong> <a href="https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561" rel="noopener noreferrer nofollow" target="_blank">https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561</a></strong> 
 <br>
-<br>杨莉明：鼓励更多女性加入科技领域 <strong><a href="https://www.zaobao.com.sg/news/singapore/story20240308-3129488" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20240308-3129488</a></strong>
+<br>杨莉明：鼓励更多女性加入科技领域 <strong><a href="https://www.zaobao.com.sg/news/singapore/story20240308-3129488" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/news/singapore/story20240308-3129488</a></strong> 
 <br>
 <br>Newly launched one-year programme designed to prepare women in tech to
 be board directors, aimed to improve digital readiness. <strong><a href="https://www.businesstimes.com.sg/startups-tech/technology/launched-programme-prepares-women-technology-board-roles" rel="noopener noreferrer nofollow" target="_blank">Launched: Programme that prepares women in technology for board roles, Technology - THE BUSINESS TIMES</a></strong>
