@@ -4,6 +4,10 @@ permalink: /our-actions/sg100wit/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SG100WIT_honourees_on_stage_640x480.png">
+</div>
 <p>Organised by the Singapore Computer Society (SCS), in partnership with
 SG Women in Tech and Infocomm Media Development Authority (IMDA), the list
 recognises and celebrates women based in Singapore who have been inspiring
