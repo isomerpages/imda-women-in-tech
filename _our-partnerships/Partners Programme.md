@@ -19,12 +19,11 @@ to championing growth and innovation.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logos/She_Loves_Tech_LOGO.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/logos/She_Loves_Tech_LOGO.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p>
-<br>
 <br>
 <br>
 </p>
@@ -45,7 +44,7 @@ to championing growth and innovation.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/BCG_MONOGRAM_RGB_GREEN.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/logos/BCG_MONOGRAM_RGB_GREEN.png">
 </div>
 </td>
 </tr>
