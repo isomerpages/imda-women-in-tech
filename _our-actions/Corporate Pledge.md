@@ -7,47 +7,12 @@ description: ""
 <p>The Corporate Pledge is a collaborative effort driven by companies committed
 to building a more inclusive and equitable tech industry. Companies pledged
 to create a conducive environment with a strong support system to attract,
-retain, and develop more women in tech.</p>
-<p></p>
+retain, and develop more women in tech.
+<br>
+</p>
 <p>Join the movement now! More than sixty companies have demonstrated their
-dedication to fostering a thriving tech ecosystem for women.</p>
-<p></p>
-<p>Find out some of the actions our corporate pledge companies contributed
-to their working environment for this impactful initiative:</p>
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our team
-members, providing women with&nbsp;equal opportunities from recruitment
-to upskilling, networking and promotions. We set aside annual personal
-enrichment funds and time offs to utilize for conferences, workshops and
-professional certifications so that everyone has a fair allocation of resources
-for their growth.
+dedication to fostering a thriving tech ecosystem for women.
 <br>
-</p>
-<p></p>
-</li>
-<li>
-<p><strong>Flexible Work Arrangements -&nbsp;</strong>We offer flexible work
-arrangements, such as remote work and flexible start and end times to make
-it easier for women to balance their work and personal lives. We see great
-potential in mothers coming back to the workforce and provide them with
-the room to contribute to team success with more diversity of thought and
-experiences.
-<br>
-<br>
-</p>
-</li>
-<li>
-<p><strong>Growing Young Women Tech Talent Pool -&nbsp;</strong>We&nbsp;partner
-with universities, polytechnics, and industry technology partners to promote
-careers in tech to young women. Hosting and facilitating data skills workshops,
-participating in career fairs, or offering internship and work-study opportunities
-to help young talents gain industry experiences while they go through their
-tertiary education.</p>
-</li>
-</ol>
-<p>
 <br>We have also compiled case studies to showcase how some companies are
 championing change and celebrating the impact of women in the tech industry.
 Read the Corporate Pledge Stories <a href="https://www.sgwomenintech.sg/our-partnerships/corporate-pledge-stories/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -163,7 +128,39 @@ fields</p>
 <p>Provide additional education and training, to strengthen awareness and
 knowledge on gender diversity and inclusion</p>
 <hr>
-<p>Establish a Women in Tech employee resource group</p>
+<p>Establish a Women in Tech employee resource group
+<br>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Equal Growth Opportunities -&nbsp;</strong>We invest in our team
+members, providing women with&nbsp;equal opportunities from recruitment
+to upskilling, networking and promotions at Attribute Data. We set aside
+annual personal enrichment funds and time offs to utilize for conferences,
+workshops and professional certifications so that everyone has a fair allocation
+of resources for their growth.</p>
+</li>
+</ol>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Flexible Work Arrangements -&nbsp;</strong>We offer flexible work
+arrangements, such as remote work and flexible start and end times to make
+it easier for women to balance their work and personal lives. We see great
+potential in mothers coming back to the workforce and provide them with
+the room to contribute to team success with more diversity of thought and
+experiences.
+<br>
+</p>
+</li>
+<li>
+<p><strong>Growing Young Women Tech Talent Pool -&nbsp;</strong>We&nbsp;partner
+with universities, polytechnics, and industry technology partners to promote
+careers in tech to young women. Hosting and facilitating workshops, participating
+in career fairs, or offering internship and work-study opportunities to
+help young talents gain experiences in their early career.</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
@@ -1414,9 +1411,6 @@ field</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/logos/sginnov_1.png">
-</div>
 <ol start="55" data-tight="true" class="tight">
 <li>
 <p><strong>SGInnovate</strong>

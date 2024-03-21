@@ -1,6 +1,6 @@
 ---
 title: JP Morgan Generation Tech 2023
-permalink: /resources/events/jp-morgan-generation-tech-2023/
+permalink: /resources/news/jp-morgan-generation-tech-2023/
 date: 2023-09-07
 layout: post
 description: ""
