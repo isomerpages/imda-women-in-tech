@@ -698,8 +698,36 @@ or tech skills development for pre-tertiary girls</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <ol start="27" data-tight="true" class="tight">
+<li>
+<p><strong>Infosys Limited</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="2">
+<p>Engage, Network and Recruit more diverse candidates to increasingly create
+a more diverse &amp; inclusive environment by amplifying our engagement
+to widen our network.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Provide speaker sessions &amp; panel discussions to diverse candidates
+to strengthen commitment to promoting diversity &amp; inclusion within
+and outside of Infosys.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Organize mentoring sessions to women and PwDs, and consistently provide
+them opportunities that they can leverage. &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="28" data-tight="true" class="tight">
 <li>
 <p><strong>Ingram Micro</strong>
 </p>
@@ -717,7 +745,7 @@ and providing roadmaps for their career advancement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="28" data-tight="true" class="tight">
+<ol start="29" data-tight="true" class="tight">
 <li>
 <p><strong>Inspire-Tech</strong>
 </p>
@@ -744,7 +772,7 @@ interested in tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="29" data-tight="true" class="tight">
+<ol start="30" data-tight="true" class="tight">
 <li>
 <p><strong>J.P. Morgan</strong>
 </p>
@@ -769,7 +797,7 @@ help women become exceptional leaders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="30" data-tight="true" class="tight">
+<ol start="31" data-tight="true" class="tight">
 <li>
 <p><strong>Kaspersky</strong>
 </p>
@@ -789,7 +817,7 @@ professionals in cybersecurity through mentorship and coaching</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="31" data-tight="true" class="tight">
+<ol start="32" data-tight="true" class="tight">
 <li>
 <p><strong>Keppel Data Centres</strong>
 </p>
@@ -813,7 +841,7 @@ into the industry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="32" data-tight="true" class="tight">
+<ol start="33" data-tight="true" class="tight">
 <li>
 <p><strong>Kobe Global Technologies</strong>
 </p>
@@ -834,7 +862,7 @@ interested female students from higher education institutions&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="33" data-tight="true" class="tight">
+<ol start="34" data-tight="true" class="tight">
 <li>
 <p><strong>KPMG in Singapore</strong>
 </p>
@@ -861,7 +889,7 @@ gap, supplemented with face-to-face interviews</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="34" data-tight="true" class="tight">
+<ol start="35" data-tight="true" class="tight">
 <li>
 <p><strong>LemmaTree</strong>
 </p>
@@ -881,7 +909,7 @@ where empowered women leaders empower future leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="35" data-tight="true" class="tight">
+<ol start="36" data-tight="true" class="tight">
 <li>
 <p><strong>Lenovo</strong>
 </p>
@@ -906,7 +934,7 @@ Technology in order to build a strong pipeline of talent for the future</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="36" data-tight="true" class="tight">
+<ol start="37" data-tight="true" class="tight">
 <li>
 <p><strong>LinkedIn</strong>
 </p>
@@ -940,7 +968,7 @@ this course</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="37" data-tight="true" class="tight">
+<ol start="38" data-tight="true" class="tight">
 <li>
 <p><strong>Lumen Technologies</strong>
 </p>
@@ -959,7 +987,7 @@ talent through mentorship, while fostering a strong community spirit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="38" data-tight="true" class="tight">
+<ol start="39" data-tight="true" class="tight">
 <li>
 <p><strong>Mastercard</strong>
 </p>
@@ -983,7 +1011,7 @@ Leadership Network</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="39" data-tight="true" class="tight">
+<ol start="40" data-tight="true" class="tight">
 <li>
 <p><strong>McKinsey &amp; Company</strong>
 </p>
@@ -1004,7 +1032,7 @@ and to build a peer support community for women in tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="40" data-tight="true" class="tight">
+<ol start="41" data-tight="true" class="tight">
 <li>
 <p><strong>Microsoft</strong>
 </p>
@@ -1052,7 +1080,7 @@ and participate in free, hands-on computer and technology workshop</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="41" data-tight="true" class="tight">
+<ol start="42" data-tight="true" class="tight">
 <li>
 <p><strong>Motional</strong>
 </p>
@@ -1077,7 +1105,7 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="42" data-tight="true" class="tight">
+<ol start="43" data-tight="true" class="tight">
 <li>
 <p><strong>NCS</strong>
 </p>
@@ -1094,7 +1122,7 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="43" data-tight="true" class="tight">
+<ol start="44" data-tight="true" class="tight">
 <li>
 <p><strong>OCBC</strong>
 </p>
@@ -1113,7 +1141,7 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="44" data-tight="true" class="tight">
+<ol start="45" data-tight="true" class="tight">
 <li>
 <p><strong>Okta</strong>
 </p>
@@ -1169,7 +1197,7 @@ mentorship and networking for women in technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="45" data-tight="true" class="tight">
+<ol start="46" data-tight="true" class="tight">
 <li>
 <p><strong>Oracle</strong>
 </p>
@@ -1192,7 +1220,7 @@ an environment of growth and retention of Oracle women leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="46" data-tight="true" class="tight">
+<ol start="47" data-tight="true" class="tight">
 <li>
 <p><strong>PayPal</strong>
 </p>
@@ -1213,7 +1241,7 @@ are recruitment events/career talks targeting female students)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="47" data-tight="true" class="tight">
+<ol start="48" data-tight="true" class="tight">
 <li>
 <p><strong>Pensees</strong>
 </p>
@@ -1235,7 +1263,7 @@ and publicising them through our digital media platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="48" data-tight="true" class="tight">
+<ol start="49" data-tight="true" class="tight">
 <li>
 <p><strong>PwC Singapore</strong>
 </p>
@@ -1257,7 +1285,7 @@ tech talent in PwC Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="49" data-tight="true" class="tight">
+<ol start="50" data-tight="true" class="tight">
 <li>
 <p><strong>Razer</strong>
 </p>
@@ -1285,7 +1313,7 @@ the tech industry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="50" data-tight="true" class="tight">
+<ol start="51" data-tight="true" class="tight">
 <li>
 <p><strong>Rakuten</strong>
 </p>
@@ -1306,7 +1334,7 @@ equality in all forms, striving towards an equal opportunity employer</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="51" data-tight="true" class="tight">
+<ol start="52" data-tight="true" class="tight">
 <li>
 <p><strong>Salesforce</strong>
 </p>
@@ -1338,7 +1366,7 @@ and skills of women</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="52" data-tight="true" class="tight">
+<ol start="53" data-tight="true" class="tight">
 <li>
 <p><strong>SAP Asia</strong>
 </p>
@@ -1370,7 +1398,7 @@ with access to the right resources</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="53" data-tight="true" class="tight">
+<ol start="54" data-tight="true" class="tight">
 <li>
 <p><strong>SAS Singapore</strong>
 </p>
@@ -1392,7 +1420,7 @@ both in their personal and professional lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="54" data-tight="true" class="tight">
+<ol start="55" data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Blockchain Innovation Programme (SBIP)</strong>
 </p>
@@ -1410,8 +1438,7 @@ field</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<ol start="55" data-tight="true" class="tight">
+<ol start="56" data-tight="true" class="tight">
 <li>
 <p><strong>SGInnovate</strong>
 </p>
@@ -1429,7 +1456,7 @@ field</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="56" data-tight="true" class="tight">
+<ol start="57" data-tight="true" class="tight">
 <li>
 <p><strong>ShopBack&nbsp;</strong>
 </p>
@@ -1449,7 +1476,7 @@ sector and inspire the next generation of leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="57" data-tight="true" class="tight">
+<ol start="58" data-tight="true" class="tight">
 <li>
 <p><strong>Shopee</strong>
 </p>
@@ -1471,7 +1498,7 @@ tech sector and spark their interest in tech careers.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="58" data-tight="true" class="tight">
+<ol start="59" data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Airlines</strong>
 </p>
@@ -1489,7 +1516,7 @@ as internships, career talks.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="59" data-tight="true" class="tight">
+<ol start="60" data-tight="true" class="tight">
 <li>
 <p><strong>Singtel&nbsp;</strong>
 </p>
@@ -1510,7 +1537,7 @@ their stories on social media</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="60" data-tight="true" class="tight">
+<ol start="61" data-tight="true" class="tight">
 <li>
 <p><strong>Standard Chartered</strong>
 </p>
@@ -1533,7 +1560,7 @@ their wealth needs to achieve their financial goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="61" data-tight="true" class="tight">
+<ol start="62" data-tight="true" class="tight">
 <li>
 <p><strong>ST Engineering&nbsp;</strong>
 </p>
@@ -1553,7 +1580,7 @@ sessions and support groups within ST Engineering</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="62" data-tight="true" class="tight">
+<ol start="63" data-tight="true" class="tight">
 <li>
 <p><strong>Tribal Worldwide</strong>
 </p>
@@ -1577,7 +1604,7 @@ of 2 days of family leave programme for working mom/caregivers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="63" data-tight="true" class="tight">
+<ol start="64" data-tight="true" class="tight">
 <li>
 <p><strong>Trusted Services</strong>
 </p>
@@ -1594,7 +1621,7 @@ of 2 days of family leave programme for working mom/caregivers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="64" data-tight="true" class="tight">
+<ol start="65" data-tight="true" class="tight">
 <li>
 <p><strong>Ubisoft Singapore</strong>
 </p>
@@ -1614,7 +1641,7 @@ career opportunities in the industry for students and with parents"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="65" data-tight="true" class="tight">
+<ol start="66" data-tight="true" class="tight">
 <li>
 <p><strong>Unity Technologies</strong>
 </p>
@@ -1650,7 +1677,7 @@ Technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="66" data-tight="true" class="tight">
+<ol start="67" data-tight="true" class="tight">
 <li>
 <p><strong>vLookUp</strong>
 </p>
@@ -1675,7 +1702,7 @@ who believe in helping women leaders in Tech grow and find relevant opportunitie
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="67" data-tight="true" class="tight">
+<ol start="68" data-tight="true" class="tight">
 <li>
 <p><strong>Wipro Limited (Singapore Branch)</strong>
 </p>
