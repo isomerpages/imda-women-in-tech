@@ -13,7 +13,7 @@ description: ""
 <p><strong>Event date: 8 March 2024</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JjsYQkwvezk?si=CaAMLjVwxZ8QpukD"></iframe>
+<iframe height="504" width="896" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FacODRHYNe0?si=1huZfLWD2rpasagD"></iframe>
 </div>
 <p></p>
 <p>This International Women’s Day, SG Women in Tech put together our inaugural
