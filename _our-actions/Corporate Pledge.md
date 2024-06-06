@@ -457,8 +457,6 @@ careers, and we will support those re-entering the workforce after career
 breaks, as well as working mothers, to ensure they find a nurturing and
 supportive work environment.</p>
 <hr>
-<ol start="3" data-tight="true" class="tight">
-<li>
 <p>Demonstrate our dedication to gender equality and family wellbeing through
 programs that promote work-life harmony. The existing 16-weeks paid maternity
 leave for locals have been extended to our foreign employees. We affirm
@@ -469,8 +467,6 @@ work arrangements, such as a hybrid working model for applicable positions,
 and staggered working hours. These measures are crafted to empower our
 employees with the flexibility necessary to balance their professional
 responsibilities with their family commitments.</p>
-</li>
-</ol>
 </td>
 </tr>
 <tr>
