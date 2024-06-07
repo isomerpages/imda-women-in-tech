@@ -436,7 +436,7 @@ Tech</p>
 <td rowspan="1" colspan="1">
 <ol start="17" data-tight="true" class="tight">
 <li>
-<p><strong>Emerson Electric Co.</strong>
+<p><strong>Emerson </strong>
 </p>
 </li>
 </ol>
