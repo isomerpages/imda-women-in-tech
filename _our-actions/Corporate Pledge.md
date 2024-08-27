@@ -19,9 +19,8 @@ Read the Corporate Pledge Stories <a href="https://www.sgwomenintech.sg/our-part
 <p></p>
 <hr>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -31,7 +30,7 @@ Read the Corporate Pledge Stories <a href="https://www.sgwomenintech.sg/our-part
 <p><strong>Company Name</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Pledged Activities&nbsp;</strong>
 </p>
 </td>
@@ -45,7 +44,7 @@ Read the Corporate Pledge Stories <a href="https://www.sgwomenintech.sg/our-part
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Recruit more women in tech to create a competitive and diverse environment</p>
 <hr>
 <p>Review maternity leave policy&nbsp;</p>
@@ -62,7 +61,7 @@ Read the Corporate Pledge Stories <a href="https://www.sgwomenintech.sg/our-part
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Paid Parental leave: Paid maternity leave has been extended from 16 to
 20 weeks, and paternity leave to 15 days</p>
 <hr>
@@ -84,7 +83,7 @@ mental health issues</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Commit to Inclusion, Diversity and Equity in all aspects of our workplace
 practices and business, and being an equal opportunity employer</p>
 <hr>
@@ -109,7 +108,7 @@ providing them with internship, traineeship and career opportunities</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Establish a Women in Technology resource group across Aon</p>
 <hr>
 <p>Enhance gender-equitable recruitment practices in technology and analytics
@@ -127,7 +126,7 @@ fields</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Engage female students in schools</p>
 <hr>
 <p>Provide additional education and training, to strengthen awareness and
@@ -177,7 +176,7 @@ help young talents gain experiences in their early career.</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Continue to grow and engage the Autodesk Women’s Network</p>
 <hr>
 <p>Facilitate more mentorship opportunities within the company</p>
@@ -194,7 +193,7 @@ help young talents gain experiences in their early career.</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Internal corporate activities / resources</strong> 
 <br>
 <br>BofA Women in Technology &amp; Operations (WIT&amp;O) is a line of business
@@ -238,7 +237,7 @@ to do so in 2022 as well.</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Set up a Cross-Divisional Women in Tech Resource Team</p>
 <hr>
 <p>Conduct Professional Coaching and Reverse Mentorship</p>
@@ -257,7 +256,7 @@ to do so in 2022 as well.</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Setting quantitative aspirations for recruiting women in digital projects
 and review aspirations realization on a biannual basis</p>
 <hr>
@@ -278,7 +277,7 @@ and promotion rates for women and men in digital projects</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>BHP Technology mentoring program – where our Technology employees are
 mentored by more senior BHP leaders to help progress and support their
 careers.&nbsp; Cross Industry mentoring is also important, to bring outside
@@ -308,7 +307,7 @@ Leadership Team</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Promote internal Women Mentorship programme - As part of a wider mentoring
 programme, "Women Mentoring" is an initiative for colleagues to lean on
 and be mentored by other inspirational and influential women. Women who
@@ -339,7 +338,7 @@ achieve their personal and professional goals</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To nurture and build on our newly formed structure for all Women in Carousell:
 ‘<em>CarouFemme</em>’ so as to create a support structure and a sense of
 belonging</p>
@@ -360,7 +359,7 @@ amplification of minority voices</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Providing access to a women career coach (or leader) to discuss sensitive
 issues if needed</p>
 <hr>
@@ -380,7 +379,7 @@ needs</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To organise /support a female mentorship session or programme</p>
 <hr>
 <p>To hold a panel discussion featuring key female leaders in the field&nbsp;</p>
@@ -397,7 +396,7 @@ needs</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Build and nurture a strong pipeline of women talent in technology – Launch
 DBS Women in Tech Conference, Partner with United Women Singapore (Girls2Pioneer)
 to encourage female youth towards STEM related degrees and careers&nbsp;</p>
@@ -421,7 +420,7 @@ of women hires in Technology ( such as DBS Women in Tech virtual hiring
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Set up Women in Tech Resource Team</p>
 <hr>
 <p>Commit public to diverse leadership</p>
@@ -441,7 +440,7 @@ Tech</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Establish and sustain the Women's Impact Network Employee Resource Group,
 a global collective that is dedicated to fostering support, providing networking
 opportunities and professional development for female employees. We are
@@ -478,7 +477,7 @@ responsibilities with their family commitments.</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Organize a learning journey for female students aimed at sparking interest
 in a meaningful cybersecurity career</p>
 <hr>
@@ -497,7 +496,7 @@ industry professionals, in partnership with AiSP’s Ladies in Cyber Charter.&nb
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Educate local talent in digital technologies and provide inclusive in-house
 training opportunities to local communities, women returning to work after
 extended leaves, career-switchers and university graduates</p>
@@ -525,7 +524,7 @@ to cooperate with local organizations to promote employability and education
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Organise special outreach events for recruiting female tech talent</p>
 <hr>
 <p>Implement events/programmes or participate in schools' career day to interest
@@ -544,7 +543,7 @@ students</p>
 </li>
 </ol>
 </td>
-<td rowspan="5" colspan="2">
+<td rowspan="5" colspan="1">
 <p>Actively promotes an inclusive environment where employees have an opportunity
 to achieve personal success and contribute to the growth of the business.
 Employees will be able to seek coaching and personal development sessions.</p>
@@ -575,7 +574,7 @@ an additional two-days per month for menstrual leave.</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Provide public commitment to women participation in Tech&nbsp;</p>
 <hr>
 <p>Enhance mentorship programme with a 50/50 hiring goal for gender diversity&nbsp;</p>
@@ -593,7 +592,7 @@ in Career in Tech</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Commitment to Diversity and Inclusivity: foodpanda is dedicated to maintaining
 diversity and inclusivity by hiring without bias and promoting gender equality,
 ensuring a workplace that is welcoming to all.</p>
@@ -618,7 +617,7 @@ within our organization.</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Recruit and empower more women and expose them to technological possibilities</p>
 <hr>
 <p>To provide an environment that encourages self-learning for women</p>
@@ -627,15 +626,48 @@ within our organization.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <ol start="25" data-tight="true" class="tight">
+<li>
+<p><strong>genXcel</strong>
+</p>
+<p></p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Organising foundational coaching workshops for 100 women from partner
+companies to equip them with effective coaching skills.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Establishing a professional coaching support group for SG Women in Tech
+(SGWIT) to foster collective growth and exchange insights.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Launching community outreach initiatives aimed at addressing gender disparities
+and creating more inclusive environments.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Committed to helping individuals and communities thrive by creating spaces
+for learning, growth, and collective success.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="26" data-tight="true" class="tight">
 <li>
 <p><strong>GIC</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Tackle unconscious bias by rolling out unconscious bias training for all
 employees</p>
 <hr>
@@ -669,14 +701,14 @@ so as to nurture the next generation of female technology leaders in GIC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="26" data-tight="true" class="tight">
+<ol start="27" data-tight="true" class="tight">
 <li>
 <p><strong>Government Technology Agency of Singapore</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To drive mentorship and development of female talents, particularly the
 young and return-to-work groups, to help bolster our female tech talent
 pool in SG</p>
@@ -691,14 +723,14 @@ employees</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="27" data-tight="true" class="tight">
+<ol start="28" data-tight="true" class="tight">
 <li>
 <p><strong>IBM</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Attract</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -745,7 +777,7 @@ support them in the workplace</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="28" data-tight="true" class="tight">
+<ol start="29" data-tight="true" class="tight">
 <li>
 <p><strong>Infocomm Media Development Authority</strong> 
 <br>
@@ -753,7 +785,7 @@ support them in the workplace</p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Curate an industry-wide movement - SG Women in Tech to attract, retain
 and develop girls and women in tech&nbsp;</p>
 <hr>
@@ -766,42 +798,42 @@ or tech skills development for pre-tertiary girls</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<ol start="29" data-tight="true" class="tight">
+<ol start="30" data-tight="true" class="tight">
 <li>
 <p><strong>Infosys Limited</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Engage, Network and Recruit more diverse candidates to increasingly create
 a more diverse &amp; inclusive environment by amplifying our engagement
 to widen our network.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Provide speaker sessions &amp; panel discussions to diverse candidates
 to strengthen commitment to promoting diversity &amp; inclusion within
 and outside of Infosys.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Organize mentoring sessions to women and PwDs, and consistently provide
 them opportunities that they can leverage. &nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="30" data-tight="true" class="tight">
+<ol start="31" data-tight="true" class="tight">
 <li>
 <p><strong>Ingram Micro</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Promote career opportunities for Women in Tech in Virtual Career Fairs</p>
 <hr>
 <p>Promote internship opportunities for Women in Tech with Polytechnics/ITEs/Universities</p>
@@ -812,14 +844,14 @@ and providing roadmaps for their career advancement</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="31" data-tight="true" class="tight">
+<ol start="32" data-tight="true" class="tight">
 <li>
 <p><strong>Inspire-Tech</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Coaching and personal development sessions for women employees</p>
 <hr>
 <p>Appropriate HR interventions to support family life by empowering women
@@ -839,14 +871,14 @@ interested in tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="32" data-tight="true" class="tight">
+<ol start="33" data-tight="true" class="tight">
 <li>
 <p><strong>J.P. Morgan</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Engaging our women employees and strengthening women representation across
 all levels in the organization through programs such as Women on the Move,
 a firmwide initiative to increase awareness and address topics that matter
@@ -864,14 +896,14 @@ help women become exceptional leaders.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="33" data-tight="true" class="tight">
+<ol start="34" data-tight="true" class="tight">
 <li>
 <p><strong>Kaspersky</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To encourage and enable female undergraduates to pursue cybersecurity
 careers through activities such as career talks, and book prizes</p>
 <hr>
@@ -884,14 +916,14 @@ professionals in cybersecurity through mentorship and coaching</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="34" data-tight="true" class="tight">
+<ol start="35" data-tight="true" class="tight">
 <li>
 <p><strong>Keppel Data Centres</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Be an equal opportunity employer where our workplace practices are based
 on meritocracy and not subject to any form of biasness</p>
 <hr>
@@ -908,14 +940,14 @@ into the industry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="35" data-tight="true" class="tight">
+<ol start="36" data-tight="true" class="tight">
 <li>
 <p><strong>Kobe Global Technologies</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Kobe is committing to upholding fair, gender-neutral hiring practices
 that ensure equally-qualified women have equal employment opportunities</p>
 <hr>
@@ -929,14 +961,14 @@ interested female students from higher education institutions&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="36" data-tight="true" class="tight">
+<ol start="37" data-tight="true" class="tight">
 <li>
 <p><strong>KPMG in Singapore</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Participation in recruitment events/activities which support the hiring
 of women in tech</p>
 <hr>
@@ -956,14 +988,14 @@ gap, supplemented with face-to-face interviews</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="37" data-tight="true" class="tight">
+<ol start="38" data-tight="true" class="tight">
 <li>
 <p><strong>LemmaTree</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Continue our inclusive workplace practices that commit to embracing diversity
 in all of its forms and being an equal opportunity employer</p>
 <hr>
@@ -976,14 +1008,14 @@ where empowered women leaders empower future leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="38" data-tight="true" class="tight">
+<ol start="39" data-tight="true" class="tight">
 <li>
 <p><strong>Lenovo</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Dedicated Women Resource Team - Lenovo has set up a WILL (Women in Lenovo
 Leadership) employee resource group dedicated to drive diversity and inclusive
 in the workplace in order to hold fast to the public commitment to a diverse
@@ -1001,14 +1033,14 @@ Technology in order to build a strong pipeline of talent for the future</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="39" data-tight="true" class="tight">
+<ol start="40" data-tight="true" class="tight">
 <li>
 <p><strong>LinkedIn</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Create equal opportunities for women to take on Leadership roles by increasing
 the inclusivity of our hiring practices, attracting a more diverse set
 of talent and nurturing meaningful relationships that lead to opportunities.
@@ -1035,14 +1067,14 @@ this course</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="40" data-tight="true" class="tight">
+<ol start="41" data-tight="true" class="tight">
 <li>
 <p><strong>Lumen Technologies</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Champion diversity goals by leading efforts to increase women representation</p>
 <hr>
 <p>Cultivate an inclusive workplace, and actively create opportunities for
@@ -1054,14 +1086,14 @@ talent through mentorship, while fostering a strong community spirit</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="41" data-tight="true" class="tight">
+<ol start="42" data-tight="true" class="tight">
 <li>
 <p><strong>Mastercard</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Scale locally in Singapore our award-winning Girls4Tech™ education program,
 designed for girls ages 8-16, aims to create future problem-solvers. Based
 on STEM principles, Girls4Tech was&nbsp; developed in conjunction with
@@ -1078,14 +1110,14 @@ Leadership Network</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="42" data-tight="true" class="tight">
+<ol start="43" data-tight="true" class="tight">
 <li>
 <p><strong>McKinsey &amp; Company</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Organize learning and engagement session(s) with McKinsey’s global women
 tech leaders to provide role models and to inspire more local women in
 tech</p>
@@ -1099,14 +1131,14 @@ and to build a peer support community for women in tech</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="43" data-tight="true" class="tight">
+<ol start="44" data-tight="true" class="tight">
 <li>
 <p><strong>Microsoft</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Microsoft Corporate Activities</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1147,14 +1179,14 @@ and participate in free, hands-on computer and technology workshop</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="44" data-tight="true" class="tight">
+<ol start="45" data-tight="true" class="tight">
 <li>
 <p><strong>Motional</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To encourage and empower women to build personal and professional development
 by providing guidance, advice, and feedback to each other, via peer-to-peer
 mentoring circles</p>
@@ -1172,14 +1204,14 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="45" data-tight="true" class="tight">
+<ol start="46" data-tight="true" class="tight">
 <li>
 <p><strong>NCS</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To build a female talent pipeline</p>
 <hr>
 <p>To drive women mentorship and sponsorship programs</p>
@@ -1189,14 +1221,14 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="46" data-tight="true" class="tight">
+<ol start="47" data-tight="true" class="tight">
 <li>
 <p><strong>OCBC</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Set up a Cross-Divisional Women in Tech Resource Team</p>
 <hr>
 <p>Conduct Professional Coaching and Reverse Mentorship</p>
@@ -1208,14 +1240,14 @@ for growth and success for women within the company and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="47" data-tight="true" class="tight">
+<ol start="48" data-tight="true" class="tight">
 <li>
 <p><strong>Okta</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Recruiting more female talent to build balanced teams - We attract and
 value talent that reflects our community of partners, customers, and employees</p>
 <hr>
@@ -1264,14 +1296,14 @@ mentorship and networking for women in technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="48" data-tight="true" class="tight">
+<ol start="49" data-tight="true" class="tight">
 <li>
 <p><strong>Oracle</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Invest in equity to achieve equality - Deliver the inaugural Women in
 Tech Summit for Oracle women, investing in top technical talent to enhance
 innovation, product development as well as technical capability and career
@@ -1287,14 +1319,14 @@ an environment of growth and retention of Oracle women leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="49" data-tight="true" class="tight">
+<ol start="50" data-tight="true" class="tight">
 <li>
 <p><strong>PayPal</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Grooming the next generation female leaders (examples of initiatives are
 PayPal Women Luminaries Program, internships, etc.)</p>
 <hr>
@@ -1308,14 +1340,14 @@ are recruitment events/career talks targeting female students)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="50" data-tight="true" class="tight">
+<ol start="51" data-tight="true" class="tight">
 <li>
 <p><strong>Pensees</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Form a Pensees' 'Women in Tech' Committee - to roll-out of whole year
 activities for women in tech, for example our HR is currently planning
 an International Women's Day Celebration for our office</p>
@@ -1330,14 +1362,14 @@ and publicising them through our digital media platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="51" data-tight="true" class="tight">
+<ol start="52" data-tight="true" class="tight">
 <li>
 <p><strong>Project Elev8</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Organize a foundational coaching workshop for 100 women from partner companies,
 emphasizing knowledge on conducting effective coaching sessions.</p>
 <hr>
@@ -1348,14 +1380,14 @@ emphasizing knowledge on conducting effective coaching sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="52" data-tight="true" class="tight">
+<ol start="53" data-tight="true" class="tight">
 <li>
 <p><strong>PwC Singapore</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Nurture our growing female talent in technology by offering executive
 coaching to females in tech at PwC Singapore&nbsp;</p>
 <hr>
@@ -1370,14 +1402,14 @@ tech talent in PwC Singapore</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="53" data-tight="true" class="tight">
+<ol start="54" data-tight="true" class="tight">
 <li>
 <p><strong>Razer</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ensure that a minimum of one interviewable candidate for positions across
 senior role vacancies (i.e director and above) and fresh graduate/internship
 opportunities is female</p>
@@ -1398,14 +1430,14 @@ the tech industry</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="54" data-tight="true" class="tight">
+<ol start="55" data-tight="true" class="tight">
 <li>
 <p><strong>Rakuten</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Provide continuous support for Mothers at workplace such as maternity
 benefits, flexible working hours, nursing rooms, and counselling services</p>
 <hr>
@@ -1419,14 +1451,14 @@ equality in all forms, striving towards an equal opportunity employer</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="55" data-tight="true" class="tight">
+<ol start="56" data-tight="true" class="tight">
 <li>
 <p><strong>Salesforce</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Internal Corporate Activities/Resources - To grow Salesforce Women's Network
 (SWN) members and participations. The Salesforce Women’s Network is instrumental
 in achieving the goal of 50% women leaders, across all levels and geos,
@@ -1451,14 +1483,14 @@ and skills of women</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="56" data-tight="true" class="tight">
+<ol start="57" data-tight="true" class="tight">
 <li>
 <p><strong>SAP Asia</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Build internal Inclusive Leadership Succession - Ongoing: part of a Leadership
 Experience and Development program we have launched in Southeast Asia with
 two cohorts- aspirational leaders and senior leadership successors. Nominations
@@ -1483,14 +1515,14 @@ with access to the right resources</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="57" data-tight="true" class="tight">
+<ol start="58" data-tight="true" class="tight">
 <li>
 <p><strong>SAS Singapore</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Through SAS Women’s Initiatives Network to create opportunities and a
 community where women in SAS are encouraged to achieve their full potential,
 both in their personal and professional lives.</p>
@@ -1505,14 +1537,14 @@ both in their personal and professional lives.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="58" data-tight="true" class="tight">
+<ol start="59" data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Blockchain Innovation Programme (SBIP)</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To organize seminar with panel featuring female leaders in blockchain
 field</p>
 <hr>
@@ -1523,7 +1555,7 @@ field</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="59" data-tight="true" class="tight">
+<ol start="60" data-tight="true" class="tight">
 <li>
 <p><strong>SGInnovate</strong>
 </p>
@@ -1531,7 +1563,7 @@ field</p>
 </ol>
 <p></p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Leadership stance on promoting diversity and gender equality</p>
 <hr>
 <p>Gender equal HR policies and practices</p>
@@ -1541,14 +1573,14 @@ field</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="60" data-tight="true" class="tight">
+<ol start="61" data-tight="true" class="tight">
 <li>
 <p><strong>ShopBack&nbsp;</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Implement structural interventions (e.g. dedicated facilities, new policies)
 to better support women (e.g. mothers) in the workplace</p>
 <hr>
@@ -1561,14 +1593,14 @@ sector and inspire the next generation of leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="61" data-tight="true" class="tight">
+<ol start="62" data-tight="true" class="tight">
 <li>
 <p><strong>Shopee</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Feature female employees and leaders in Shopee's communication platforms
 - to support gender diversity across different roles and levels.</p>
 <hr>
@@ -1583,14 +1615,14 @@ tech sector and spark their interest in tech careers.&nbsp;&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="62" data-tight="true" class="tight">
+<ol start="63" data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Airlines</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Organize special outreach events for recruiting female tech talent such
 as internships, career talks.&nbsp;</p>
 <hr>
@@ -1601,14 +1633,14 @@ as internships, career talks.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="63" data-tight="true" class="tight">
+<ol start="64" data-tight="true" class="tight">
 <li>
 <p><strong>Singtel&nbsp;</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To encourage and grow women in tech, by organising internal and external
 events. E.g. speaking panel for International Women’s Day, Networking session
 for female employees etc</p>
@@ -1622,14 +1654,14 @@ their stories on social media</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="64" data-tight="true" class="tight">
+<ol start="65" data-tight="true" class="tight">
 <li>
 <p><strong>Standard Chartered</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Increase female representation&nbsp;in&nbsp;senior leadership positions
 to 35%. Foster an&nbsp;inclusive and family-friendly culture through enabling
 flexible ways of working, coaching programme for&nbsp;women, and 20 weeks
@@ -1645,14 +1677,14 @@ their wealth needs to achieve their financial goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="65" data-tight="true" class="tight">
+<ol start="66" data-tight="true" class="tight">
 <li>
 <p><strong>ST Engineering&nbsp;</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Encourage networking within ST Engineering and with external partners
 through sharing of best practices and experiences</p>
 <hr>
@@ -1665,14 +1697,14 @@ sessions and support groups within ST Engineering</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="66" data-tight="true" class="tight">
+<ol start="67" data-tight="true" class="tight">
 <li>
 <p><strong>Tribal Worldwide</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>To implement Total Experience™ (TX) programme and to work with schools,
 IHLs to provide internship, networking and mentorship opportunities; for
 female students to be exposed in areas such as Technology, CX and Product
@@ -1689,14 +1721,14 @@ of 2 days of family leave programme for working mom/caregivers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="67" data-tight="true" class="tight">
+<ol start="68" data-tight="true" class="tight">
 <li>
 <p><strong>Trusted Services</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>On-site Nursing room (Structural workplace intervention)</p>
 <hr>
 <p>Mentorship Program (Coaching &amp; Professional Development)</p>
@@ -1706,14 +1738,14 @@ of 2 days of family leave programme for working mom/caregivers</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="68" data-tight="true" class="tight">
+<ol start="69" data-tight="true" class="tight">
 <li>
 <p><strong>Ubisoft Singapore</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Create ERGs and allyship programs for our female employees and roll out
 a Women in Leadership program&nbsp;</p>
 <hr>
@@ -1726,14 +1758,14 @@ career opportunities in the industry for students and with parents"</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="69" data-tight="true" class="tight">
+<ol start="70" data-tight="true" class="tight">
 <li>
 <p><strong>Unity Technologies</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Internal Corporate Activities and Resources</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -1762,14 +1794,14 @@ Technologies</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="70" data-tight="true" class="tight">
+<ol start="71" data-tight="true" class="tight">
 <li>
 <p><strong>vLookUp</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Connect aspiring women leaders in Tech to mentors, role models and domain
 experts and nurtures curated, one-on-one conversations coupled with career-specific
 guidance to enable women to grow and lead</p>
@@ -1787,14 +1819,14 @@ who believe in helping women leaders in Tech grow and find relevant opportunitie
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ol start="71" data-tight="true" class="tight">
+<ol start="72" data-tight="true" class="tight">
 <li>
 <p><strong>Wipro Limited (Singapore Branch)</strong>
 </p>
 </li>
 </ol>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Rejuvenation leave - Entitlement extended to cover mental health/ family
 issues</p>
 <hr>
