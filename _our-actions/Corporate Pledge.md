@@ -636,26 +636,33 @@ within our organization.</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Organising foundational coaching workshops for 100 women from partner
-companies to equip them with effective coaching skills.</p>
+<p><strong>Empowering Women through Coaching:</strong> Organising foundational
+coaching workshops for 100 women from partner companies to equip them with
+effective coaching skills</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Establishing a professional coaching support group for SG Women in Tech
-(SGWIT) to foster collective growth and exchange insights.</p>
+<p><strong>Building Supportive Networks:</strong> Establishing a professional
+coaching support group for SG Women in Tech (SGWIT) to foster collective
+growth and exchange insights</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Launching community outreach initiatives aimed at addressing gender disparities
-and creating more inclusive environments.</p>
+<p><strong>Bridging the Gender Gaps:</strong> Launching community outreach
+initiatives aimed at addressing gender disparities and creating more inclusive
+environments</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Committed to helping individuals and communities thrive by creating spaces
-for learning, growth, and collective success.</p>
+<p><strong>Our Promise:</strong> Committed to helping individuals and communities
+thrive by creating spaces for learning, growth, and collective success</p>
+<p></p>
 </td>
 </tr>
 <tr>
