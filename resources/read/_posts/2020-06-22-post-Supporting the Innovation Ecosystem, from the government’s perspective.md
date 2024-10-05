@@ -22,5 +22,5 @@ lockdown period amid COVID-19. Jane shared about the government’s support
 for SMEs and the wider business community during the island-wide “circuit
 breaker” that was imposed to curb the virus’ spread.</p>
 <p>Check out Jane’s podcast and that of other featured guests on <a href="https://open.spotify.com/show/29oii015aYSKtveIDurWSv?si=7rm_RiqnQ4WuAn3EaCpNDA" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>,
-Overcast, <a href="https://www.stitcher.com/podcast/innotopia-podcast" rel="noopener noreferrer nofollow" target="_blank">Stitcher</a>{:target="_blank"},
-and <a href="https://www.paypal.com/sg/webapps/mpp/innovationlab/innotopia" rel="noopener noreferrer nofollow" target="_blank">PayPal-innovationlab.com/innotopia</a>{:target="_blank"}!</p>
+Overcast, <a href="https://www.stitcher.com/podcast/innotopia-podcast" rel="noopener noreferrer nofollow" target="_blank">Stitcher</a>,
+and <a href="https://www.paypal.com/sg/webapps/mpp/innovationlab/innotopia" rel="noopener noreferrer nofollow" target="_blank">PayPal-innovationlab.com/innotopia</a>!</p>
