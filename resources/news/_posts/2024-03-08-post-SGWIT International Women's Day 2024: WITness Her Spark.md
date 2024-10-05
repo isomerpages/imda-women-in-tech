@@ -17,8 +17,7 @@ variant: tiptap
 </p>
 <p><a href="https://www.8world.com/singapore/sg-women-in-tech-iwd-2395561" rel="noopener noreferrer nofollow" target="_blank">约70个机构签署企业宣言 承诺促进科技领域包容性和公平</a>
 </p>
-<p><a href="https://www.8world.com/videos/news-bulletin/20240308-news-tonight-2396076" rel="noopener noreferrer nofollow" target="_blank">《晚间新闻》3月8日</a>
-</p>
+<p>《晚间新闻》3月8日</p>
 <p><a href="https://www.8world.com/singapore/imda-2395781" rel="noopener noreferrer nofollow" target="_blank">杨莉明: 希望通过新刊物鼓励更多女性从事科技方面的工作</a>
 </p>
 <p><a href="https://berita.mediacorp.sg/singapura/kajian-baharu-imda-bcg-mahu-tonjolkan-wanita-dalam-bidang-teknologi-di-asia-tenggara-830616" rel="noopener noreferrer nofollow" target="_blank">Kajian baharu IMDA, BCG mahu tonjolkan wanita dalam bidang teknologi di Asia Tenggara</a>
