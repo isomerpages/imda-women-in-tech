@@ -23,7 +23,7 @@ lockdown period amid COVID-19. Jane shared about the government’s support
 for SMEs and the wider business community during the island-wide “circuit
 breaker” that was imposed to curb the virus’ spread.</p>
 <p>Check out Jane’s podcast and that of other featured guests on
-<br><strong><a href="https://open.spotify.com/show/29oii015aYSKtveIDurWSv?si=7rm_RiqnQ4WuAn3EaCpNDA&amp;nd=1&amp;dlsi=c07af0ed1f994491" rel="noopener noreferrer nofollow" target="_blank">Spotify</a></strong>, <strong><a href="https://podcasts.apple.com/sg/podcast/ep-1-singapore-the-innovation-hub-of-southeast-asia/id1515926490" rel="noopener noreferrer nofollow" target="_blank">iTunes</a></strong>,
+<br><strong><a href="https://open.spotify.com/show/29oii015aYSKtveIDurWSv?si=7rm_RiqnQ4WuAn3EaCpNDA&amp;nd=1&amp;dlsi=c07af0ed1f994491" rel="noopener noreferrer nofollow" target="_blank">Spotify</a></strong>,
 Overcast, <strong><a href="https://www.stitcher.com/podcast/innotopia-podcast" rel="noopener noreferrer nofollow" target="_blank">Stitcher</a></strong>,
 and <strong><a href="https://www.paypal.com/sg/webapps/mpp/innovationlab/innotopia" rel="noopener noreferrer nofollow" target="_blank">PayPal-innovationlab.com/innotopia</a></strong>.</p>
 <p></p>
