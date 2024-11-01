@@ -2,7 +2,6 @@ collections:
   relaunch:
     output: true
     order:
-      - Opportunities.md
       - About Relaunch/.keep
       - About Relaunch/About.md
       - About Relaunch/Our Partners.md
@@ -12,3 +11,4 @@ collections:
       - Resources and Courses/Tech Upskilling.md
       - Resources and Courses/Career Compass.md
       - Resources and Courses/Supporting Resources.md
+      - Opportunities.md
