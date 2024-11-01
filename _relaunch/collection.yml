@@ -2,7 +2,7 @@ collections:
   relaunch:
     output: true
     order:
-      - About Relaunch/Connect and Collaborate.md
       - About Relaunch/.keep
       - About Relaunch/About Relaunch.md
       - About Relaunch/Our Partners.md
+      - About Relaunch/Connect and Collaborate.md
