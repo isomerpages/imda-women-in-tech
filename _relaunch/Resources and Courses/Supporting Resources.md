@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Resources and Courses
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/WEBSITE_HEADERS_SUPPORTING_RESOURCESjpg.jpg">
+</div>
 <h3>Balance, not Juggle</h3>
 <p>Returning to work can be a juggling act, especially with your own personal
 responsibilities. Relaunch provides a network of support that goes beyond
@@ -45,7 +49,7 @@ with confidence.
 </div>
 </a>
 </div>
-<h4>Want to contribute? </h4>
+<h4>Want to contribute?</h4>
 <p>If you have relevant resources you'd like to share with other women embarking
 on their comeback journey, we'd love to hear from you! Get in touch with
 us through our <strong>Connect and Collaborate page</strong> and help us
