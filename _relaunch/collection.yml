@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About Relaunch/.keep
-      - About Relaunch/About Relaunch.md
+      - About Relaunch/About.md
       - About Relaunch/Our Partners.md
       - About Relaunch/Connect and Collaborate.md
