@@ -2,4 +2,5 @@ collections:
   relaunch:
     output: true
     order:
+      - About Relaunch/About Relaunch.md
       - About Relaunch/.keep
