@@ -2,6 +2,7 @@ collections:
   relaunch:
     output: true
     order:
+      - Resources and Courses/.keep
       - About Relaunch/.keep
       - About Relaunch/About.md
       - About Relaunch/Our Partners.md
