@@ -6,9 +6,8 @@ description: ""
 third_nav_title: About Relaunch
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Relaunch Logo" src="/images/relaunch_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/relaunch_banner.png">
 </div>
 <p>Announced on 18 Nov 2024 by the Minister for Digital Development and Information
 Mrs Josephine Teo, Relaunch is an SG Women in Tech initiative that is dedicated
@@ -27,9 +26,8 @@ inclusive, and fair environment for women. Together, we can build a vibrant
 ecosystem that inspires women to confidently relaunch their careers in
 technology.</p>
 <hr>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTUC Learning Hub Logo" src="/images/ntuclh_banner_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/ntuclh_banner_logo.png">
 </div>
 <p>NTUC Learning Hub is dedicated to enhancing workforce skills and employability
 through targeted training and development programs amongst working Singaporeans.
