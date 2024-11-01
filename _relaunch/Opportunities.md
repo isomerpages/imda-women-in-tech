@@ -4,6 +4,10 @@ permalink: /opportunities/
 variant: tiptap
 description: ""
 ---
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/RELAUNCH_HOME_JOBS_OP.gif">
+</div>
 <h3>Events and Opportunities</h3>
 <p>SGWIT and NTUC Learning Hub are building an ecosystem that supports and
 encourages women to re-enter the tech workforce. Our partners are eager
