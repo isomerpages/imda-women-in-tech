@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Resources and Courses
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/WEBSITE_HEADERS_SUPPORTING_RESOURCESjpg.jpg">
+</div>
 <h3>Navigating your re-entry to tech</h3>
 <p>The career integrated support provides guidance through resources to strengthen
 your professional profile and boost your competitiveness in the job market.
