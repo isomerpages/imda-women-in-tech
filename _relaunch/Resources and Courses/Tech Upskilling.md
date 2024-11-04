@@ -35,6 +35,6 @@ and upskill through tailored learning pathways, gain valuable mentorship,
 and confidently re-enter the IT workforce.</div>
 <div class="isomer-card-link">Sign Up Now</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.rakuten.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten Product and Project Management Workshop</div><div class="isomer-card-description">This 4 to 6-week workshop offers aspiring project and product managers foundational management principles and tools. Learn project lifecycle management, agile and waterfall methodologies, and gain hands-on experience with project management software.</div><div class="isomer-card-link">Coming Soon</div></div></a>
 </div>
 <p></p>
