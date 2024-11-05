@@ -30,10 +30,10 @@ environment.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Navigate Tech Opportunities and In-Demand Tech Roles </strong>
 </p>
-<p><strong>Date:</strong>
-<br><strong>Time:</strong>
+<p><strong>Date: </strong>19 November 2024
+<br>
 </p>
-<p>Register here</p>
+<p>Register</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Join us on 19th November 2024 for an insightful evening focused on exploring
@@ -64,9 +64,13 @@ transition into a tech career.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>foodpanda x RWIT Webinar Series</strong>
+<p><strong>Dell Technologies #IAmRemarkable Workshop</strong>
 </p>
-<p>Register here</p>
+<p><strong>Date: </strong>29 November 2024
+<br><strong>Time:</strong> 10am - 11.30am</p>
+<p></p>
+<p><a href="https://forms.office.com/r/DC7wHCxvZa%20%5bforms.office.com%5d" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>As an advocate for diversity and inclusion, Foodpanda is actively seeking
@@ -77,6 +81,92 @@ Tech workforce.
 <br>
 <br>Foodpanda will be hosting Webinar &amp; Workshop series throughout 2025.
 Do keep a lookout for exciting things coming next year with foodpanda!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Emerson Rediscovering Confidence Workshop</strong>
+</p>
+<p><strong>Date:</strong> 9 December 2024</p>
+<p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join Emerson in this workshop, designed to empower women in their career
+journeys. This transformative session focuses on rebuilding self-belief
+through engaging exercises and holistic self-reflection, equipping you
+with the tools to thrive professionally and accelerate your growth.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech </strong>
+</p>
+<p><strong>Date:</strong> 15 January 2025
+<br><strong>Time:</strong> 9.30am - 11.30am</p>
+<p><a href="https://forms.office.com/r/TvuLnXXyge" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ready to re-enter the tech workforce after a career break? Join PwC for
+an empowering, interactive webcast designed to boost your confidence and
+reignite your career. This event will cover the essential stages of finding
+a job, including CV writing, getting shortlisted, and interview skills,
+with a special focus on articulating the value of your career break. Learn
+how to craft a compelling narrative that highlights your experience, addresses
+career gaps, and showcases your transferable skills.
+<br>&nbsp;
+<br>Engage in a panel discussion and hear inspiring stories from women who
+have successfully navigated their return to tech. Leave feeling prepared
+and confident to conquer your next career milestone. Register now and take
+the first step towards your confident return to tech!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Emerson Open House</strong>
+</p>
+<p>Date: 12 February 2025</p>
+<p><a href="https://forms.office.com/r/ig6fJZ5NCL?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us for an empowering Open House designed for re-entry women eager
+to stay ahead in technology. Engage in a dynamic panel discussion, explore
+our company on an exclusive tour, and connect with like-minded professionals
+to expand your network. Take charge of your career and thrive!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Return to Tech: Navigating Your Comeback&nbsp;</strong>
+</p>
+<p><strong>Date: </strong>14 February 2025
+<br><strong>Time:</strong> 9.30am - 11.30am</p>
+<p>Register</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us for a panel discussion and networking event dedicated to women
+re-entering the tech workforce after a break. We’ll explore personal stories
+and strategies to tackle challenges such as addressing career gaps, building
+confidence, and managing work-life integration. Hear from inspiring leaders
+who’ve made a successful return to tech, and connect with peers and industry
+experts in breakout sessions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dell MentorConnect MasterClass-Positioning yourself for your Next Role</strong>
+</p>
+<p><strong>Date: </strong>May - August 2025</p>
+<p><a href="https://forms.office.com/r/f7vNxecRek" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This MasterClass aims to equip female participants with a deep understanding
+of navigating complex organizations and managing up, the ability to handle
+critical interviews, and skills to showcase performance as well as position
+yourself for your next role/promotion.</p>
 </td>
 </tr>
 </tbody>
