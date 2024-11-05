@@ -26,25 +26,25 @@ with confidence.
 <br>You’re not alone on this journey—let’s relaunch your career together!</p>
 <hr>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NTUC Health</div><div class="isomer-card-description">Flexible Care for Seniors</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">NTUC First Campus</div>
-<div class="isomer-card-description">Childcare Subsidies for Preschool Children</div>
-<div class="isomer-card-link">Learn More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Yayasan Mendaki</div><div class="isomer-card-description">Women At Work (W@W)</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.mendaki.org.sg/programmes/women-at-work/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Yayasan MENDAKI</div><div class="isomer-card-description">Women At Work (W@W)</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/jobs-transformation-map" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Infocomm Media Development Authority</div>
-<div class="isomer-card-description">Company-Led Training Programme</div>
+<div class="isomer-card-description">Jobs Transformation Map (JTM)</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Infocomm Media Development Authority</div><div class="isomer-card-description">Career Conversion Programmes (CCP)</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/en-US/skillsfuture-career-transition-programme" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NTUC LearningHub</div><div class="isomer-card-description">SkillsFuture Career Transition Programme (SCTP)</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/en-US/tech-talent-academy/career-switchers" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Infocomm Media Development Authority</div>
-<div class="isomer-card-description">Tech Immersion and Placement Programme (TIPP)</div>
+<div class="isomer-card-title">NTUC LearningHub</div>
+<div class="isomer-card-description">Tech Talent Academy (TTA)</div>
+<div class="isomer-card-link">Learn More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/en-US/e-shop" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">NTUC LearningHub e-Shop</div><div class="isomer-card-description">Purchasing IT certification exam vouchers</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/en-US/it-academy" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">NTUC LearningHub</div>
+<div class="isomer-card-description">IT Academy</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a>
