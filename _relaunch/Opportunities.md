@@ -83,52 +83,19 @@ Do keep a lookout for exciting things coming next year with foodpanda!</p>
 </table>
 <hr>
 <h4>Job Board</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Company</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Link to Job Board</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Digital and Intelligence Service</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Link</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>J.P.Morgan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Link</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Accenture</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Link</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kaspersky</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Link</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Digital and Intelligence Service</div><div class="isomer-card-link">Job Board</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.jpmorganchase.com/careers" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">J.P. Morgan</div>
+<div class="isomer-card-link">Job Board</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.accenture.com/sg-en/careers" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Accenture</div><div class="isomer-card-link">Job Board</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://careers.kaspersky.com/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kaspersky</div>
+<div class="isomer-card-link">Job Board</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://corporate.visa.com/en/jobs/?cities=Singapore" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visa</div><div class="isomer-card-link">Job Board</div></div></a>
+</div>
 <p></p>
