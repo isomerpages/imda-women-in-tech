@@ -30,6 +30,9 @@ environment.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Navigate Tech Opportunities and In-Demand Tech Roles </strong>
 </p>
+<p><strong>Date:</strong>
+<br><strong>Time:</strong>
+</p>
 <p>Register here</p>
 </td>
 <td rowspan="1" colspan="1">
