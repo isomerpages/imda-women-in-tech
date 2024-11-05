@@ -115,6 +115,16 @@ careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener no
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NTUC U Women and Family" src="/images/Relaunch/Partner logos/ntucwomen.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NTUC U Women and Family</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="pwc" src="/images/Relaunch/Partner logos/pwc.png">
 </div>
 </div>
@@ -133,6 +143,8 @@ careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener no
 <div class="isomer-card-link">Website</div>
 </div>
 </a>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -141,18 +153,6 @@ careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener no
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Tata Consultancy Services</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/ntucwomen.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">NTUC Women and Family</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://corporate.visa.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visa" src="/images/Relaunch/Partner logos/visa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visa</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.vlookup.ai/" class="isomer-card">
