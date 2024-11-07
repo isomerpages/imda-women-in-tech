@@ -126,7 +126,7 @@ the first step towards your confident return to tech!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Emerson Open House</strong>
 </p>
-<p>Date: 12 February 2025</p>
+<p><strong>Date:</strong> 12 February 2025</p>
 <p><a href="https://forms.office.com/r/ig6fJZ5NCL?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
@@ -185,7 +185,7 @@ meet our dynamic team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>[Visa Webinar Series] Back in the Game: Navigating your return to tech </strong>
+<p><strong>[Visa Webinar Series] Back in the Game: Navigating your return to tech</strong>
 </p>
 <p></p>
 <p>Coming Soon</p>
