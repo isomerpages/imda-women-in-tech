@@ -35,15 +35,6 @@ graduates and mid-career PMETs through on-the-job training to develop competenci
 for in-demand jobs, especially in sectors supporting digital economy transformation.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.ntucfirstcampus.com/child-support-model/subsidies/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Childcare Subsidies for Preschool Children by NTUC First Campus</div><div class="isomer-card-description">Ease your child’s preschool journey with the right financial help. Singapore Citizens, Permanent Residents and Foreigners who enroll in our preschool programme may be eligible to apply for government and other financial subsidies.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://ntuchealth.sg/elderly-care/services/flexible-care#enriched-programme" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Flexible Care for Seniors by NTUC Health</div>
-<div class="isomer-card-description">NTUC Health's flexible care arrangements allow for more in-centre and
-home-based options to support seniors who are new to caregiving services
-or who require help for just a few hours in the day.</div>
-<div class="isomer-card-link">Learn More</div>
-</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/en-US/it-academy" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">IT Academy by NTUC LearningHub</div><div class="isomer-card-description">The IT Academy offers industry-relevant courses and best-in-class training to maximize career value. It includes recognized certifications, expert-led short courses, and topics on emerging technologies, among others.</div><div class="isomer-card-link">Learn More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/en-US/e-shop" class="isomer-card">
 <div class="isomer-card-body">
