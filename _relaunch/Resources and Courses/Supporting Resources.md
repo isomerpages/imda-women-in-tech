@@ -78,6 +78,6 @@ into IT, empowering you to thrive in the ever-evolving tech landscape.</div>
 <h4>Want to contribute?</h4>
 <p>If you have relevant resources you'd like to share with other women embarking
 on their comeback journey, we'd love to hear from you! Get in touch with
-us through our <strong>Connect and Collaborate page</strong> and help us
-build a brighter future for women returning to tech.</p>
+us through our <a href="https://www.sgwomenintech.sg/relaunch/connect-and-collaborate/" rel="noopener nofollow" target="_blank">Connect and Collaborate page</a> and
+help us build a brighter future for women returning to tech.</p>
 <p></p>
