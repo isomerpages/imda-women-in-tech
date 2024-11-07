@@ -169,11 +169,77 @@ critical interviews, and skills to showcase performance as well as position
 yourself for your next role/promotion.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rakuten Office Tour for RWIT</strong>
+</p>
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curious about where the magic happens? Join us for an exclusive Rakuten
+office tour and explore our vibrant workspace! Whether you're a returning
+woman in tech or just interested in our unique environment, you'll get
+a warm welcome, insight into our collaborative spaces, and the chance to
+meet our dynamic team.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>[Visa Webinar Series] Back in the Game: Navigating your return to tech </strong>
+</p>
+<p></p>
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visa will be organising a series of quarterly webinars designed to help
+returning women navigating their return to tech. These sessions will cover
+a variety of topics, including effective LinkedIn job searches, resume
+writing techniques, and strategies for excelling in technical interviews
+and coding assessments. Additionally, we’ll delve into the latest trends
+shaping the tech landscape, providing valuable insights to help participants
+navigate their career paths.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Half the Sky: Return to Tech Series</strong>
+</p>
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Half the Sky is excited to host a series of webinars designed to empower
+women as they navigate their return to the tech industry. Each session
+will cover valuable topics relevant to all women, including those returning
+to work, such as effective job searching strategies, enhancing LinkedIn
+profiles, resume writing tips, interview preparation, and work-life balance
+techniques, along with essential insights into the latest technologies
+and tools. Participants will also gain insights into current trends and
+best practices in the tech landscape, equipping them with the knowledge
+and tools needed to confidently advance their careers. Join us in creating
+a supportive community that fosters growth and opportunity for women in
+tech!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>foodpanda x RWIT Webinar Series</strong>
+</p>
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>As an advocate for diversity and inclusion, foodpanda is actively seeking
+opportunities to give back to the Tech community through partnerships and
+engagements. The webinars will provide us a chance to work closely with
+talented women, and hopefully empower and inspire them to re-enter the
+Tech workforce.</p>
+<p>Foodpanda will be hosting Webinar &amp; Workshop series throughout 2025.
+Do keep a lookout for exciting things coming next year with foodpanda!</p>
+</td>
+</tr>
 </tbody>
 </table>
 <hr>
 <h4>Job Board</h4>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DIS" src="/images/Relaunch/Partner logos/dis.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital and Intelligence Service</div><div class="isomer-card-link">Job Board</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.jpmorganchase.com/careers" class="isomer-card">
 <div class="isomer-card-image">
