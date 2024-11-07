@@ -30,9 +30,9 @@ technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Relaunch/ntuclh_banner_logo.png">
 </div>
-<p>NTUC Learning Hub is dedicated to enhancing workforce skills and employability
+<p>NTUC LearningHub is dedicated to enhancing workforce skills and employability
 through targeted training and development programs amongst working Singaporeans.
-With a strong focus on lifelong learning, NTUC Learning Hub brings a wealth
+With a strong focus on lifelong learning, NTUC LearningHub brings a wealth
 of experience in upskilling individuals to the evolving job market. Their
 collaboration with Relaunch enables us to offer tailored courses and workshops
 that equip women with both technical and soft skills, empowering them to
