@@ -73,7 +73,7 @@ the tech industry. It provides the resources and training to help you transition
 into IT, empowering you to thrive in the ever-evolving tech landscape.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.mendaki.org.sg/programmes/women-at-work/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Women At Work (W@W) by Yayasan MENDAKI</div><div class="isomer-card-description">Women At Work (W@W) is a programme designed to support Malay/Muslim women who have been unemployed for over 6 months. It helps them restart, rebuild, and re-integrate into the workforce by addressing challenges such as skills gaps and changing job requirements.</div><div class="isomer-card-link">Learn More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.mendaki.org.sg/programmes/women-at-work/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Women At Work by Yayasan MENDAKI</div><div class="isomer-card-description">Women At Work (W@W) is a programme designed to support Malay/Muslim women who have been unemployed for over 6 months. It helps them restart, rebuild, and re-integrate into the workforce by addressing challenges such as skills gaps and changing job requirements.</div><div class="isomer-card-link">Learn More</div></div></a>
 </div>
 <h4>Want to contribute?</h4>
 <p>If you have relevant resources you'd like to share with other women embarking
