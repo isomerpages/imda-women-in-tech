@@ -100,7 +100,7 @@ with the tools to thrive professionally and accelerate your growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech </strong>
+<p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech</strong>
 </p>
 <p><strong>Date:</strong> 15 January 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
@@ -174,18 +174,28 @@ yourself for your next role/promotion.</p>
 <hr>
 <h4>Job Board</h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Digital and Intelligence Service</div><div class="isomer-card-link">Job Board</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DIS" src="/images/Relaunch/Partner logos/dis.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital and Intelligence Service</div><div class="isomer-card-link">Job Board</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.jpmorganchase.com/careers" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="J.P. Morgan" src="/images/Relaunch/Partner logos/jpmorgan.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">J.P. Morgan</div>
 <div class="isomer-card-link">Job Board</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.accenture.com/sg-en/careers" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Accenture</div><div class="isomer-card-link">Job Board</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.accenture.com/sg-en/careers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Accenture" src="/images/Relaunch/Partner logos/accenture.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accenture</div><div class="isomer-card-link">Job Board</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://careers.kaspersky.com/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kaspersky" src="/images/Relaunch/Partner logos/kaspersky.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kaspersky</div>
 <div class="isomer-card-link">Job Board</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://corporate.visa.com/en/jobs/?cities=Singapore" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visa</div><div class="isomer-card-link">Job Board</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://corporate.visa.com/en/jobs/?cities=Singapore" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visa" src="/images/Relaunch/Partner logos/visa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visa</div><div class="isomer-card-link">Job Board</div></div></a>
 </div>
 <p></p>
