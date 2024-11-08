@@ -37,21 +37,8 @@ networks, and refining job-readiness skills. It is offered to learners
 of the 10x1000 programme to provide a holistic back-to-work experience.</div>
 <div class="isomer-card-link">Refer to Tech Upskilling page for more information on the courses</div>
 </div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/foodpanda.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">foodpanda Relaunch Mentorship Programme</div>
-<div class="isomer-card-description">Foodpanda is launching a mentorship programme, where eligble mentees will
-be paired accordingly with our own experienced engineers, data analysts
-and many others. Stay tuned for more details coming soon!</div>
-</div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="foodpanda" src="/images/Relaunch/Partner logos/foodpanda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">foodpanda Relaunch Mentorship Programme</div><div class="isomer-card-description">Foodpanda is launching a mentorship programme, where eligble mentees will be paired accordingly with our own experienced engineers, data analysts and many others. Stay tuned for more details coming soon!</div><div class="isomer-card-link">Coming Soon</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/grab.png">
@@ -62,48 +49,22 @@ and many others. Stay tuned for more details coming soon!</div>
 <div class="isomer-card-description">At Grab, we share WIT's commitment to promoting gender diversity in tech.
 Through mentorship and guidance, we empower women to build the confidence
 and skills needed to excel and make a meaningful impact in the industry.</div>
+<div class="isomer-card-link">Coming Soon</div>
 </div>
-</div>
-<div class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Relaunch/Partner logos/linkedin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LinkedIn Premium Account</div><div class="isomer-card-description">LinkedIn's vision is to create economic opportunity for every member of the global workforce, and this includes supporting women returning to the tech industry. We are working with NTUC Learning Hub to give 100 LinkedIn Premium Accounts to returning women into tech.&nbsp;</div><div class="isomer-card-link">Coming Soon</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://forms.office.com/r/bYBryjKfcM" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="J.P. Morgan" src="/images/Relaunch/Partner logos/jpmorgan.png">
+<img style="width: 100%" height="auto" width="100%" alt="PwC" src="/images/Relaunch/Partner logos/pwc.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">J.P. Morgan Chase Women in Tech</div>
-<div class="isomer-card-description">Join our “Women in Tech” Workshop at the JPMorgan Chase Technology Center!
-Experience an exclusive interview skills session, enjoy a tour of our Technology
-department, and seize networking opportunities.</div>
+<div class="isomer-card-title">PwC Mentorship</div>
+<div class="isomer-card-description">At PwC, we believe diverse perspectives drive meaningful change. Our mentorship
+programme connects returning women in tech with experienced professionals,
+fostering an inclusive environment where they can thrive.</div>
+<div class="isomer-card-link">Register</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Relaunch/Partner logos/linkedin.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">LinkedIn Premium Account</div>
-<div class="isomer-card-description">LinkedIn's vision is to create economic opportunity for every member of
-the global workforce, and this includes supporting women returning to the
-tech industry. We are working with NTUC Learning Hub to give 100 LinkedIn
-Premium Accounts to returning women into tech.&nbsp;</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://forms.office.com/r/bYBryjKfcM" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PwC" src="/images/Relaunch/Partner logos/pwc.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PwC Mentorship</div><div class="isomer-card-description">At PwC, we believe diverse perspectives drive meaningful change. Our mentorship programme connects returning women in tech with experienced professionals, fostering an inclusive environment where they can thrive.</div><div class="isomer-card-link">Register</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/vLookUp.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Vlookup-Singapore Computer Society Mentoring Programme</div>
-<div class="isomer-card-description">This mentoring programme is designed to connect you with experienced mentors
-in the tech field, providing you with guidance and support as you navigate
-your return to work. Over the course of a year, you’ll have the opportunity
-to engage with a mentor who aligns with your career goals.</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/vLookUp.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vlookup-Singapore Computer Society Mentoring Programme</div><div class="isomer-card-description">This mentoring programme is designed to connect you with experienced mentors in the tech field, providing you with guidance and support as you navigate your return to work. Over the course of a year, you’ll have the opportunity to engage with a mentor who aligns with your career goals.</div><div class="isomer-card-link">Registration Closed</div></div></a>
 </div>
 <p></p>
