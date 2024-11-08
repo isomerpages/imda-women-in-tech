@@ -16,8 +16,8 @@ in their technical careers. available to women re-entering the tech workforce.</
 careers and inspire future generations in technology.</p>
 <hr>
 <h3>Our Partners</h3>
-<p>Play a meaningful part in supporting women to succeed and thrive in tech
-careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener nofollow" target="_blank">join us as a partner</a>.</p>
+<p>Play a meaningful part in supporting returning women to succeed and thrive
+in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener nofollow" target="_blank">join us as a partner</a>.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.10x1000.org" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10X1000" src="/images/Relaunch/Partner logos/10x1000.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">10X1000</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="www.accenture.com" class="isomer-card">
 <div class="isomer-card-image">
@@ -48,7 +48,7 @@ careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener no
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Digital and Intelligence Service</div>
+<div class="isomer-card-title">The Digital Intelligence Service</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -71,17 +71,7 @@ careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener no
 <div class="isomer-card-title">Grab</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.jpmorganchase.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="J.P. Morgan" src="/images/Relaunch/Partner logos/jpmorgan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">J.P. Morgan</div><div class="isomer-card-link">Website</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jobstreet" src="/images/Relaunch/Partner logos/jobstreet.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Jobstreet</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.jpmorganchase.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JPMorganChase" src="/images/Relaunch/Partner logos/jpmorgan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">J.P. Morgan</div><div class="isomer-card-link">Website</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -129,7 +119,7 @@ careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener no
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">PwC</div>
+<div class="isomer-card-title">PwC Singapore</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://global.rakuten.com/corp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources." class="isomer-card">
