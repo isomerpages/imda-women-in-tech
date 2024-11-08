@@ -51,20 +51,36 @@ Through mentorship and guidance, we empower women to build the confidence
 and skills needed to excel and make a meaningful impact in the industry.</div>
 <div class="isomer-card-link">Coming Soon</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Relaunch/Partner logos/linkedin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LinkedIn Premium Account</div><div class="isomer-card-description">LinkedIn's vision is to create economic opportunity for every member of the global workforce, and this includes supporting women returning to the tech industry. We are working with NTUC Learning Hub to give 100 LinkedIn Premium Accounts to returning women into tech.&nbsp;</div><div class="isomer-card-link">Coming Soon</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://forms.office.com/r/bYBryjKfcM" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="mailto:globalsafeboard@kaspersky.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Kaspersky" src="/images/Relaunch/Partner logos/kaspersky.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Kaspersky: Safeboard Global</div><div class="isomer-card-description">Safeboard Global: a cybersecurity internship programme for students, recent graduates, and returnees to the workforce. Applicants can indicate their interest in: general and channel sales, presales, marketing and digital marketing, IT, tech support, corporate communications and sales operations. </div><div class="isomer-card-link">Email your CV to globalsafeboard@kaspersky.com</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PwC" src="/images/Relaunch/Partner logos/pwc.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Relaunch/Partner logos/linkedin.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">PwC Mentorship</div>
-<div class="isomer-card-description">At PwC, we believe diverse perspectives drive meaningful change. Our mentorship
-programme connects returning women in tech with experienced professionals,
-fostering an inclusive environment where they can thrive.</div>
-<div class="isomer-card-link">Register</div>
+<div class="isomer-card-title">LinkedIn Premium Account</div>
+<div class="isomer-card-description">LinkedIn's vision is to create economic opportunity for every member of
+the global workforce, and this includes supporting women returning to the
+tech industry. We are working with NTUC Learning Hub to give 100 LinkedIn
+Premium Accounts to returning women into tech.&nbsp;</div>
+<div class="isomer-card-link">Coming Soon</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/scsxvlookup.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Vlookup-Singapore Computer Society Mentoring Programme</div><div class="isomer-card-description">This mentoring programme is designed to connect you with experienced mentors in the tech field, providing you with guidance and support as you navigate your return to work. Over the course of a year, you’ll have the opportunity to engage with a mentor who aligns with your career goals.</div><div class="isomer-card-link">Registration Closed</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://forms.office.com/r/bYBryjKfcM" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="PwC" src="/images/Relaunch/Partner logos/pwc.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PwC Mentorship</div><div class="isomer-card-description">At PwC, we believe diverse perspectives drive meaningful change. Our mentorship programme connects returning women in tech with experienced professionals, fostering an inclusive environment where they can thrive.</div><div class="isomer-card-link">Register</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/scsxvlookup.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Vlookup-Singapore Computer Society Mentoring Programme</div>
+<div class="isomer-card-description">This mentoring programme is designed to connect you with experienced mentors
+in the tech field, providing you with guidance and support as you navigate
+your return to work. Over the course of a year, you’ll have the opportunity
+to engage with a mentor who aligns with your career goals.</div>
+<div class="isomer-card-link">Registration Closed</div>
+</div>
+</a>
 </div>
 <p></p>
