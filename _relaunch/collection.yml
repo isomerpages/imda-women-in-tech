@@ -2,9 +2,6 @@ collections:
   relaunch:
     output: true
     order:
-      - Opportunities/Job Board.md
-      - Opportunities/Upcoming Events.md
-      - Opportunities/.keep
       - About Relaunch/.keep
       - About Relaunch/About.md
       - About Relaunch/Our Partners.md
@@ -14,3 +11,6 @@ collections:
       - Resources and Courses/Tech Upskilling.md
       - Resources and Courses/Career Consultation.md
       - Resources and Courses/Supporting Resources.md
+      - Opportunities/.keep
+      - Opportunities/Job Board.md
+      - Opportunities/Upcoming Events.md
