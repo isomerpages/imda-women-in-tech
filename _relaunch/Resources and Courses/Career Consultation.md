@@ -35,7 +35,7 @@ informed career decisions.</p>
 women with personalized guidance, boosting self-confidence, building professional
 networks, and refining job-readiness skills. It is offered to learners
 of the 10x1000 programme to provide a holistic back-to-work experience.</div>
-<div class="isomer-card-link">Refer to Tech Upskilling page for more information on the courses</div>
+<div class="isomer-card-link">Refer to Tech Upskilling page</div> for more information on the courses
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="foodpanda" src="/images/Relaunch/Partner logos/foodpanda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">foodpanda Relaunch Mentorship Programme</div><div class="isomer-card-description">Foodpanda is launching a mentorship programme, where eligble mentees will be paired accordingly with our own experienced engineers, data analysts and many others. Stay tuned for more details coming soon! <br><br><b>Coming soon</b></div></div></a>
 <a rel="noopener noreferrer nofollow" href="/" class="isomer-card">
