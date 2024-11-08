@@ -91,7 +91,7 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-body">
 <div class="isomer-card-title">Linkedin</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.mendaki.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yayasan MENDAKI" src="/images/Relaunch/Partner logos/yayasan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yayasan MENDAKI</div><div class="isomer-card-link">Website</div></div></a>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -122,19 +122,8 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-title">PwC Singapore</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://global.rakuten.com/corp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources." class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore computer Society" src="/images/Relaunch/Partner logos/scs.png">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Singapore Computer Society</div>
-<div class="isomer-card-link">Website</div>
-</div>
-</a>
-</div>
-<div class="isomer-card-grid">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCS" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Computer Society</div><div class="isomer-card-link">Website</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -165,6 +154,6 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-body">
 <div class="isomer-card-title">Workforce Singapore</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.mendaki.org.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Yayasan MENDAKI" src="/images/Relaunch/Partner logos/yayasan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Yayasan MENDAKI</div><div class="isomer-card-link">Website</div></div></a>
 </div>
 <p></p>
