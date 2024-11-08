@@ -33,7 +33,8 @@ technology.</p>
 <p>NTUC LearningHub is dedicated to enhancing workforce skills and employability
 through targeted training and development programs amongst working Singaporeans.
 With a strong focus on lifelong learning, NTUC LearningHub brings a wealth
-of experience in upskilling individuals to the evolving job market. Their
-collaboration with Relaunch enables us to offer tailored courses and workshops
-that equip women with both technical and soft skills, empowering them to
-excel in their careers.</p>
+of experience in upskilling individuals to the evolving job market. The
+collaboration between NTUC LearningHub and SGWIT on Relaunch enables us
+to offer courses and workshops that equip women returning back to work
+with both technical and soft skills, thereby empowering them to excel in
+their careers.</p>
