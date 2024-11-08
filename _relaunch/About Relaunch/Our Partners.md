@@ -58,7 +58,7 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-body">
 <div class="isomer-card-title">Emerson</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.foodpanda.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="foodpanda" src="/images/Relaunch/Partner logos/foodpanda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">foodpanda</div><div class="isomer-card-link">Website</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.foodpanda.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="foodpanda" src="/images/Relaunch/Partner logos/foodpanda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">foodpanda</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.grab.com/sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -67,9 +67,8 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Grab</div>
-<div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.jpmorganchase.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JPMorganChase" src="/images/Relaunch/Partner logos/jpmorgan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">J.P. Morgan</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.jpmorganchase.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="JPMorganChase" src="/images/Relaunch/Partner logos/jpmorgan.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">J.P. Morgan</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -79,7 +78,7 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kaspersky</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://about.linkedin.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="linkedin" src="/images/Relaunch/Partner logos/linkedin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Linkedin</div><div class="isomer-card-link">Website</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://about.linkedin.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="linkedin" src="/images/Relaunch/Partner logos/linkedin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Linkedin</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -89,7 +88,7 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-body">
 <div class="isomer-card-title">NTUC Learning Hub</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://safe.menlosecurity.com/https://www.ntuc.org.sg/uwomenandf amily/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NTUC U Women and Family" src="/images/Relaunch/Partner logos/ntucwomen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NTUC U Women and Family</div><div class="isomer-card-link">Website</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://safe.menlosecurity.com/https://www.ntuc.org.sg/uwomenandf amily/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NTUC U Women and Family" src="/images/Relaunch/Partner logos/ntucwomen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NTUC U Women and Family</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.pwc.com/sg/en.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -98,11 +97,11 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">PwC Singapore</div>
-<div class="isomer-card-link">Website</div>
+
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://global.rakuten.com/corp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://global.rakuten.com/corp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCS" src="/images/Relaunch/Partner logos/scs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Computer Society</div><div class="isomer-card-link">Website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCS" src="/images/Relaunch/Partner logos/scs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Computer Society</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tcs.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -111,9 +110,8 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Tata Consultancy Services</div>
-<div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://corporate.visa.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visa" src="/images/Relaunch/Partner logos/visa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visa</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://corporate.visa.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visa" src="/images/Relaunch/Partner logos/visa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visa</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.vlookup.ai/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -122,9 +120,8 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">vLookUp.ai</div>
-<div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.wsg.gov.sg/home/campaigns/hercareer" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workforce Singapore" src="/images/Relaunch/Partner logos/wsg2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workforce Singapore</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.wsg.gov.sg/home/campaigns/hercareer" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workforce Singapore" src="/images/Relaunch/Partner logos/wsg2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workforce Singapore</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.mendaki.org.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -133,7 +130,6 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Yayasan MENDAKI</div>
-<div class="isomer-card-link">Website</div>
 </div>
 </a>
 </div>
