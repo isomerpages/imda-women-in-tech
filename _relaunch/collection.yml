@@ -2,6 +2,7 @@ collections:
   relaunch:
     output: true
     order:
+      - Opportunities/Opportunities.md
       - Opportunities/.keep
       - About Relaunch/.keep
       - About Relaunch/About.md
