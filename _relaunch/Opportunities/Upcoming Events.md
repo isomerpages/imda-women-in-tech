@@ -233,6 +233,19 @@ Tech workforce.</p>
 Do keep a lookout for exciting things coming next year with foodpanda!</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>JPMorganChase: Returning Women in Tech Workshop</strong>
+</p>
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us at the JPMorganChase Technology Center for an interview skills
+session, an office tour and networking with industry professionals. Plus,
+get access to a 5-hour e-learning Software Engineering course and earn
+a certificate to boost your resume and confidence as you re-enter the workforce!</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
