@@ -2,6 +2,7 @@ collections:
   relaunch:
     output: true
     order:
+      - Opportunities/Job Board.md
       - Opportunities/Upcoming Events.md
       - Opportunities/.keep
       - About Relaunch/.keep
