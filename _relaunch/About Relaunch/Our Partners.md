@@ -18,7 +18,7 @@ careers and inspire future generations in technology.</p>
 <h3>Our Partners</h3>
 <p>Play a meaningful part in supporting returning women to succeed and thrive
 in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noopener nofollow" target="_blank">join us as a partner</a>.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://www.10x1000.org" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10X1000" src="/images/Relaunch/Partner logos/10x1000.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">10X1000</div><div class="isomer-card-link">Website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://www.10x1000.org" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="10X1000" src="/images/Relaunch/Partner logos/10x1000.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">10X1000</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://www.accenture.com" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -27,9 +27,8 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Accenture</div>
-<div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.antglobal.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ant International" src="/images/Relaunch/Partner logos/antinternational.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ant International</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.antglobal.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ant International" src="/images/Relaunch/Partner logos/antinternational.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ant International</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://www.delltechnologies.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -38,7 +37,6 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dell</div>
-<div class="isomer-card-link">Website</div>
 </div>
 </a>
 <div class="isomer-card">
