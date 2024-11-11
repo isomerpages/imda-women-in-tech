@@ -11,7 +11,7 @@ for women looking to re-enter the tech workforce after a break.</p>
 <p>From building tech and soft skills capabilities to providing professional
 networking opportunities and career integration support, our partners offer
 a wide range of resources and opportunities for women to succeed and thrive
-in their technical careers. available to women re-entering the tech workforce.</p>
+in their technical careers.</p>
 <p>Together, we collaborate to create pathways for women to thrive in their
 careers and inspire future generations in technology.</p>
 <hr>
@@ -97,7 +97,6 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">PwC Singapore</div>
-
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://global.rakuten.com/corp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten</div></div></a>
 </div>
