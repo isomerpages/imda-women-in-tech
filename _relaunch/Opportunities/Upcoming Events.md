@@ -24,8 +24,8 @@ curated and designed for you.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" style="width:25%" colspan="1">
-<p><strong>Navigate Tech Opportunities and In-Demand Tech Roles </strong>
+<td rowspan="1" style="width:28%" colspan="1">
+<p><strong>Navigate Tech Opportunities and In-Demand Tech Roles</strong>
 </p>
 <p><strong>Date: </strong>19 November 2024
 <br>
