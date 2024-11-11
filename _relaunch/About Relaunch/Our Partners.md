@@ -81,16 +81,7 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-title">Kaspersky</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://about.linkedin.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="linkedin" src="/images/Relaunch/Partner logos/linkedin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Linkedin</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NTUC Learning Hub" src="/images/Relaunch/Partner logos/ntuclh.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">NTUC Learning Hub</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://safe.menlosecurity.com/https://www.ntuc.org.sg/uwomenandf amily/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NTUC U Women and Family" src="/images/Relaunch/Partner logos/ntucwomen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NTUC U Women and Family</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://safe.menlosecurity.com/https://www.ntuc.org.sg/uwomenandf amily/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NTUC U Women and Family" src="/images/Relaunch/Partner logos/ntucwomen.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NTUC U Women and Family</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.pwc.com/sg/en.html" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -101,8 +92,9 @@ in tech careers, <a href="https://form.gov.sg/67177450a237e7e34b4bacaf" rel="noo
 <div class="isomer-card-title">PwC Singapore</div>
 </div>
 </a>
+	<a rel="noopener noreferrer nofollow" href="https://global.rakuten.com/corp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://global.rakuten.com/corp/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rakuten</div></div></a><a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCS" src="/images/Relaunch/Partner logos/scs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Computer Society</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCS" src="/images/Relaunch/Partner logos/scs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Computer Society</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tcs.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
