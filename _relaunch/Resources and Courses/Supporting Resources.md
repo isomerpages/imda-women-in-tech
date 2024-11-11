@@ -24,7 +24,6 @@ professional responsibilities.
 <br>Explore these resources and navigate your return to the tech industry
 with confidence. You’re not alone on this journey—let’s relaunch your career
 together!</p>
-<hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/career-conversion-programmes" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Career Conversion Programmes by IMDA</div><div class="isomer-card-description">Career Conversion Programmes support PMETs, including mid-career switchers, in gaining new skills to transition into high-growth sectors like tech, media, and digital. With targeted IT training, the programmes enhance career prospects in Singapore’s digital economy.</div><div class="isomer-card-link">Learn More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/company-led-training-programme-clt" class="isomer-card">
 <div class="isomer-card-body">
