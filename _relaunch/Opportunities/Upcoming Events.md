@@ -25,7 +25,7 @@ curated and designed for you.</p>
 <tbody>
 <tr>
 <td rowspan="1" style="width:28%" colspan="1">
-<p><strong>Navigate Tech Opportunities and In-Demand Tech Roles</strong>
+	<p><strong><font color="#9E3C50">Navigate Tech Opportunities and In-Demand Tech Roles</font></strong>
 </p>
 <p><strong>Date: </strong>19 November 2024
 <br>
@@ -61,7 +61,7 @@ transition into a tech career.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dell Technologies #IAmRemarkable Workshop</strong>
+	<p><strong><font color="#9E3C50">Dell Technologies #IAmRemarkable Workshop</font></strong>
 </p>
 <p><strong>Date: </strong>29 November 2024
 <br><strong>Time:</strong> 10am - 11.30am</p>
@@ -82,7 +82,7 @@ Do keep a lookout for exciting things coming next year with foodpanda!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson Rediscovering Confidence Workshop</strong>
+	<p><strong><font color="#9E3C50">Emerson Rediscovering Confidence Workshop</font></strong>
 </p>
 <p><strong>Date:</strong> 9 December 2024</p>
 <p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
@@ -97,7 +97,7 @@ with the tools to thrive professionally and accelerate your growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech</strong>
+<p><strong><font color="#9E3C50">Nailing Your Confident Comeback: Navigating Your Return to Tech</font></strong>
 </p>
 <p><strong>Date:</strong> 15 January 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
@@ -121,7 +121,7 @@ the first step towards your confident return to tech!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson Open House</strong>
+	<p><strong><font color="#9E3C50">Emerson Open House</font></strong>
 </p>
 <p><strong>Date:</strong> 12 February 2025</p>
 <p><a href="https://forms.office.com/r/ig6fJZ5NCL?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
@@ -136,7 +136,7 @@ to expand your network. Take charge of your career and thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Return to Tech: Navigating Your Comeback&nbsp;</strong>
+	<p><strong><font color="#9E3C50">Return to Tech: Navigating Your Comeback</font></strong>
 </p>
 <p><strong>Date: </strong>14 February 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
@@ -153,7 +153,7 @@ experts in breakout sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dell MentorConnect MasterClass-Positioning yourself for your Next Role</strong>
+<p><strong><font color="#9E3C50">Dell MentorConnect MasterClass-Positioning yourself for your Next Role</font></strong>
 </p>
 <p><strong>Date: </strong>May - August 2025</p>
 <p><a href="https://forms.office.com/r/f7vNxecRek" rel="noopener nofollow" target="_blank">Register</a>
@@ -168,7 +168,7 @@ yourself for your next role/promotion.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Rakuten Office Tour for RWIT</strong>
+	<p><strong><font color="#9E3C50">Rakuten Office Tour for RWIT</font></strong>
 </p>
 <p>Coming Soon</p>
 </td>
@@ -182,7 +182,7 @@ meet our dynamic team.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>[Visa Webinar Series] Back in the Game: Navigating your return to tech</strong>
+<p><strong><font color="#9E3C50">[Visa Webinar Series] Back in the Game: Navigating your return to tech</font></strong>
 </p>
 <p></p>
 <p>Coming Soon</p>
@@ -199,7 +199,7 @@ navigate their career paths.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Half the Sky: Return to Tech Series</strong>
+	<p><strong><font color="#9E3C50">Half the Sky: Return to Tech Series</font></strong>
 </p>
 <p>Coming Soon</p>
 </td>
@@ -219,7 +219,7 @@ tech!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>foodpanda x RWIT Webinar Series</strong>
+	<p><strong><font color="#9E3C50">foodpanda x RWIT Webinar Series</font></strong>
 </p>
 <p>Coming Soon</p>
 </td>
@@ -235,7 +235,7 @@ Do keep a lookout for exciting things coming next year with foodpanda!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>JPMorganChase: Returning Women in Tech Workshop</strong>
+	<p><strong><font color="#9E3C50">JPMorganChase: Returning Women in Tech Workshop</font></strong>
 </p>
 <p>Coming Soon</p>
 </td>
