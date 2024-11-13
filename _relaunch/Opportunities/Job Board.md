@@ -28,7 +28,8 @@ has dedicated resources to ease your transition back to the work environment.</p
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kaspersky</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital and Intelligence Service" src="/images/Relaunch/Partner logos/dis.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Digital and Intelligence Service</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tcs.com/careers/singapore/tcs-rebegin-program-for-women-in-singapore" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tata Consultancy Services" src="/images/Relaunch/Partner logos/tata.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tata Consultancy Services</div></div></a>
+	<a rel="noopener noreferrer nofollow" href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital and Intelligence Service" src="/images/Relaunch/Partner logos/dis.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Digital and Intelligence Service</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://corporate.visa.com/en/jobs/?cities=Singapore" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
