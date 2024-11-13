@@ -16,7 +16,6 @@ to hire diverse talent and are committed to helping you transition smoothly
 back to work. We welcome you to join us for events that have been specially
 curated and designed for you.</p>
 <hr>
-<h4>Upcoming Events</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
