@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Opportunities
 ---
-<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/RELAUNCH_HOME_JOBS_OP.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Relaunch" src="/images/Relaunch/RELAUNCH_HOME_JOBS_OP2.gif">
 </div>
-<h3></h3>
 <p>SGWIT and NTUC Learning Hub are building an ecosystem that supports and
 encourages women to re-enter the tech workforce. Our partners are eager
 to hire diverse talent and are committed to helping you transition smoothly
