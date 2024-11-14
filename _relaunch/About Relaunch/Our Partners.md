@@ -5,7 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: About Relaunch
 ---
-![Partners](/images/Relaunch/Our_partners.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/Our_partners.png">
+</div>
+
 <p>The power of collaboration unlocks limitless possibilities for women.
 Our partners are instrumental in creating a supportive and inclusive ecosystem
 for women looking to re-enter the tech workforce after a break.</p>
