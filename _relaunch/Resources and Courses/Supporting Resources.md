@@ -7,7 +7,7 @@ third_nav_title: Resources and Courses
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/WEBSITE_HEADERS_SUPPORTING_RESOURCESjpg.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Relaunch" src="/images/Relaunch/WEBSITE_HEADERS_SUPPORTING_RESOURCES2.png">
 </div>
 <h3>Balance, not Juggle</h3>
 <p>Returning to work can be a juggling act, especially with your own personal
