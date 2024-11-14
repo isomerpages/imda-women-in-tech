@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Resources and Courses
 ---
-<h3></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/RELAUNCH_HOME_NEED_HELP.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Relaunch" src="/images/Relaunch/RELAUNCH_HOME_NEED_HELP2.gif">
 </div>
 <h3>Your Comeback Toolkit</h3>
 <p>The Relaunch programme is dedicated to empowering women as they re-enter
