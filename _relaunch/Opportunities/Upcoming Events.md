@@ -9,11 +9,11 @@ third_nav_title: Opportunities
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Relaunch" src="/images/Relaunch/RELAUNCH_HOME_JOBS_OP2.gif">
 </div>
-<p>SGWIT and NTUC Learning Hub are building an ecosystem that supports and
-encourages women to re-enter the tech workforce. Our partners are eager
-to hire diverse talent and are committed to helping you transition smoothly
-back to work. We welcome you to join us for events that have been specially
-curated and designed for you.</p>
+<p>We are building an ecosystem that supports and encourages women to re-enter
+the tech workforce. Our partners are eager to hire diverse talent and are
+committed to helping you transition smoothly back to work. We welcome you
+to join us for events that have been specially curated and designed for
+you.</p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
