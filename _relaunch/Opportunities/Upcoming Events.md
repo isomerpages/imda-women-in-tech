@@ -138,7 +138,7 @@ to expand your network. Take charge of your career and thrive!</p>
 </p>
 <p><strong>Date: </strong>14 February 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
-<p>Register</p>
+<p>Coming Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Join us for a panel discussion and networking event dedicated to women
