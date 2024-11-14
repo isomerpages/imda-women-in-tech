@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: About Relaunch
 ---
-![Partners](/images/Relaunch/Our_partners.png)<p>The power of collaboration unlocks limitless possibilities for women.
+![Partners](/images/Relaunch/Our_partners.png)
+<p>The power of collaboration unlocks limitless possibilities for women.
 Our partners are instrumental in creating a supportive and inclusive ecosystem
 for women looking to re-enter the tech workforce after a break.</p>
 <p>From building tech and soft skills capabilities to providing professional
