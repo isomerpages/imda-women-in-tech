@@ -5,7 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Opportunities
 ---
-![Job Board](/images/Relaunch/Job_board.png)<h3>Seize your next opportunity</h3>
+![Job Board](/images/Relaunch/Job_board.png)
+<h3>Seize your next opportunity</h3>
 <p>You can find job opportunities from our Relaunch partners here. Each company
 has dedicated resources to ease your transition back to the work environment.</p>
 <p></p>
