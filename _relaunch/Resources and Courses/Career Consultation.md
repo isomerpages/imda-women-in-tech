@@ -23,7 +23,7 @@ informed career decisions.</p>
 <h4>Sign up for our available courses</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://forms.office.com/pages/responsepage.aspx?id=OT154DkJbUmxKRmO3ZFv6yi632bvi25LsYek59-DJ-xUNjFLVko5QVA4N0NJUk44Uk5MWkpONTNKOC4u&amp;route=shorturl" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Relaunch/Partner logos/accenture.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accenture: Women of Worth Programme</div><div class="isomer-card-description">Reignite your career! Join Accenture's Women of Worth programme to reskill and upskill through tailored learning pathways, gain valuable mentorship, and confidently re-enter the IT workforce.</div><div class="isomer-card-link">Register</div></div></a>
-<a rel="noopener noreferrer nofollow" href="link" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/connect-and-collaborate" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/Relaunch/Partner logos/antinternational.png">
