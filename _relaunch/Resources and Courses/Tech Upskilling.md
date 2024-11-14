@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Resources and Courses
 ---
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/WEBSITE_HEADERS_LEVE_UP2.png">
 </div>
