@@ -95,4 +95,5 @@ courses and workshops to score a foot in the door for your next job.</p>
 			to engage with a mentor who aligns with your career goals.<br><br>
 									<b>Registration Closed</b></div>
 </div></a>
+	
 </div>
