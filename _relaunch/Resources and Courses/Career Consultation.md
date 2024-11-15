@@ -10,7 +10,7 @@ third_nav_title: Resources and Courses
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/WEBSITE_HEADERS_job_op_event2.png">
 </div>
 <h3>Navigating your re-entry to tech</h3>
-<p>The career integrated support provides guidance through resources to strengthen
+<p>This career integrated support provides guidance through resources to strengthen
 your professional profile and boost your competitiveness in the job market.
 Access resources including personalised resume upgrades and interview preparation
 courses and workshops to score a foot in the door for your next job.</p>
