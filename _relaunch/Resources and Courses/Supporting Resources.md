@@ -25,12 +25,22 @@ professional responsibilities.
 with confidence. You’re not alone on this journey—let’s relaunch your career
 together!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/career-conversion-programmes" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Career Conversion Programmes by IMDA</div><div class="isomer-card-description">Career Conversion Programmes support PMETs, including mid-career switchers, in gaining new skills to transition into high-growth sectors like tech, media, and digital. With targeted IT training, the programmes enhance career prospects in Singapore’s digital economy.</div><div class="isomer-card-link">Learn More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/company-led-training-programme-clt" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.ntucfirstcampus.com/child-support-model/subsidies/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Company-Led Training Programme by IMDA</div>
-<div class="isomer-card-description">The Company-Led Training (CLT) programme accelerates career growth for
-graduates and mid-career PMETs through on-the-job training to develop competencies
-for in-demand jobs, especially in sectors supporting digital economy transformation.</div>
+<div class="isomer-card-title">Childcare Subsidies for Preschool Children by NTUC First Campus</div>
+<div class="isomer-card-description">Make your child’s preschool journey smoother with the right financial
+support. Singapore Citizens, Permanent Residents, and Foreigners enrolled
+in NTUC First Campus' preschool program may qualify for government and
+additional financial subsidies.</div>
+<div class="isomer-card-link">Learn More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa/company-led-training-programme-clt" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Company-Led Training Programme by IMDA</div><div class="isomer-card-description">The Company-Led Training (CLT) programme accelerates career growth for graduates and mid-career PMETs through on-the-job training to develop competencies for in-demand jobs, especially in sectors supporting digital economy transformation.</div><div class="isomer-card-link">Learn More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://ntuchealth.sg/elderly-care/services/flexible-care#enriched-programme" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flexible Care for Seniors by NTUC Health</div>
+<div class="isomer-card-description">Flexible care arrangements provide additional in-centre and home-based
+options to support seniors who are new to caregiving services or require
+short-term assistance, offering working caregivers more convenient solutions.</div>
 <div class="isomer-card-link">Learn More</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.ntuclearninghub.com/en-US/it-academy" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">IT Academy by NTUC LearningHub</div><div class="isomer-card-description">The IT Academy offers industry-relevant courses and best-in-class training to maximize career value. It includes recognized certifications, expert-led short courses, and topics on emerging technologies, among others.</div><div class="isomer-card-link">Learn More</div></div></a>
