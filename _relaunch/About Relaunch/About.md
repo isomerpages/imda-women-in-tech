@@ -12,7 +12,7 @@ third_nav_title: About Relaunch
 <p>Announced on 18 Nov 2024 by the Minister for Digital Development and Information
 Mrs Josephine Teo, Relaunch is an SG Women in Tech initiative that is dedicated
 to supporting women who are re-entering the tech workforce in Singapore.</p>
-<p>Together with NTUC Learning Hub as the anchor partner, the programme encourages
+<p>Together with NTUC LearningHub as the anchor partner, the programme encourages
 women to embark on the next journey in their career and helps them navigate
 the steps to be re-employed. The programme gathers organisations in Singapore’s
 tech ecosystem to support women by bridging their technology skills gap,
@@ -30,11 +30,14 @@ technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Relaunch/ntuclh_banner_logo.png">
 </div>
-<p>NTUC LearningHub is dedicated to enhancing workforce skills and employability
-through targeted training and development programs amongst working Singaporeans.
-With a strong focus on lifelong learning, NTUC LearningHub brings a wealth
-of experience in upskilling individuals to the evolving job market. The
-collaboration between NTUC LearningHub and SGWIT on Relaunch enables us
-to offer courses and workshops that equip women returning back to work
-with both technical and soft skills, thereby empowering them to excel in
-their careers.</p>
+<p>NTUC LearningHub is the leading Continuing Education and Training provider
+in Singapore which aims to transform the lifelong employability of working
+people. Since its corporatisation in 2004, NTUC LearningHub has been working
+with employers and individual learners to provide learning solutions in
+areas such as Infocomm Technology, Generative AI &amp; Cloud, Healthcare,
+Retail &amp; Food Services, Employability &amp; Literacy, Business Excellence,
+Workplace Safety &amp; Health, Security, Human Resources &amp; Coaching
+and Foreign Workers Training. The collaboration between NTUC LearningHub
+and Infocomm Media Development Authority&nbsp;on&nbsp;Relaunch&nbsp;enables
+us to offer courses and workshops that equip women with both technical
+and soft skills, thereby empowering them to excel in their careers.</p>
