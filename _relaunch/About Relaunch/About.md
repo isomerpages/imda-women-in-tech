@@ -28,7 +28,7 @@ technology.</p>
 <hr>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Relaunch/ntuclh_banner_logo.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Relaunch/ntuclh_banner_logo.png">
 </div>
 <p>NTUC LearningHub is the leading Continuing Education and Training provider
 in Singapore which aims to transform the lifelong employability of working
