@@ -175,25 +175,29 @@ third_nav_title: About Relaunch
 			<div class="isomer-card-body">
 								<div class="isomer-card-title">Visa</div>
 </div></a>
+	
 <a rel="noopener noreferrer nofollow" href="https://www.vlookup.ai/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="vLookUp.ai" src="/images/Relaunch/Partner logos/vLookUp.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">vLookUp.ai</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.wsg.gov.sg/home/campaigns/hercareer" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workforce Singapore" src="/images/Relaunch/Partner logos/wsg2.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workforce Singapore</div></div></a>
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="vLookUp.ai" src="/images/Relaunch/Partner logos/vLookUp.png">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">vLookUp.ai</div>
+</div></a>
+	
+<a rel="noopener noreferrer nofollow" href="https://www.wsg.gov.sg/home/campaigns/hercareer" class="isomer-card">
+				<div class="isomer-card-image"><div class="isomer-image-wrapper">
+									<img style="width: 100%" height="auto" width="100%" alt="Workforce Singapore" src="/images/Relaunch/Partner logos/wsg2.png">
+									</div></div>
+				<div class="isomer-card-body">
+									<div class="isomer-card-title">Workforce Singapore</div>
+</div></a>
+	
 <a rel="noopener noreferrer nofollow" href="https://www.mendaki.org.sg/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Yayasan MENDAKI" src="/images/Relaunch/Partner logos/yayasan.png">
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="Yayasan MENDAKI" src="/images/Relaunch/Partner logos/yayasan.png">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">Yayasan MENDAKI</div>
+</div></a>
+	
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Yayasan MENDAKI</div>
-</div>
-</a>
-</div>
-<p></p>
