@@ -68,21 +68,17 @@ transition into a tech career.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>As an advocate for diversity and inclusion, Foodpanda is actively seeking
-opportunities to give back to the Tech community through partnerships and
-engagements. The webinars will provide us a chance to work closely with
-talented women, and hopefully empower and inspire them to re-enter the
-Tech workforce.
-<br>
-<br>Foodpanda will be hosting Webinar &amp; Workshop series throughout 2025.
-Do keep a lookout for exciting things coming next year with foodpanda!</p>
+<p>#IAmRemarkable is a global movement that empowers everyone, including
+underrepresented groups, to celebrate their achievements in the workplace
+and beyond, while challenging the social perception around self-promotion.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Emerson Rediscovering Confidence Workshop</strong>
 </p>
-<p><strong>Date:</strong> 9 December 2024</p>
+<p><strong>Date:</strong> 7 January 2025
+<br><strong>Time: </strong>2pm - 5 pm</p>
 <p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
@@ -121,7 +117,8 @@ the first step towards your confident return to tech!</p>
 <td rowspan="1" colspan="1">
 <p><strong>Emerson Open House</strong>
 </p>
-<p><strong>Date:</strong> 12 February 2025</p>
+<p><strong>Date:</strong> 12 February 2025
+<br><strong>Time:</strong> 12pm - 5pm</p>
 <p><a href="https://forms.office.com/r/ig6fJZ5NCL?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
