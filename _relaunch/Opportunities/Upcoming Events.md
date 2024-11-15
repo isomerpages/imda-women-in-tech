@@ -241,6 +241,33 @@ get access to a 5-hour e-learning Software Engineering course and earn
 a certificate to boost your resume and confidence as you re-enter the workforce!</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SHE Supports Friendship Circles</strong>
+</p>
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHE Supports provided resources to individuals returning to the workforce.
+Through its Friendship Circles, women returning to tech roles can share
+experiences, discuss strategies, and receive guidance whilst building networks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Returning Women in Digital Workshop</strong>
+</p>
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join Temus for a dynamic workshop, "Women Who Wow", tailored for women
+aiming to re-enter the workforce! Catch up on essential tech trends and
+explore various career pathways in the industry. Get a refresher on essential
+communication skills like public speaking and conflict resolution, to boost
+your confidence and readiness for new professional opportunities. This
+event is designed to empower you as you embark on your journey into tech.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
