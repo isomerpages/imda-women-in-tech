@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Opportunities
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/Job_board.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Relaunch/D2_Job_board.png">
 </div>
 <h3>Seize your next opportunity</h3>
 <p>You can find job opportunities from our Relaunch partners here. Each company
