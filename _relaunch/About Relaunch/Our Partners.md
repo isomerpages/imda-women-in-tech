@@ -137,28 +137,44 @@ third_nav_title: About Relaunch
 			<div class="isomer-card-body">
 								<div class="isomer-card-title">Rakuten</div>
 </div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCS" src="/images/Relaunch/Partner logos/scs.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Computer Society</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.scs.org.sg/communities/women-in-technology/resources" class="isomer-card">
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="SCS" src="/images/Relaunch/Partner logos/scs.png">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">Singapore Computer Society</div>
+</div></a>
+	
 <a rel="noopener noreferrer nofollow" href="https://www.tcs.com/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tata Consultancy Services" src="/images/Relaunch/Partner logos/tata.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Tata Consultancy Services</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://temus.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Temus" src="/images/Relaunch/Partner logos/temus.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Temus</div></div></a>
-		<a rel="noopener noreferrer nofollow" href="https://www.mindef.gov.sg/dis" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Digital Intelligence Service" src="/images/Relaunch/Partner logos/dis.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">The Digital&nbsp;and&nbsp;Intelligence Service</div>
-</div>
-</a>
-	<a rel="noopener noreferrer nofollow" href="https://corporate.visa.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visa" src="/images/Relaunch/Partner logos/visa.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visa</div></div></a>
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="Tata Consultancy Services" src="/images/Relaunch/Partner logos/tata.png">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">Tata Consultancy Services</div>
+</div></a>
+<a rel="noopener noreferrer nofollow" href="https://temus.com/" class="isomer-card">
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="Temus" src="/images/Relaunch/Partner logos/temus.png">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">Temus</div>
+</div></a>
+
+<a rel="noopener noreferrer nofollow" href="https://www.mindef.gov.sg/dis" class="isomer-card">
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="The Digital Intelligence Service" src="/images/Relaunch/Partner logos/dis.png">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">The Digital&nbsp;and&nbsp;Intelligence Service</div>
+</div></a>
+	
+<a rel="noopener noreferrer nofollow" href="https://corporate.visa.com" class="isomer-card">
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="Visa" src="/images/Relaunch/Partner logos/visa.png">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">Visa</div>
+</div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.vlookup.ai/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
