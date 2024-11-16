@@ -12,12 +12,13 @@ third_nav_title: About Relaunch
 <p>Announced on 18 Nov 2024 by the Minister for Digital Development and Information
 Mrs Josephine Teo, Relaunch is an SG Women in Tech initiative that is dedicated
 to supporting women who are re-entering the tech workforce in Singapore.</p>
-<p>Together with NTUC LearningHub as the anchor partner, the programme encourages
-women to embark on the next journey in their career and helps them navigate
-the steps to be re-employed. The programme gathers organisations in Singapore’s
-tech ecosystem to support women by bridging their technology skills gap,
-enhancing their employability, while fostering a strong and inclusive community
-for women to thrive in the tech industry.</p>
+<p>Together with <a href="https://www.ntuclearninghub.com/en-US/" rel="noopener nofollow" target="_blank">NTUC LearningHub</a> as
+the anchor partner, the programme encourages women to embark on the next
+journey in their career and helps them navigate the steps to be re-employed.
+The programme gathers organisations in Singapore’s tech ecosystem to support
+women by bridging their technology skills gap, enhancing their employability,
+while fostering a strong and inclusive community for women to thrive in
+the tech industry.</p>
 <p>Through a blend of upskilling programs, mentorship opportunities, and
 dedicated job placement support, the Relaunch programme will equip women
 with the tools they need to succeed.</p>
