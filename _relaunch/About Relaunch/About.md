@@ -39,6 +39,6 @@ areas such as Infocomm Technology, Generative AI &amp; Cloud, Healthcare,
 Retail &amp; Food Services, Employability &amp; Literacy, Business Excellence,
 Workplace Safety &amp; Health, Security, Human Resources &amp; Coaching
 and Foreign Workers Training. The collaboration between NTUC LearningHub
-and Infocomm Media Development Authority&nbsp;on&nbsp;Relaunch&nbsp;enables
-us to offer courses and workshops that equip women with both technical
-and soft skills, thereby empowering them to excel in their careers.</p>
+and SG Women in Tech&nbsp;on&nbsp;Relaunch&nbsp;enables us to offer courses
+and workshops that equip women with both technical and soft skills, thereby
+empowering them to excel in their careers.</p>
