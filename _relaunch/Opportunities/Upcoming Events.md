@@ -28,7 +28,8 @@ you.</p>
 <p><strong>Date: </strong>19 November 2024
 <br>
 </p>
-<p>Register</p>
+<p><a href="https://ntuclhub.sg/KCC24" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Join us on 19th November 2024 for an insightful evening focused on exploring
