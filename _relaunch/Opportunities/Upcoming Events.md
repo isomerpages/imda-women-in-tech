@@ -23,43 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Navigate Tech Opportunities and In-Demand Tech Roles</strong>
-</p>
-<p><strong>Date: </strong>19 November 2024
-<br>
-</p>
-<p><a href="https://ntuclhub.sg/KCC24" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us on 19th November 2024 for an insightful evening focused on exploring
-opportunities in the tech sector and understanding the skills needed to
-thrive in today’s evolving tech landscape. This event will equip participants
-with the knowledge to navigate the growing demand for tech skills, offering
-insights into the digital economy, in-demand tech roles, and opportunities
-to utilise SkillsFuture Credit to upskill or reskill. Attendees will also
-have the chance to engage with industry experts and explore relevant programmes
-through breakout sessions and networking opportunities.
-<br>
-<br>Event Highlights:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Discover the Latest Tech Trends: Gain a competitive edge by understanding
-the latest developments in the tech industry.</p>
-</li>
-<li>
-<p>Unveil In-Demand Skills: Explore the specific skills required for popular
-tech roles and how to acquire them.</p>
-</li>
-<li>
-<p>Leverage SkillsFuture Credit: Learn how to use SkillsFuture Credit to
-transition into a tech career.</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Dell Technologies #IAmRemarkable Workshop</strong>
 </p>
 <p><strong>Date: </strong>29 November 2024
