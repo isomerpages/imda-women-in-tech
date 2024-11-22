@@ -76,7 +76,7 @@ courses and workshops to score a foot in the door for your next job.</p>
 							</div></div>
 			<div class="isomer-card-body">
 							<div class="isomer-card-title">LinkedIn Premium Account</div>
-							<div class="isomer-card-description">LinkedIn's vision is to create economic opportunity for every member of the global workforce, and this includes supporting women returning to the tech industry. We are working with NTUC Learning Hub to give 100 LinkedIn Premium Accounts to returning women into tech.&nbsp; <br><br>
+							<div class="isomer-card-description">LinkedIn's vision is to create economic opportunity for every member of the global workforce, and this includes supporting women returning to the tech industry. We are working with NTUC Learning Hub to give 50 LinkedIn Premium Accounts to returning women into tech.&nbsp; <br><br>
 			<b>Coming soon</b></div>
 </div></a>
 	
