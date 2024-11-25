@@ -39,6 +39,26 @@ and beyond, while challenging the social perception around self-promotion.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SHE Supports Friendship Circles: Ladies in Cybersecurity</strong>
+</p>
+<p><strong>Date:</strong> 7 December 2024
+<br><strong>Time:</strong> 2:30pm - 4:30pm</p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=djqfDWposUWGv6rucAq_q-k26bVZ_o5Bn-l2M1zTphtUNDJMRk8wR0lYQjJENEFPVENBVjI0SjdONCQlQCNjPTEu&amp;route=shorturl#msdynttrid=sDPF8gjSbiurEs6pnl8hbJG2Q0iOS9aJ5tM-ZClWFPE" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This session aims to foster a supportive community for female students
+and professionals at all stages of their cybersecurity careers. Participants
+will have the opportunity to connect, share experiences, and receive guidance
+from female mentors and industry leaders on topics such as balancing career
+and personal life, navigating career transitions, and overcoming challenges.</p>
+<p><strong>Venue:</strong> Lifelong Learning Institute, 11 Eunos Road 8, Singapore
+408601
+<br>(Registration and Refreshments from 2:00 PM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Emerson Rediscovering Confidence Workshop</strong>
 </p>
 <p><strong>Date:</strong> 7 January 2025
