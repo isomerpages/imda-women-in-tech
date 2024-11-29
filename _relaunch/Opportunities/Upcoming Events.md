@@ -47,11 +47,12 @@ and beyond, while challenging the social perception around self-promotion.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This session aims to foster a supportive community for female students
-and professionals at all stages of their cybersecurity careers. Participants
-will have the opportunity to connect, share experiences, and receive guidance
-from female mentors and industry leaders on topics such as balancing career
-and personal life, navigating career transitions, and overcoming challenges.</p>
+<p>Organised by NTUC U Women and Family and SG Her Empowerment, this session
+aims to foster a supportive community for female students and professionals
+at all stages of their cybersecurity careers. Participants will have the
+opportunity to connect, share experiences, and receive guidance from female
+mentors and industry leaders on topics such as balancing career and personal
+life, navigating career transitions, and overcoming challenges.</p>
 <p><strong>Venue:</strong> Lifelong Learning Institute, 11 Eunos Road 8, Singapore
 408601
 <br>(Registration and Refreshments from 2:00 PM)</p>
