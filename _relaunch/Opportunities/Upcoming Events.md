@@ -23,43 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dell Technologies #IAmRemarkable Workshop</strong>
-</p>
-<p><strong>Date: </strong>29 November 2024
-<br><strong>Time:</strong> 10am - 11.30am</p>
-<p></p>
-<p><a href="https://forms.office.com/r/DC7wHCxvZa%20%5bforms.office.com%5d" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>#IAmRemarkable is a global movement that empowers everyone, including
-underrepresented groups, to celebrate their achievements in the workplace
-and beyond, while challenging the social perception around self-promotion.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SHE Supports Friendship Circles: Ladies in Cybersecurity</strong>
-</p>
-<p><strong>Date:</strong> 7 December 2024
-<br><strong>Time:</strong> 2:30pm - 4:30pm</p>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=djqfDWposUWGv6rucAq_q-k26bVZ_o5Bn-l2M1zTphtUNDJMRk8wR0lYQjJENEFPVENBVjI0SjdONCQlQCNjPTEu&amp;route=shorturl#msdynttrid=sDPF8gjSbiurEs6pnl8hbJG2Q0iOS9aJ5tM-ZClWFPE" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Organised by NTUC U Women and Family and SG Her Empowerment, this session
-aims to foster a supportive community for female students and professionals
-at all stages of their cybersecurity careers. Participants will have the
-opportunity to connect, share experiences, and receive guidance from female
-mentors and industry leaders on topics such as balancing career and personal
-life, navigating career transitions, and overcoming challenges.</p>
-<p><strong>Venue:</strong> Lifelong Learning Institute, 11 Eunos Road 8, Singapore
-408601
-<br>(Registration and Refreshments from 2:00 PM)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Emerson Rediscovering Confidence Workshop</strong>
 </p>
 <p><strong>Date:</strong> 7 January 2025
@@ -120,7 +83,8 @@ to expand your network. Take charge of your career and thrive!</p>
 </p>
 <p><strong>Date: </strong>14 February 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
-<p>Coming Soon</p>
+<p><a href="https://forms.microsoft.com/pages/responsepage.aspx?id=oJQyUSA-skGpcG0wvxVG-u3Dp6Lb-ttJjD1jrmpzc6VURThCVE9XQlVLT0pMUVkyNlJZRDEyWEdaVi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Join us for a panel discussion and networking event dedicated to women
