@@ -57,7 +57,7 @@ courses and workshops to score a foot in the door for your next job.</p>
 								</div></div>
 			<div class="isomer-card-body">
 								<div class="isomer-card-title">Grab Mentorship</div>
-								<div class="isomer-card-description">At Grab, we share WIT's commitment to promoting gender diversity in tech. Through mentorship and guidance, we empower women to build the confidence and skills needed to excel and make a meaningful impact in the industry.</div>
+								<div class="isomer-card-description">At Grab, we share WIT's commitment to promoting gender diversity in tech. Through mentorship and guidance, we empower women to build the confidence and skills needed to excel and make a meaningful impact in the industry.<br><br> Registration is open from now until 15 January 2025.</div>
 				<div class="isomer-card-link">Register</div>
 </div></a>
 	
