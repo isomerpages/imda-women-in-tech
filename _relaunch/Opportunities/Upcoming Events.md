@@ -63,6 +63,23 @@ the first step towards your confident return to tech!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>JPMorganChase: Returning Women in Tech Workshop</strong>
+</p>
+<p><strong>Date:</strong> 17 January 2025
+<br><strong>Time:</strong> 9am - 11.30am</p>
+<p><a href="https://tinyurl.com/22obg8kr" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us at the JPMorganChase Technology Center for an interview skills
+session, an office tour and networking with industry professionals.</p>
+<p><strong>Venue: </strong>JPMorganChase, One@Changi City, Changi Business
+Park Central 1, 486036
+<br><strong>Registration Deadline:</strong> Monday, 6 January 2025, 12 PM SGT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Emerson Open House</strong>
 </p>
 <p><strong>Date:</strong> 12 February 2025
@@ -175,19 +192,6 @@ talented women, and hopefully empower and inspire them to re-enter the
 Tech workforce.</p>
 <p>Foodpanda will be hosting Webinar &amp; Workshop series throughout 2025.
 Do keep a lookout for exciting things coming next year with foodpanda!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JPMorganChase: Returning Women in Tech Workshop</strong>
-</p>
-<p>Coming Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us at the JPMorganChase Technology Center for an interview skills
-session, an office tour and networking with industry professionals. Plus,
-get access to a 5-hour e-learning Software Engineering course and earn
-a certificate to boost your resume and confidence as you re-enter the workforce!</p>
 </td>
 </tr>
 <tr>
