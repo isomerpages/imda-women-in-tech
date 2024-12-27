@@ -2,6 +2,7 @@ collections:
   our-actions:
     output: true
     order:
+      - SGWIT 5th Birthday.md
       - What We Do.md
       - SG100WIT.md
       - ATxWomen in Tech.md
