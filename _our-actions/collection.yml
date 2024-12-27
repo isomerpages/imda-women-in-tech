@@ -2,12 +2,12 @@ collections:
   our-actions:
     output: true
     order:
-      - SGWIT 5th Birthday.md
       - What We Do.md
       - SG100WIT.md
       - ATxWomen in Tech.md
       - IWD2024.md
+      - SGWIT 5th Birthday.md
       - Corporate Pledge.md
-      - Reports/Reports.md
       - Reports/.keep
+      - Reports/Reports.md
       - Reports/BCG Report 2020.md
