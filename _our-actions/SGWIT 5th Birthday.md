@@ -4,7 +4,7 @@ permalink: /sgwit-5th-birthday/
 variant: tiptap
 description: SGWIT's 5th Birthday Celebration on 18 November 2024
 ---
-<h4><strong>SGWIT's  5<sup>th</sup> Birthday 2024</strong></h4>
+<h4><strong>SGWIT's 5<sup>th</sup> Birthday 2024</strong></h4>
 <p></p>
 <p>Take a trip down memory lane with us as we commemorate SG Women in Tech’s
 5<sup>th</sup> Anniversary!</p>
@@ -17,10 +17,9 @@ to providing support for women returning the workforce.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mPnYo23ZqLA?si=YCmNby_wD1S4erB4"></iframe>
 </div>
 <p></p>
-<p>On 18 November 2024, SG Women in Tech celebrated our 5th Anniversary.</p>
-<p>We gathered our community for a day of activities to Rebrand profiles,
-Refresh professional photos, Revamp resumes and Relish a delicious celebratory
-lunch.</p>
+<p>On 18 November 2024, we celebrated SGWIT's 5th Anniversary by gathering
+our community for a day of activities to Rebrand profiles, Refresh professional
+photos, Revamp resumes and Relish a delicious celebratory lunch.</p>
 <p>The Relaunch programme was also launched by Minister Josephine Teo at
 the event. Whether you’re looking to re-enter the tech workforce or help
 others do the same, check out the array of available Relaunch <a href="https://www.sgwomenintech.sg/relaunch" rel="noopener nofollow" target="_blank">resources.</a>
