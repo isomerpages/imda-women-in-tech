@@ -26,9 +26,9 @@ from practical advice on career growth, ideation, validation, business
 models, product-market fit, value proposition and scaling beyond Singapore.
 With the help of mentors and experts, these young innovators got into teams
 and pitched their amazing ideas on stage in front of the judges.</p>
-<p>Echoing Minister Josephine Teo's message to the girls: Technology knows
+<p>Echoing Minister Josephine Teo's message to the girls: "Technology knows
 no boundaries and certainly gender should not be a boundary. There is so
 much that we can all gain by staying curious and learning from one another.
-And also with technology, keep exploring and experimenting!</p>
+And also with technology, keep exploring and experimenting!"</p>
 <p><strong><a href="https://www.shelovestech.org/girlslovetech" rel="noopener noreferrer nofollow" target="_blank">Girls Love Tech 2024</a></strong>
 </p>
