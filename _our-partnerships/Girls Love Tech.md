@@ -5,17 +5,30 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girls_In_Tech_Day_Photo_Collage__300522__01__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GLT2024.jpg">
 </div>
-<p>She Loves Tech is a global platform that is committed to closing the funding
-gap for women entrepreneurs. Girl Loves Tech is a programme that aims to
-reach out to girls in collaboration with IMDA, SG Women in Tech, and for
-2023’s addition, ANT Group.</p>
-<p>The programme is free for all to attend with an exciting agenda lined
-up for the participants to engage with trailblazers in tech all over the
-world. Attendees participated in interactive activities such as robotics
-workshops and super fun sessions on Public Speaking. Polytechnic and University
-students also gained invaluable entrepreneurial insights.</p>
-<p><strong><a href="https://conference.shelovestech.org/page/3333712/girls-love-tech" rel="noopener noreferrer nofollow" target="_blank">Girls Love Tech | She Loves Tech Global Conference 2023</a></strong>
+<p>In collaboration with IMDA, SG Women In Tech, She Loves Tech and partners
+such as ANT International and Micron Foundation, Girl Loves Tech is a programme
+that started in 2022 and is designed to inspire, encourage and develop
+our girls to be the next generation of female tech leaders.</p>
+<p>Girls Love Tech 2024 brought together over 300 girls aged 12-23 years
+old and embarked on a journey into the world of tech, innovation and entrepreneurship.</p>
+<p>The 12-16 year old girls learned about Generative AI, unleashed their
+creativity by using technology to tackle real community issues, had engaging
+discussions with a women in AI panel, practiced their public speaking and
+elevator pitching skills and were inspired by a mother-daughter in tech.
+<br>
+<br>The 17-23 year old young women had an intensive bootcamp on entrepreneurship.
+They met unicorn founders, game changers in the industry, and benefited
+from practical advice on career growth, ideation, validation, business
+models, product-market fit, value proposition and scaling beyond Singapore.
+With the help of mentors and experts, these young innovators got into teams
+and pitched their amazing ideas on stage in front of the judges.</p>
+<p>Echoing Minister Josephine Teo's message to the girls: Technology knows
+no boundaries and certainly gender should not be a boundary. There is so
+much that we can all gain by staying curious and learning from one another.
+And also with technology, keep exploring and experimenting!</p>
+<p><strong><a href="https://www.shelovestech.org/girlslovetech" rel="noopener noreferrer nofollow" target="_blank">Girls Love Tech 2024</a></strong>
 </p>
