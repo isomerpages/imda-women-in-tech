@@ -4,6 +4,8 @@ permalink: /sgwit-5th-birthday/
 variant: tiptap
 description: SGWIT's 5th Birthday Celebration on 18 November 2024
 ---
+<h4><strong>SGWIT's  5<sup>th</sup> Birthday 2024</strong></h4>
+<p></p>
 <p>Take a trip down memory lane with us as we commemorate SG Women in Tech’s
 5<sup>th</sup> Anniversary!</p>
 <p>Since our launch in 2019, SGWIT has empowered over 120,000 women and girls
