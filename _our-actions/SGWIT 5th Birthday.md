@@ -20,9 +20,9 @@ to providing support for women returning the workforce.</p>
 <p>On 18 November 2024, we celebrated SGWIT's 5th Anniversary by gathering
 our community for a day of activities to Rebrand profiles, Refresh professional
 photos, Revamp resumes and Relish a delicious celebratory lunch.</p>
-<p>The Relaunch programme was also launched by Minister Josephine Teo at
-the event. Whether you’re looking to re-enter the tech workforce or help
-others do the same, check out the array of available Relaunch <a href="https://www.sgwomenintech.sg/relaunch" rel="noopener nofollow" target="_blank">resources.</a>
+<p>Announced by Minister Josephine Teo, whether you’re looking to re-enter
+the tech workforce or help others do the same, check out the array of available
+Relaunch <a href="https://www.sgwomenintech.sg/relaunch" rel="noopener nofollow" target="_blank">resources.</a>
 </p>
 <p>Relive the memories from the event here!</p>
 <div class="iframe-wrapper">
