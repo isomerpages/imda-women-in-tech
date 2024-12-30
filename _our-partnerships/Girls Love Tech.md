@@ -10,11 +10,12 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GLT2024.jpg">
 </div>
 <p>In collaboration with IMDA, SG Women In Tech, She Loves Tech and partners
-such as ANT International and Micron Foundation, <a href="https://www.shelovestech.org/girlslovetech" rel="noopener nofollow" target="_blank">Girls Love Tech</a> is
-a programme that started in 2022 and is designed to inspire, encourage
-and develop our girls to be the next generation of female tech leaders.</p>
-<p>Girls Love Tech 2024 brought together over 300 girls aged 12-23 years
-old and embarked on a journey into the world of tech, innovation and entrepreneurship.</p>
+such as ANT International and Micron Foundation, Girls Love Tech is a programme
+that started in 2022 and is designed to inspire, encourage and develop
+our girls to be the next generation of female tech leaders.</p>
+<p><a href="https://www.shelovestech.org/girlslovetech" rel="noopener nofollow" target="_blank">Girls Love Tech 2024</a> brought
+together over 300 girls aged 12-23 years old and embarked on a journey
+into the world of tech, innovation and entrepreneurship.</p>
 <p>The 12-16 year olds learned about Generative AI, unleashed their creativity
 by using technology to tackle real community issues, had engaging discussions
 with a women in AI panel, practiced their public speaking and elevator
