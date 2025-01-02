@@ -114,7 +114,7 @@ with the tools to thrive professionally and accelerate your growth.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dell MentorConnect MasterClass-Positioning yourself for your Next Role</strong>
+<p><strong>Dell MentorConnect MasterClass - Positioning yourself for your Next Role</strong>
 </p>
 <p><strong>Date: </strong>May - August 2025</p>
 <p><a href="https://forms.office.com/r/f7vNxecRek" rel="noopener nofollow" target="_blank">Register</a>
