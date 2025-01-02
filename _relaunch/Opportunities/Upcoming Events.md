@@ -23,22 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson Rediscovering Confidence Workshop</strong>
-</p>
-<p><strong>Date:</strong> 7 January to 26 March 2025
-<br><strong>Time: </strong>2pm - 5 pm</p>
-<p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join Emerson in this workshop, designed to empower women in their career
-journeys. This transformative session focuses on rebuilding self-belief
-through engaging exercises and holistic self-reflection, equipping you
-with the tools to thrive professionally and accelerate your growth.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech</strong>
 </p>
 <p><strong>Date:</strong> 15 January 2025
@@ -110,6 +94,22 @@ and strategies to tackle challenges such as addressing career gaps, building
 confidence, and managing work-life integration. Hear from inspiring leaders
 who’ve made a successful return to tech, and connect with peers and industry
 experts in breakout sessions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PwC: Return to Tech - Navigating Your Comeback</strong>
+</p>
+<p><strong>Date:</strong> 26 March 2025
+<br><strong>Time: </strong>2pm - 5 pm</p>
+<p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join Emerson in this workshop, designed to empower women in their career
+journeys. This transformative session focuses on rebuilding self-belief
+through engaging exercises and holistic self-reflection, equipping you
+with the tools to thrive professionally and accelerate your growth.</p>
 </td>
 </tr>
 <tr>
