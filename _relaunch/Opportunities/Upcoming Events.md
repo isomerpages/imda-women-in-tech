@@ -23,22 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson Rediscovering Confidence Workshop</strong>
-</p>
-<p><strong>Date:</strong> 7 January 2025
-<br><strong>Time: </strong>2pm - 5 pm</p>
-<p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join Emerson in this workshop, designed to empower women in their career
-journeys. This transformative session focuses on rebuilding self-belief
-through engaging exercises and holistic self-reflection, equipping you
-with the tools to thrive professionally and accelerate your growth.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech</strong>
 </p>
 <p><strong>Date:</strong> 15 January 2025
@@ -80,7 +64,7 @@ Park Central 1, 486036
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson Open House</strong>
+<p><strong>Emerson's Open House</strong>
 </p>
 <p><strong>Date:</strong> 12 February 2025
 <br><strong>Time:</strong> 12pm - 5pm</p>
@@ -96,7 +80,7 @@ to expand your network. Take charge of your career and thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Return to Tech: Navigating Your Comeback</strong>
+<p><strong>PwC: Return to Tech - Navigating Your Comeback</strong>
 </p>
 <p><strong>Date: </strong>14 February 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
@@ -114,7 +98,23 @@ experts in breakout sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Dell MentorConnect MasterClass-Positioning yourself for your Next Role</strong>
+<p><strong>Emerson Rediscovering Confidence Workshop</strong>
+</p>
+<p><strong>Date:</strong> 26 March 2025
+<br><strong>Time: </strong>2pm - 5 pm</p>
+<p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join Emerson in this workshop, designed to empower women in their career
+journeys. This transformative session focuses on rebuilding self-belief
+through engaging exercises and holistic self-reflection, equipping you
+with the tools to thrive professionally and accelerate your growth.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Dell MentorConnect MasterClass - Positioning yourself for your Next Role</strong>
 </p>
 <p><strong>Date: </strong>May - August 2025</p>
 <p><a href="https://forms.office.com/r/f7vNxecRek" rel="noopener nofollow" target="_blank">Register</a>
