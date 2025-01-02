@@ -25,7 +25,7 @@ you.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Emerson Rediscovering Confidence Workshop</strong>
 </p>
-<p><strong>Date:</strong> 7 January 2025
+<p><strong>Date:</strong> 7 January to 26 March 2025
 <br><strong>Time: </strong>2pm - 5 pm</p>
 <p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
 </p>
