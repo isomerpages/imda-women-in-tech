@@ -64,7 +64,7 @@ Park Central 1, 486036
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson Open House</strong>
+<p><strong>Emerson's Open House</strong>
 </p>
 <p><strong>Date:</strong> 12 February 2025
 <br><strong>Time:</strong> 12pm - 5pm</p>
@@ -80,7 +80,7 @@ to expand your network. Take charge of your career and thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Return to Tech: Navigating Your Comeback</strong>
+<p><strong>PwC: Return to Tech - Navigating Your Comeback</strong>
 </p>
 <p><strong>Date: </strong>14 February 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
@@ -98,7 +98,7 @@ experts in breakout sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PwC: Return to Tech - Navigating Your Comeback</strong>
+<p><strong>Emerson Rediscovering Confidence Workshop</strong>
 </p>
 <p><strong>Date:</strong> 26 March 2025
 <br><strong>Time: </strong>2pm - 5 pm</p>
