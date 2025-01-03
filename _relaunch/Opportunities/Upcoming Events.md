@@ -23,6 +23,26 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>SHE Supports Friendship Circles x Careers in Project Management for Women</strong>
+</p>
+<p><strong>Date: </strong>10 January 2025
+<br><strong>Time:</strong> 2.30pm - 5.30pm</p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=gHm27XA3UU6uiIJlUDxG5kNcyFdzrCdJpREVQp8acyJUQzBTUkUyT0dEQzhNNVE5VURYWENVMExONS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Organised by NTUC Women and Family (WAF), SG Her Empowerment (SHE)&nbsp;and
+NTUC LearningHub (LHUB), and supported by SG Women in Tech (SGWIT),&nbsp;Project
+Management Institute (PMI), Tata Consultancy Services (TCS), and Yayasan
+MENDAKI, this session aims to inspire and empower returning women to explore
+project management opportunities within the tech industry. Participants
+will gain insights into career progression, practical project management
+skills, and pathways to access tech roles for individuals re-entering the
+workforce or transitioning from non-tech backgrounds.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech</strong>
 </p>
 <p><strong>Date:</strong> 15 January 2025
