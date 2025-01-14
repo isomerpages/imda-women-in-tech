@@ -51,15 +51,15 @@ courses and workshops to score a foot in the door for your next job.</p>
 								<b>Coming soon</b></div>
 </div></a>
 	
-<a rel="noopener noreferrer nofollow" href="https://grb.to/3BxhyPS" class="isomer-card">
+<div rel="noopener noreferrer nofollow" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Relaunch/Partner logos/grab.png">
 								</div></div>
 			<div class="isomer-card-body">
 								<div class="isomer-card-title">Grab Mentorship</div>
-								<div class="isomer-card-description">At Grab, we share WIT's commitment to promoting gender diversity in tech. Through mentorship and guidance, we empower women to build the confidence and skills needed to excel and make a meaningful impact in the industry.<br><br> Registration is open from now until 15 January 2025.</div>
-				<div class="isomer-card-link">Register</div>
-</div></a>
+								<div class="isomer-card-description">At Grab, we share WIT's commitment to promoting gender diversity in tech. Through mentorship and guidance, we empower women to build the confidence and skills needed to excel and make a meaningful impact in the industry.<br><br><b>Registration closed</b></div>
+	
+</div></div>
 	
 <a rel="noopener noreferrer nofollow" href="mailto:globalsafeboard@kaspersky.com" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
