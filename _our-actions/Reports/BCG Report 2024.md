@@ -23,7 +23,7 @@ of more than 20 percentage points over our 2020 survey (49%). Job satisfaction
 levels among women who currently work in the sector are extremely high
 at 83%, on par with that of their male counterparts in tech and higher
 than the average for women in other industries.</p>
-<p>Looking into the four key months of truth in a woman’s technology career,
+<p>Looking into the four key moments of truth in a woman’s technology career,
 the report recommended specific steps that companies, industry associations,
 and governments can take to support women in tech. These include cultivating
 an interest in technology among girls by weaving technology into all aspects
