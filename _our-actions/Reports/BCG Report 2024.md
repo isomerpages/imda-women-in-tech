@@ -9,8 +9,8 @@ third_nav_title: Reports
 Asia, but the tech sector remains predominantly male. The Infocomm Media
 Development Authority (IMDA) partnered Boston Consulting Group (BCG) in
 a 2024 study to understand this disparity and identify potential solutions.
-This is a follow-up to the study that was published in 2020 on the gender
-disparity in tech in Southeast Asia.</p>
+This is a follow-up to the 2020 study on gender disparity in tech in Southeast
+Asia.</p>
 <p>The study of around 4,000 individuals across the six Southeast Asian countries
 found that the share of women in technology across Southeast Asia ranges
 from 34% to 40%, reflecting moderate progress since 2020. With 40% of women
