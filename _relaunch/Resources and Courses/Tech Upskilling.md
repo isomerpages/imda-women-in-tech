@@ -53,13 +53,13 @@ third_nav_title: Resources and Courses
 							To sign up, please email to<div class="isomer-card-link">certificates+IMDA@quantic.edu</div>
 </div></a>
 	
-<a rel="noopener noreferrer nofollow" href="https://www.rakuten.com/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.surveymonkey.com/r/PDM-PJMregistration2025/" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png">
 								</div></div>
 				<div class="isomer-card-body">
 								<div class="isomer-card-title">Rakuten Product and Project Management Workshop</div>
-								<div class="isomer-card-description">This 4 to 6-week workshop offers aspiring project and product managers foundational management principles and tools. Learn project lifecycle management, agile and waterfall methodologies, and gain hands-on experience with project management software.<br><br>
-								<b>Coming Soon</b></div>
+								<div class="isomer-card-description">This 4 to 6-week workshop offers aspiring project and product managers foundational management principles and tools. Learn project lifecycle management, agile and waterfall methodologies, and gain hands-on experience with project management software.</div>
+<div class="isomer-card-link">Sign Up Now</div>
 </div></a>
 </div>
