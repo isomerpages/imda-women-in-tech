@@ -12,6 +12,10 @@ partnered the Boston Consulting Group (BCG) on the following reports:</p>
 <li>
 <p><strong><a href="/our-actions/reports/bcg-report-2020/" rel="noopener noreferrer nofollow" target="_blank">BCG Report 2020</a></strong>
 </p>
+</li>
+<li>
+<p><strong>BCG Report 2024</strong>
+</p>
 <p></p>
 </li>
 </ol>
