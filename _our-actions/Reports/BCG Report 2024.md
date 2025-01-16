@@ -8,7 +8,7 @@ third_nav_title: Reports
 <p>1. Technology is transforming economies and societies throughout Southeast
 Asia, but the tech sector remains predominantly male. The Infocomm Media
 Development Authority (IMDA) partnered Boston Consulting Group (BCG) in
-2024 study to understand this disparity and identify potential solutions.
+a 2024 study to understand this disparity and identify potential solutions.
 This is a follow-up to the study that was published in 2020 on the gender
 disparity in tech in Southeast Asia.</p>
 <p>2. The study of around 4,000 individuals across the six Southeast Asian
