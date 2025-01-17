@@ -23,67 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>SHE Supports Friendship Circles x Careers in Project Management for Women</strong>
-</p>
-<p><strong>Date: </strong>10 January 2025
-<br><strong>Time:</strong> 2.30pm - 5.30pm</p>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=gHm27XA3UU6uiIJlUDxG5kNcyFdzrCdJpREVQp8acyJUQzBTUkUyT0dEQzhNNVE5VURYWENVMExONS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Organised by NTUC Women and Family (WAF), SG Her Empowerment (SHE)&nbsp;and
-NTUC LearningHub (LHUB), and supported by SG Women in Tech (SGWIT),&nbsp;Project
-Management Institute (PMI), Tata Consultancy Services (TCS), and Yayasan
-MENDAKI, this session aims to inspire and empower returning women to explore
-project management opportunities within the tech industry. Participants
-will gain insights into career progression, practical project management
-skills, and pathways to access tech roles for individuals re-entering the
-workforce or transitioning from non-tech backgrounds.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Nailing Your Confident Comeback: Navigating Your Return to Tech</strong>
-</p>
-<p><strong>Date:</strong> 15 January 2025
-<br><strong>Time:</strong> 9.30am - 11.30am</p>
-<p><a href="https://forms.office.com/r/TvuLnXXyge" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ready to re-enter the tech workforce after a career break? Join PwC for
-an empowering, interactive webcast designed to boost your confidence and
-reignite your career. This event will cover the essential stages of finding
-a job, including CV writing, getting shortlisted, and interview skills,
-with a special focus on articulating the value of your career break. Learn
-how to craft a compelling narrative that highlights your experience, addresses
-career gaps, and showcases your transferable skills.
-<br>&nbsp;
-<br>Engage in a panel discussion and hear inspiring stories from women who
-have successfully navigated their return to tech. Leave feeling prepared
-and confident to conquer your next career milestone. Register now and take
-the first step towards your confident return to tech!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>JPMorganChase: Returning Women in Tech Workshop</strong>
-</p>
-<p><strong>Date:</strong> 17 January 2025
-<br><strong>Time:</strong> 9am - 11.30am</p>
-<p><a href="https://tinyurl.com/22obg8kr" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us at the JPMorganChase Technology Center for an interview skills
-session, an office tour and networking with industry professionals.</p>
-<p><strong>Venue: </strong>JPMorganChase, One@Changi City, Changi Business
-Park Central 1, 486036
-<br><strong>Registration Deadline:</strong> Monday, 6 January 2025, 12 PM SGT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Emerson's Open House</strong>
 </p>
 <p><strong>Date:</strong> 12 February 2025
