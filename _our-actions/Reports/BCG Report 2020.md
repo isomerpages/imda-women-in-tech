@@ -5,12 +5,12 @@ variant: tiptap
 description: ""
 third_nav_title: Reports
 ---
-<p>SGWIT and IMDA partnered with Boston Consulting Group (BCG) in 2020 to
-study gender diversity in technology across Southeast Asia (SEA), increase
-awareness of the underlying issues and identify solutions. The study found
-higher participation of women in tech in SEA than global averages, and
-about 65% of respondents agreed that the tech sector offers more tailored
-programmes to recruit, retain and promote women.
+<p>The Boston Consulting Group (BCG) partnered with SGWIT and IMDA on a study
+in 2020 which surveyed 1,650 women in tech in Southeast Asia.</p>
+<p>The study found that the participation of women in tech in Southeast Asia
+is slightly higher than global averages, and about 65% of respondents agreed
+that the tech sector does better than other industries in offering programmes
+specifically tailored to recruit, retain and promote women.
 <br>
-<br>Find out more about the report here: <strong><a href="https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector" rel="noopener noreferrer nofollow" target="_blank">https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector.</a></strong>
+<br>Find out more about the report <a href="https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector" rel="noopener nofollow" target="_blank">here</a>
 </p>
