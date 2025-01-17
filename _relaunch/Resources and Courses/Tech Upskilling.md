@@ -53,7 +53,7 @@ third_nav_title: Resources and Courses
 							To sign up, please email to<div class="isomer-card-link">certificates+IMDA@quantic.edu</div>
 </div></a>
 	
-<a rel="noopener noreferrer nofollow" href="https://www.surveymonkey.com/r/PDM-PJMregistration2025/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.surveymonkey.com/r/PDM-PJMregistration2025" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="Rakuten" src="/images/Relaunch/Partner logos/rakuten.png">
 								</div></div>
