@@ -39,7 +39,7 @@ to expand your network. Take charge of your career and thrive!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PwC: Return to Tech - Navigating Your Comeback</strong>
+<p><strong>PwC: Return to Tech - Navigating Your Transition</strong>
 </p>
 <p><strong>Date: </strong>14 February 2025
 <br><strong>Time:</strong> 9.30am - 11.30am</p>
