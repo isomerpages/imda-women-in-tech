@@ -80,15 +80,14 @@ courses and workshops to score a foot in the door for your next job.</p>
 			<b>Coming soon</b></div>
 </div></a>
 	
-<a rel="noopener noreferrer nofollow" href="https://forms.office.com/r/bYBryjKfcM" class="isomer-card">
+<div class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="PwC" src="/images/Relaunch/Partner logos/pwc.png">
 								</div></div>
 			<div class="isomer-card-body">
 								<div class="isomer-card-title">PwC Mentorship</div>
-								<div class="isomer-card-description">At PwC, we believe diverse perspectives drive meaningful change. Our mentorship programme connects returning women in tech with experienced professionals, fostering an inclusive environment where they can thrive.</div>
-							<div class="isomer-card-link">Register</div>
-</div></a>
+								<div class="isomer-card-description">At PwC, we believe diverse perspectives drive meaningful change. Our mentorship programme connects returning women in tech with experienced professionals, fostering an inclusive environment where they can thrive.<br><br><b>Registration closed</b></div>
+	</div></div>
 	
 <a rel="noopener noreferrer nofollow" href="/" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
