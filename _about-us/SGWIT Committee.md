@@ -5,11 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGWIT Committee" src="/images/sgwit_committee_2024.png">
-</div>
-<p>
-<br>To guide and galvanise the industry and community towards SGWIT’s mission,
+<p>To guide and galvanise the industry and community towards SGWIT’s mission,
 IMDA has convened a dedicated committee of individuals who are passionate
 and committed to the cause.
 <br>
