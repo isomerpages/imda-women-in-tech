@@ -57,6 +57,40 @@ experts in breakout sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Women’s Tech Comeback 2025 Panel Discussion</strong>
+</p>
+<p><strong>Date:</strong> 25 February 2025
+<br><strong>Time: </strong>2pm to 3:30pm</p>
+<p><a href="https://temus.com/event/womens-tech-comeback-panel/" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us for an inspiring panel discussion as we explore the journeys of
+women re-entering the workforce. Through personal stories, our panelists
+will address common questions and key challenges that they have faced in
+their individual career journeys. After the discussion, enjoy light refreshments
+and take the opportunity to network with fellow attendees.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Women’s Tech Comeback 2025 Workshop</strong>
+</p>
+<p><strong>Date:</strong> 11 March 2025
+<br><strong>Time:</strong> 2pm to 5pm</p>
+<p><a href="https://temus.com/event/womens-tech-comeback-workshop/" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us for a confidence-boosting session designed to equip you with the
+essential skills required to ease your transition back into the workforce!
+Facilitated by Melody Byrd, this hands-on workshop focuses on building
+key capabilities and fostering self-empowerment to help you succeed in
+today’s tech-driven landscape.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Emerson Rediscovering Confidence Workshop</strong>
 </p>
 <p><strong>Date:</strong> 26 March 2025
@@ -163,21 +197,6 @@ Do keep a lookout for exciting things coming next year with foodpanda!</p>
 <p>SHE Supports provided resources to individuals returning to the workforce.
 Through its Friendship Circles, women returning to tech roles can share
 experiences, discuss strategies, and receive guidance whilst building networks.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Returning Women in Digital Workshop</strong>
-</p>
-<p>Coming Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join Temus for a dynamic workshop, "Women Who Wow", tailored for women
-aiming to re-enter the workforce! Catch up on essential tech trends and
-explore various career pathways in the industry. Get a refresher on essential
-communication skills like public speaking and conflict resolution, to boost
-your confidence and readiness for new professional opportunities. This
-event is designed to empower you as you embark on your journey into tech.</p>
 </td>
 </tr>
 </tbody>
