@@ -57,7 +57,7 @@ experts in breakout sessions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Women’s Tech Comeback 2025 Panel Discussion</strong>
+<p><strong>Temus: Women’s Tech Comeback 2025 Panel Discussion</strong>
 </p>
 <p><strong>Date:</strong> 25 February 2025
 <br><strong>Time: </strong>2pm to 3:30pm</p>
@@ -74,7 +74,7 @@ and take the opportunity to network with fellow attendees.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Women’s Tech Comeback 2025 Workshop</strong>
+<p><strong>Temus: Women’s Tech Comeback 2025 Workshop</strong>
 </p>
 <p><strong>Date:</strong> 11 March 2025
 <br><strong>Time:</strong> 2pm to 5pm</p>
