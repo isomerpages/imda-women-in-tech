@@ -124,7 +124,9 @@ yourself for your next role/promotion.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Rakuten Office Tour for RWIT</strong>
 </p>
-<p>Coming Soon</p>
+<p></p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=2bCoUwDZzEidflk13I1bF3Bdb1o5WcZIlP051QTcV4dURVpRSEhQSUtNMTQ5SFI4UVVXQlhEUURYSC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Curious about where the magic happens? Join us for an exclusive Rakuten
