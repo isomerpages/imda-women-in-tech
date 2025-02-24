@@ -23,40 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson's Open House</strong>
-</p>
-<p><strong>Date:</strong> 12 February 2025
-<br><strong>Time:</strong> 12pm - 5pm</p>
-<p><a href="https://forms.office.com/r/ig6fJZ5NCL?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for an empowering Open House designed for re-entry women eager
-to stay ahead in technology. Engage in a dynamic panel discussion, explore
-our company on an exclusive tour, and connect with like-minded professionals
-to expand your network. Take charge of your career and thrive!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>PwC: Return to Tech - Navigating Your Transition</strong>
-</p>
-<p><strong>Date: </strong>14 February 2025
-<br><strong>Time:</strong> 9.30am - 11.30am</p>
-<p><a href="https://forms.microsoft.com/pages/responsepage.aspx?id=oJQyUSA-skGpcG0wvxVG-u3Dp6Lb-ttJjD1jrmpzc6VURThCVE9XQlVLT0pMUVkyNlJZRDEyWEdaVi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for a panel discussion and networking event dedicated to women
-re-entering the tech workforce after a break. We’ll explore personal stories
-and strategies to tackle challenges such as addressing career gaps, building
-confidence, and managing work-life integration. Hear from inspiring leaders
-who’ve made a successful return to tech, and connect with peers and industry
-experts in breakout sessions.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Temus: Women’s Tech Comeback 2025 Panel Discussion</strong>
 </p>
 <p><strong>Date:</strong> 25 February 2025
