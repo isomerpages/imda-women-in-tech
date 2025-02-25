@@ -23,40 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Emerson's Open House</strong>
-</p>
-<p><strong>Date:</strong> 12 February 2025
-<br><strong>Time:</strong> 12pm - 5pm</p>
-<p><a href="https://forms.office.com/r/ig6fJZ5NCL?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for an empowering Open House designed for re-entry women eager
-to stay ahead in technology. Engage in a dynamic panel discussion, explore
-our company on an exclusive tour, and connect with like-minded professionals
-to expand your network. Take charge of your career and thrive!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>PwC: Return to Tech - Navigating Your Transition</strong>
-</p>
-<p><strong>Date: </strong>14 February 2025
-<br><strong>Time:</strong> 9.30am - 11.30am</p>
-<p><a href="https://forms.microsoft.com/pages/responsepage.aspx?id=oJQyUSA-skGpcG0wvxVG-u3Dp6Lb-ttJjD1jrmpzc6VURThCVE9XQlVLT0pMUVkyNlJZRDEyWEdaVi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for a panel discussion and networking event dedicated to women
-re-entering the tech workforce after a break. We’ll explore personal stories
-and strategies to tackle challenges such as addressing career gaps, building
-confidence, and managing work-life integration. Hear from inspiring leaders
-who’ve made a successful return to tech, and connect with peers and industry
-experts in breakout sessions.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Temus: Women’s Tech Comeback 2025 Panel Discussion</strong>
 </p>
 <p><strong>Date:</strong> 25 February 2025
@@ -70,6 +36,57 @@ women re-entering the workforce. Through personal stories, our panelists
 will address common questions and key challenges that they have faced in
 their individual career journeys. After the discussion, enjoy light refreshments
 and take the opportunity to network with fellow attendees.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Rakuten Office Tour for RWIT</strong>
+</p>
+<p><strong>Date: </strong>5 March 2025</p>
+<p></p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=2bCoUwDZzEidflk13I1bF3Bdb1o5WcZIlP051QTcV4dURVpRSEhQSUtNMTQ5SFI4UVVXQlhEUURYSC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curious about where the magic happens? Join us for an exclusive Rakuten
+office tour and explore our vibrant workspace! Whether you're a returning
+woman in tech or just interested in our unique environment, you'll get
+a warm welcome, insight into our collaborative spaces, and the chance to
+meet our dynamic team.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Accenture Women of Worth: Empower Your Return To Tech</strong>
+</p>
+<p><strong>Date: </strong>7 March 2025<strong><br>Time: </strong>3pm to 6pm</p>
+<p><a href="https://bit.ly/wowinternationalwomensday" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Celebrate International Women’s Day with Accenture’s Women of Worth (WoW)
+program, which is organised as part of the Singapore Women in Tech (SGWIT)’s
+Relaunch initiative, and is dedicated to supporting women who are returning
+to the tech workforce after a career break. Gain clarity and forge connections
+with tech industry leaders and fellow women returning to tech workforce!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Microsoft Singapore: Leading the Era of AI – Empowering Transformation &amp; Innovation</strong>
+</p>
+<p><strong>Date: </strong>11 March 2025 <strong><br>Time: </strong>1:30pm
+to 5pm</p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9oKHid8jeFHvPQwPTR7CKVURVMyT0dYNkQ1TkM4OTIwSDIyTzQ0MDQ3SS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us for the launch of Microsoft Singapore's expanded&nbsp;AI Pinnacle
+Program, which is dedicated to accelerating the transformation of industries
+in Singapore with AI.&nbsp;This exclusive event also commemorates International
+Women’s Day by celebrating the extraordinary achievements of women in technology
+— honouring their role in driving innovation, research, and leadership
+in the age of AI.</p>
 </td>
 </tr>
 <tr>
@@ -118,20 +135,6 @@ with the tools to thrive professionally and accelerate your growth.</p>
 of navigating complex organizations and managing up, the ability to handle
 critical interviews, and skills to showcase performance as well as position
 yourself for your next role/promotion.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Rakuten Office Tour for RWIT</strong>
-</p>
-<p>Coming Soon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curious about where the magic happens? Join us for an exclusive Rakuten
-office tour and explore our vibrant workspace! Whether you're a returning
-woman in tech or just interested in our unique environment, you'll get
-a warm welcome, insight into our collaborative spaces, and the chance to
-meet our dynamic team.</p>
 </td>
 </tr>
 <tr>
