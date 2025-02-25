@@ -40,11 +40,27 @@ and take the opportunity to network with fellow attendees.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Rakuten Office Tour for RWIT</strong>
+</p>
+<p><strong>Date: </strong>5 March 2025</p>
+<p></p>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=2bCoUwDZzEidflk13I1bF3Bdb1o5WcZIlP051QTcV4dURVpRSEhQSUtNMTQ5SFI4UVVXQlhEUURYSC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Curious about where the magic happens? Join us for an exclusive Rakuten
+office tour and explore our vibrant workspace! Whether you're a returning
+woman in tech or just interested in our unique environment, you'll get
+a warm welcome, insight into our collaborative spaces, and the chance to
+meet our dynamic team.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Accenture Women of Worth: Empower Your Return To Tech</strong>
 </p>
-<p><strong>Date: 7 March 2025<br>Time: 3pm to 6pm</strong>
-</p>
-<p><strong><a href="bit.ly/wowinternationalwomensday" rel="noopener nofollow" target="_blank">Register</a></strong>
+<p><strong>Date: </strong>7 March 2025<strong><br>Time: </strong>3pm to 6pm</p>
+<p><a href="https://bit.ly/wowinternationalwomensday" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,6 +69,24 @@ program, which is organised as part of the Singapore Women in Tech (SGWIT)’s
 Relaunch initiative, and is dedicated to supporting women who are returning
 to the tech workforce after a career break. Gain clarity and forge connections
 with tech industry leaders and fellow women returning to tech workforce!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Microsoft Singapore: Leading the Era of AI – Empowering Transformation &amp; Innovation</strong>
+</p>
+<p><strong>Date: </strong>11 March 2025 <strong><br>Time: </strong>1:30pm
+to 5pm</p>
+<p><strong><a href="https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9oKHid8jeFHvPQwPTR7CKVURVMyT0dYNkQ1TkM4OTIwSDIyTzQ0MDQ3SS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join us for the launch of Microsoft Singapore's expanded&nbsp;AI Pinnacle
+Program, which is dedicated to accelerating the transformation of industries
+in Singapore with AI.&nbsp;This exclusive event also commemorates International
+Women’s Day by celebrating the extraordinary achievements of women in technology
+— honouring their role in driving innovation, research, and leadership
+in the age of AI.</p>
 </td>
 </tr>
 <tr>
@@ -70,24 +104,6 @@ essential skills required to ease your transition back into the workforce!
 Facilitated by Melody Byrd, this hands-on workshop focuses on building
 key capabilities and fostering self-empowerment to help you succeed in
 today’s tech-driven landscape.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Microsoft Singapore: Leading the Era of AI – Empowering Transformation
-&amp; Innovation</p>
-<p><strong>Date: </strong>11 March 2025
-<br><strong>Time: </strong>1:30pm to 5pm</p>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9oKHid8jeFHvPQwPTR7CKVURVMyT0dYNkQ1TkM4OTIwSDIyTzQ0MDQ3SS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for the launch of Microsoft Singapore's expanded&nbsp;AI Pinnacle
-Program, which is dedicated to accelerating the transformation of industries
-in Singapore with AI.&nbsp;This exclusive event also commemorates International
-Women’s Day by celebrating the extraordinary achievements of women in technology
-— honouring their role in driving innovation, research, and leadership
-in the age of AI.</p>
 </td>
 </tr>
 <tr>
@@ -119,23 +135,6 @@ with the tools to thrive professionally and accelerate your growth.</p>
 of navigating complex organizations and managing up, the ability to handle
 critical interviews, and skills to showcase performance as well as position
 yourself for your next role/promotion.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Rakuten Office Tour for RWIT</strong>
-</p>
-<p><strong>Date: </strong>5 March 2025</p>
-<p></p>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=2bCoUwDZzEidflk13I1bF3Bdb1o5WcZIlP051QTcV4dURVpRSEhQSUtNMTQ5SFI4UVVXQlhEUURYSC4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Curious about where the magic happens? Join us for an exclusive Rakuten
-office tour and explore our vibrant workspace! Whether you're a returning
-woman in tech or just interested in our unique environment, you'll get
-a warm welcome, insight into our collaborative spaces, and the chance to
-meet our dynamic team.</p>
 </td>
 </tr>
 <tr>
