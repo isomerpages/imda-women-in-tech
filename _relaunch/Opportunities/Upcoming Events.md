@@ -77,7 +77,7 @@ with tech industry leaders and fellow women returning to tech workforce!</p>
 </p>
 <p><strong>Date: </strong>11 March 2025 <strong><br>Time: </strong>1:30pm
 to 5pm</p>
-<p><strong><a href="https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9oKHid8jeFHvPQwPTR7CKVURVMyT0dYNkQ1TkM4OTIwSDIyTzQ0MDQ3SS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a></strong>
+<p><a href="https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9oKHid8jeFHvPQwPTR7CKVURVMyT0dYNkQ1TkM4OTIwSDIyTzQ0MDQ3SS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
