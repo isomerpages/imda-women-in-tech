@@ -23,23 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Temus: Women’s Tech Comeback 2025 Panel Discussion</strong>
-</p>
-<p><strong>Date:</strong> 25 February 2025
-<br><strong>Time: </strong>2pm to 3:30pm</p>
-<p><a href="https://temus.com/event/womens-tech-comeback-panel/" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for an inspiring panel discussion as we explore the journeys of
-women re-entering the workforce. Through personal stories, our panelists
-will address common questions and key challenges that they have faced in
-their individual career journeys. After the discussion, enjoy light refreshments
-and take the opportunity to network with fellow attendees.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Rakuten Office Tour for RWIT</strong>
 </p>
 <p><strong>Date: </strong>5 March 2025</p>
