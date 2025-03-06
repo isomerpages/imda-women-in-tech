@@ -1867,6 +1867,36 @@ issues</p>
 due to family commitment</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="74" data-tight="true" class="tight">
+<li>
+<p><strong>Workday Singapore</strong>
+</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Women@Workday: This is a dedicated platform that aims to support, connect,
+and empower women and other gender minorities. These groups provide a safe
+space for women to network, share experiences, and advocate for their needs.</p>
+<hr>
+<p>Mentorship programs: Workday offers mentorship programs such as Women
+in Sales and Women in Sales Leadership that pair female employees with
+experienced mentors who can provide guidance and support.</p>
+<hr>
+<p>Family Support: Workday offers Maven, a comprehensive programme that is
+designed to support employees and their families throughout various life
+stages, with a particular focus on women's health and family planning.
+It also provides reimbursement support for family building expenses. Maven's
+wellness program covers topics like Endometriosis, Irregular Periods, Birth
+Control, and Nutrition.</p>
+<hr>
+<p>Flexible work arrangements: Workday offers flexible work arrangements,
+such as remote work and flexible hours, which can be particularly beneficial
+for women who are balancing work and family responsibilities.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
