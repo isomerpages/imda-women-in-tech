@@ -24,6 +24,14 @@ third_nav_title: Opportunities
 							<div class="isomer-card-title">Accenture</div>
 </div></a>
 	
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/jobs/search/?currentJobId=4174090092&amp;keywords=ASUS%20jobs&amp;origin=SWITCH_SEARCH_VERTICAL" class="isomer-card">
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+							<img style="width: 100%" height="auto" width="100%" alt="Accenture" src="/images/Relaunch/Partner logos/asus.png">
+							</div></div>
+			<div class="isomer-card-body">
+							<div class="isomer-card-title">Asus</div>
+</div></a>
+	
 <a rel="noopener noreferrer nofollow" href="https://www.emerson.com/en-sg/careers" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="Emerson" src="/images/Relaunch/Partner logos/emerson.png">
