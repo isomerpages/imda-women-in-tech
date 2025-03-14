@@ -23,41 +23,6 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Microsoft Singapore: Leading the Era of AI – Empowering Transformation &amp; Innovation</strong>
-</p>
-<p><strong>Date: </strong>11 March 2025 <strong><br>Time: </strong>1:30pm
-to 5pm</p>
-<p><a href="https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR9oKHid8jeFHvPQwPTR7CKVURVMyT0dYNkQ1TkM4OTIwSDIyTzQ0MDQ3SS4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for the launch of Microsoft Singapore's expanded&nbsp;AI Pinnacle
-Program, which is dedicated to accelerating the transformation of industries
-in Singapore with AI.&nbsp;This exclusive event also commemorates International
-Women’s Day by celebrating the extraordinary achievements of women in technology
-— honouring their role in driving innovation, research, and leadership
-in the age of AI.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Temus: Women’s Tech Comeback 2025 Workshop</strong>
-</p>
-<p><strong>Date:</strong> 11 March 2025
-<br><strong>Time:</strong> 2pm to 5pm</p>
-<p><a href="https://temus.com/event/womens-tech-comeback-workshop/" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join us for a confidence-boosting session designed to equip you with the
-essential skills required to ease your transition back into the workforce!
-Facilitated by Melody Byrd, this hands-on workshop focuses on building
-key capabilities and fostering self-empowerment to help you succeed in
-today’s tech-driven landscape.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>NTUC LearningHub Community Learning Workshop: "Generative AI – Future of Creative"</strong>
 </p>
 <p><strong>Date:</strong> 22 March 2025
@@ -98,6 +63,23 @@ skills for the future.</p>
 journeys. This transformative session focuses on rebuilding self-belief
 through engaging exercises and holistic self-reflection, equipping you
 with the tools to thrive professionally and accelerate your growth.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Visa Beyond Hacking: Navigating the Cybersecurity Landscape</strong>
+</p>
+<p><strong>Date: </strong>27 March 2025
+<br><strong>Time:</strong> 2.30pm to 3.30pm</p>
+<p><a href="https://careers.smartrecruiters.com/Visa/visa-sg-women-in-tech-" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Visa is a proud partner of the Relaunch initiative by SG Women in Tech.
+As part of this initiative, Visa will be hosting the "Beyond Hacking: Navigating
+the Cybersecurity Landscape" webinar. The goal of this webinar is to inspire
+and provide invaluable insights to women looking to start or advance their
+careers in the cybersecurity sector.</p>
 </td>
 </tr>
 <tr>
