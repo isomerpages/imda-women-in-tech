@@ -23,63 +23,20 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>NTUC LearningHub Community Learning Workshop: "Generative AI – Future of Creative"</strong>
+<p><strong>Relaunch with foodpanda - The Power of Continuous Learning and Resilience</strong>
 </p>
-<p><strong>Date:</strong> 22 March 2025
-<br><strong>Time:</strong> 1pm to 4pm</p>
-<p><a href="https://www.ntuclearninghub.com/community-learning-workshop?hsmtsource=lhub" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Join this workshop to gain:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Insights into emerging workforce trends and future-ready skills</p>
-</li>
-<li>
-<p>Practical applications of Generative AI to stay competitive</p>
-</li>
-<li>
-<p>Resources to support your career advancement and lifelong learning</p>
-</li>
-</ul>
-<p>Whether you're exploring new opportunities, planning your next career
-move, or re-entering the tech workforce—including women transitioning back
-into the workforce—this workshop is designed to equip you with valuable
-skills for the future.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Emerson Rediscovering Confidence Workshop</strong>
-</p>
-<p><strong>Date:</strong> 26 March 2025
-<br><strong>Time: </strong>2pm - 5 pm</p>
-<p><a href="https://forms.office.com/r/uUGEpWLtK2?origin=lprLink" rel="noopener nofollow" target="_blank">Register</a>
+<p><strong>Date: </strong>29 April 2025
+<br><strong>Time:</strong> 4pm</p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLScfc2rn_0mlBYPVh2KG_wyUwLMdhopmDiE7x2WdSp9eQDnDgg/viewform" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Join Emerson in this workshop, designed to empower women in their career
-journeys. This transformative session focuses on rebuilding self-belief
-through engaging exercises and holistic self-reflection, equipping you
-with the tools to thrive professionally and accelerate your growth.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Visa Beyond Hacking: Navigating the Cybersecurity Landscape</strong>
-</p>
-<p><strong>Date: </strong>27 March 2025
-<br><strong>Time:</strong> 2.30pm to 3.30pm</p>
-<p><a href="https://careers.smartrecruiters.com/Visa/visa-sg-women-in-tech-" rel="noopener nofollow" target="_blank">Register</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Visa is a proud partner of the Relaunch initiative by SG Women in Tech.
-As part of this initiative, Visa will be hosting the "Beyond Hacking: Navigating
-the Cybersecurity Landscape" webinar. The goal of this webinar is to inspire
-and provide invaluable insights to women looking to start or advance their
-careers in the cybersecurity sector.</p>
+<p>foodpanda is a proud partner of IMDA's Relaunch program and excited to
+invite you to an inspiring and heartwarming session with one of foodpanda
+engineers, Muthu.</p>
+<p></p>
+<p>Join us in this first release of the Relaunch with foodpanda webinar series
+and hear about Muthu's experience and learnings first hand!</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +104,7 @@ engagements. The webinars will provide us a chance to work closely with
 talented women, and hopefully empower and inspire them to re-enter the
 Tech workforce.</p>
 <p>Foodpanda will be hosting Webinar &amp; Workshop series throughout 2025.
-Do keep a lookout for exciting things coming next year with foodpanda!</p>
+Do keep a lookout for exciting things coming this year with foodpanda!</p>
 </td>
 </tr>
 <tr>
