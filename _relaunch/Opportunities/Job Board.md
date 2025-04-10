@@ -56,6 +56,14 @@ third_nav_title: Opportunities
 								<div class="isomer-card-title">Kaspersky</div>
 </div></a>
 	
+<a rel="noopener noreferrer nofollow" href="https://careers.stengg.com/" class="isomer-card">
+			<div class="isomer-card-image"><div class="isomer-image-wrapper">
+								<img style="width: 100%" height="auto" width="100%" alt="STEngg" src="/images/ST_Engineering_Web_Eng_rgb.jpg">
+								</div></div>
+			<div class="isomer-card-body">
+								<div class="isomer-card-title">ST Engineering</div>
+</div></a>	
+	
 <a rel="noopener noreferrer nofollow" href="https://www.tcs.com/careers/singapore/tcs-rebegin-program-for-women-in-singapore" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="Tata Consultancy Services" src="/images/Relaunch/Partner logos/tata.png">
