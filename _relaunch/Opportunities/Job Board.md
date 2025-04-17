@@ -58,7 +58,7 @@ third_nav_title: Opportunities
 	
 <a rel="noopener noreferrer nofollow" href="https://careers.stengg.com/" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
-								<img style="width: 100%" height="auto" width="100%" alt="STEngg" src="/images/ST_Engineering_Web_Eng_rgb.jpg">
+								<img style="width: 100%" height="auto" width="100%" alt="ST Engineering Resized" src="/images/ST_Engineering_Resized.png">
 								</div></div>
 			<div class="isomer-card-body">
 								<div class="isomer-card-title">ST Engineering</div>
