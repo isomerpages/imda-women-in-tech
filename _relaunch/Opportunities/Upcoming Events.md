@@ -23,6 +23,37 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Pause to Power - Showcasing Your Story in Interviews<br><br>Date:</strong>&nbsp;27th
+August 2025</p>
+<p><strong>Time:</strong>&nbsp;2:00 PM - 3:00 PM SGT
+<br><strong>Format:</strong>&nbsp;Virtual (Microsoft Teams)</p>
+<p><a href="https://technology.careersatvisa.com/VisaSGWomenInTech2025" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>A Visa &amp; SG Women in Tech Partnership Event
+<br>Returning to tech after a break? Join us for an empowering session on
+mastering interview success!</p>
+<p></p>
+<p><strong>What you'll gain:<br></strong>• Practical insights from Visa's
+recruiters and hiring managers
+<br>• Technical interview preparation strategies
+<br>• Personalized interview guidance in breakout sessions
+<br>• Networking opportunities with tech leaders
+<br>
+<br><strong>Featured Speakers:<br><br></strong>• Karishma Limaye-Biswas -
+Director, Payment Products Development
+<br>• Zhi Min Ong - Senior Engineering Manager, VAS Issuing Solutions
+<br>
+<br>[Insert attached promo image here]
+<br><strong><br>Registration closes:</strong>&nbsp;22nd August 2025
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Relaunch with foodpanda - The Power of Continuous Learning and Resilience</strong>
 </p>
 <p><strong>Date: </strong>29 April 2025
