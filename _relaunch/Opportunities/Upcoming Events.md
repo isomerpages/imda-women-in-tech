@@ -23,17 +23,18 @@ you.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Pause to Power - Showcasing Your Story in Interviews<br><br></strong>A
-Visa &amp; SG Women in Tech Partnership Event
-<br>Returning to tech after a break? Join us for an empowering session on
-mastering interview success!
-<br><strong><br>Date:</strong>&nbsp;27th August 2025</p>
+<p><strong>Pause to Power - Showcasing Your Story in Interviews<br><br>Date:</strong>&nbsp;27th
+August 2025</p>
 <p><strong>Time:</strong>&nbsp;2:00 PM - 3:00 PM SGT
 <br><strong>Format:</strong>&nbsp;Virtual (Microsoft Teams)</p>
 <p><a href="https://technology.careersatvisa.com/VisaSGWomenInTech2025" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>A Visa &amp; SG Women in Tech Partnership Event
+<br>Returning to tech after a break? Join us for an empowering session on
+mastering interview success!</p>
+<p></p>
 <p><strong>What you'll gain:<br></strong>• Practical insights from Visa's
 recruiters and hiring managers
 <br>• Technical interview preparation strategies
