@@ -45,8 +45,7 @@ recruiters and hiring managers
 Director, Payment Products Development
 <br>• Zhi Min Ong - Senior Engineering Manager, VAS Issuing Solutions
 <br>
-<br>[Insert attached promo image here]
-<br><strong><br>Registration closes:</strong>&nbsp;22nd August 2025
+<br><strong>Registration closes:</strong>&nbsp;22nd August 2025
 <br>
 <br>
 </p>
