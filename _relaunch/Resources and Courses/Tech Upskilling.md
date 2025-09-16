@@ -21,14 +21,14 @@ third_nav_title: Resources and Courses
 <h4>Sign up for our available courses</h4>
 
 <div class="isomer-card-grid">
-	<a rel="noopener noreferrer nofollow" href="https://www.10x1000.org/recruit/mktn" class="isomer-card">
+	<a rel="noopener noreferrer nofollow" href="https://learn.aisingapore.org/" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
-								<img style="width: 100%" height="auto" width="100%" alt="10X1000" src="/images/Relaunch/Partner logos/10x1000.png">
+								<img style="width: 100%" height="auto" width="100%" alt="AISG" src="/images/Relaunch/Partner logos/AISG.png">
 								</div></div>
 				<div class="isomer-card-body">
-								<div class="isomer-card-title">10X1000 Tech for Inclusion</div>
+								<div class="isomer-card-title"> AISG's Courses</div>
 								<div class="isomer-card-description">10x1000 Tech for Inclusion is a global learning platform designed to equip learners with the mindset, knowledge, and skills to thrive in the digital economy. It is supported by Ant International and the International Finance Corporation (IFC).<br><br>
-									<b>Referral Code</b>: imdt4i</div>
+									</div>
 									<div class="isomer-card-link">Sign Up Now</div>
 </div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.10x1000.org/recruit/mkt" class="isomer-card">
