@@ -31,7 +31,7 @@ third_nav_title: Resources and Courses
 									<b>Referral Code</b>: imdt4i</div>
 									<div class="isomer-card-link">Sign Up Now</div>
 </div></a>
-<a rel="noopener noreferrer nofollow" href="https://learn.aisingapore.org/courses/ai-for-everyone-ai4e-v4-0/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.10x1000.org/recruit/mkt" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="10X1000" src="/images/Relaunch/Partner logos/10x1000.png">
 								</div></div>
