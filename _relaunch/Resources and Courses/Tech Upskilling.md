@@ -52,7 +52,7 @@ third_nav_title: Resources and Courses
 								<div class="isomer-card-description"> A full-time apprenticeship programme lasting 6 to 9 months. Applications open in Q4 of each year. There are also knowledge and proficiency nrequirements.<br>
 									<br>
 									</div>
-									<div class="isomer-card-link">Sign Up Now</div>
+									<div class="isomer-card-link">Click for further info</div>
 </div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.10x1000.org/recruit/mkt" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
