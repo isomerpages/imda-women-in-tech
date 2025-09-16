@@ -49,7 +49,7 @@ third_nav_title: Resources and Courses
 								</div></div>
 				<div class="isomer-card-body">
 								<div class="isomer-card-title"> (3) AI Apprenticeship Programme</div>
-								<div class="isomer-card-description"> A full-time apprenticeship programme lasting 6 to 9 months<br>
+								<div class="isomer-card-description"> A full-time apprenticeship programme lasting 6 to 9 months. Applications open in Q4 of each year. There are also knowledge and proficiency nrequirements.<br>
 									<br>
 									</div>
 									<div class="isomer-card-link">Sign Up Now</div>
