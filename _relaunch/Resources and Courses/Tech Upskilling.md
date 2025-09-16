@@ -43,13 +43,13 @@ third_nav_title: Resources and Courses
 									</div>
 									<div class="isomer-card-link">Sign Up Now</div>
 </div></a>
-	<a rel="noopener noreferrer nofollow" href="https://learn.aisingapore.org/courses/ai-for-everyone-ai4e-v4-0/" class="isomer-card">
+	<a rel="noopener noreferrer nofollow" href="https://aiap.sg/apprenticeship/" class="isomer-card">
 			<div class="isomer-card-image"><div class="isomer-image-wrapper">
 								<img style="width: 100%" height="auto" width="100%" alt="AISG" src="/images/Relaunch/Partner logos/AISG.png">
 								</div></div>
 				<div class="isomer-card-body">
-								<div class="isomer-card-title"> AI For Everyone</div>
-								<div class="isomer-card-description"> A 5 h online course for non-technical learners who want to find out more about the AI space. It introduces you to modern AI technologies and applications so that you can be savvy consumers of AI products and services.<br>
+								<div class="isomer-card-title"> (3) AI Apprenticeship Programme</div>
+								<div class="isomer-card-description"> A full-time apprenticeship programme lasting 6 to 9 months<br>
 									<br>
 									</div>
 									<div class="isomer-card-link">Sign Up Now</div>
