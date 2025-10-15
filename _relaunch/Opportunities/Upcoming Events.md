@@ -26,21 +26,18 @@ you.</p>
 <p><strong>Women of Worth Confidence Unlocked: Your Path into Tech</strong>
 </p>
 <p></p>
-<p><strong>Date:</strong>&nbsp;31 October 2025</p>
-<p><strong>Time:</strong>&nbsp;2:00 PM - 6:00 PM SGT
+<br><strong>Date:</strong>&nbsp;31 October 2025<p></p>
+<br><strong>Time:</strong>&nbsp;2:00 PM - 6:00 PM SGT
 <br><strong>Venue:</strong>&nbsp;Accenture Innovation Hub, 250 North Bridge
-Road, Level 35, Raffles City Tower, Singapore 179101</p>
+Road, Level 35, Raffles City Tower, Singapore 179101<p></p>
 <p><a href="https://accntu.re/3Ky4SfT" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>An Accenture &amp; SG Women in Tech Partnership Event</p>
-<p></p>
-<p>Grow your confidence and work-readiness in tech.</p>
-<p></p>
-<p><strong>Highlights</strong>
-</p>
-<ol data-tight="true" class="tight">
+<p><b>An Accenture &amp; SG Women in Tech Partnership Event</b></p><b>
+</b><p><b>Grow your confidence and work-readiness in tech.</b></p>
+<br><strong>Highlights:</strong>
+<br>
 <li>
 <p>Boost your confidence and work-readiness: Refresh your professional headshot
 and attend our 15-minute ‘Confidence Clinics’ on CV writing and essential
@@ -55,7 +52,7 @@ and mentors.</p>
 <p>Connect with industry professionals: Spark meaningful conversations with
 leaders in tech with our ‘networking bingo’ game in the WoW Circuit.</p>
 </li>
-</ol>
+
 <p></p>
 </td>
 </tr>
