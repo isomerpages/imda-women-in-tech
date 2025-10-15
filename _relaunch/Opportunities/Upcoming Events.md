@@ -1,7 +1,7 @@
 ---
 title: Upcoming Events
 permalink: /opportunities/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: Opportunities
 ---
@@ -21,6 +21,41 @@ you.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Women of Worth Confidence Unlocked: Your Path into Tech</strong>
+</p>
+<p></p>
+<br><strong>Date:</strong>&nbsp;31 October 2025<p></p>
+<br><strong>Time:</strong>&nbsp;2:00 PM - 6:00 PM SGT
+<br><strong>Venue:</strong>&nbsp;Accenture Innovation Hub, 250 North Bridge
+Road, Level 35, Raffles City Tower, Singapore 179101<p></p>
+<p><a href="https://accntu.re/3Ky4SfT" rel="noopener nofollow" target="_blank">Register</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><b>An Accenture &amp; SG Women in Tech Partnership Event</b></p><b>
+</b><p><b>Grow your confidence and work-readiness in tech.</b></p>
+<br><strong>Highlights:</strong>
+<br>
+<li>
+<p>Boost your confidence and work-readiness: Refresh your professional headshot
+and attend our 15-minute ‘Confidence Clinics’ on CV writing and essential
+skills needed to make a lasting impression in any professional setting.</p>
+</li>
+<li>
+<p>Build your personal brand: Leave our short masterclass by LinkedIn with
+tips on how to optimise your LinkedIn profile to attract potential recruiters
+and mentors.</p>
+</li>
+<li>
+<p>Connect with industry professionals: Spark meaningful conversations with
+leaders in tech with our ‘networking bingo’ game in the WoW Circuit.</p>
+</li>
+
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Pause to Power - Showcasing Your Story in Interviews<br><br>Date:</strong>&nbsp;27th
