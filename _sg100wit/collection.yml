@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - SG100WIT.md
+      - SG100WIT 2025.md
       - SG100WIT 2023.md
       - SG100WIT 2021.md
       - SG100WIT 2020.md

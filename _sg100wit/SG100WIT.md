@@ -1,7 +1,7 @@
 ---
 title: SG100WIT
 permalink: /sg100wit/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <div class="iframe-wrapper">
