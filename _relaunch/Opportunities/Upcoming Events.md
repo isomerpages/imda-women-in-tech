@@ -1,7 +1,7 @@
 ---
 title: Upcoming Events
 permalink: /opportunities/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Opportunities
 ---
@@ -14,7 +14,16 @@ the tech workforce. Our partners are eager to hire diverse talent and are
 committed to helping you transition smoothly back to work. We welcome you
 to join us for events that have been specially curated and designed for
 you.</p>
-<hr>
+<h4><strong>Upcoming Event</strong></h4>
+<p>Join us at our <strong>inaugural AI Networking Event with AISG on 30 March 2026</strong>,
+designed to give participants a snapshot of a day in the life of an AI
+engineer, perspectives on juggling the demands of an AI career as a working
+mother and the value of career breaks. Register here now: <a href="https://go.gov.sg/ai-networking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ai-networking</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Empowering Women in AI Careers" src="/images/SGWIT_AISG.png">
+</div>
+<h4><strong>Past Events</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -26,18 +35,27 @@ you.</p>
 <p><strong>Women of Worth Confidence Unlocked: Your Path into Tech</strong>
 </p>
 <p></p>
-<br><strong>Date:</strong>&nbsp;31 October 2025<p></p>
+<p>
+<br><strong>Date:</strong>&nbsp;31 October 2025</p>
+<p></p>
+<p>
 <br><strong>Time:</strong>&nbsp;2:00 PM - 6:00 PM SGT
 <br><strong>Venue:</strong>&nbsp;Accenture Innovation Hub, 250 North Bridge
-Road, Level 35, Raffles City Tower, Singapore 179101<p></p>
+Road, Level 35, Raffles City Tower, Singapore 179101</p>
+<p></p>
 <p><a href="https://accntu.re/3Ky4SfT" rel="noopener nofollow" target="_blank">Register</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><b>An Accenture &amp; SG Women in Tech Partnership Event</b></p><b>
-</b><p><b>Grow your confidence and work-readiness in tech.</b></p>
+<p><strong>An Accenture &amp; SG Women in Tech Partnership Event</strong>
+</p>
+<p><strong>Grow your confidence and work-readiness in tech.</strong>
+</p>
+<p>
 <br><strong>Highlights:</strong>
 <br>
+</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Boost your confidence and work-readiness: Refresh your professional headshot
 and attend our 15-minute ‘Confidence Clinics’ on CV writing and essential
@@ -52,7 +70,7 @@ and mentors.</p>
 <p>Connect with industry professionals: Spark meaningful conversations with
 leaders in tech with our ‘networking bingo’ game in the WoW Circuit.</p>
 </li>
-
+</ul>
 <p></p>
 </td>
 </tr>
