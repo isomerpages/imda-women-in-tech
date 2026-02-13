@@ -20,8 +20,9 @@ designed to give participants a snapshot of a day in the life of an AI
 engineer, perspectives on juggling the demands of an AI career as a working
 mother and the value of career breaks. Register here now: <a href="https://go.gov.sg/ai-networking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ai-networking</a>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Empowering Women in AI Careers" src="/images/SGWIT_AISG.png">
+<img style="width: 75%;" height="auto" width="100%" alt="Empowering women in AI craeers" src="/images/SGWIT_AISG.png">
 </div>
 <h4><strong>Past Events</strong></h4>
 <table style="minWidth: 50px">
