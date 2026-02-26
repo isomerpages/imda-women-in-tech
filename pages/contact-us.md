@@ -6,7 +6,7 @@ agency_name: SG WIT
 contacts:
   - content:
       - phone: +65 6377 3800
-      - email: info@imda.gov.sg
+      - email: ""
       - other: ""
     title: General Enquiries
   - content:
@@ -15,7 +15,7 @@ contacts:
       - other: <a href="https://www.linkedin.com/company/sgwomenintech/">SGWIT
           Linkedin</a>
     title: Follow Our LinkedIn Page
-feedback: https://form.gov.sg/6180e1fe171cda0012c5a09b
+feedback: https://form.gov.sg/67cfdcbda85399bf2bcc1954
 locations:
   - address:
       - 10 Pasir Panjang Road
