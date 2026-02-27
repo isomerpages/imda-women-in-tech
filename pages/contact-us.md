@@ -5,6 +5,11 @@ permalink: /contact-us/
 agency_name: SG WIT
 contacts:
   - content:
+      - phone: +65 6377 3800
+      - email: ""
+      - other: ""
+    title: General Enquiries
+  - content:
       - phone: ""
       - email: ""
       - other: <a href="https://www.linkedin.com/company/sgwomenintech/">SGWIT
