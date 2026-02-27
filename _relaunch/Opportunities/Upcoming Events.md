@@ -18,9 +18,10 @@ you.</p>
 <p>Join us at our <strong>inaugural AI Networking Event with AISG on 30 March 2026</strong>,
 designed to give participants a snapshot of a day in the life of an AI
 engineer, perspectives on juggling the demands of an AI career as a working
-mother and the value of career breaks. Register here now: <a href="https://go.gov.sg/ai-networking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ai-networking</a>
+mother and the value of career breaks. Register here now: <a href="https://go.gov.sg/ai-networking" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ai-networking.Registrations</a>
 </p>
-<p></p>
+<p>Registrations close on 15 March or when we reach full capacity, whichever
+is earlier.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="Empowering women in AI craeers" src="/images/SGWIT_AISG.png">
 </div>
